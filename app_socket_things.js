@@ -4,16 +4,17 @@ const fs = require('fs');
 const result_Path = "GEOJSON_file/result/";
 const Tile_Path   = 'GEOJSON_file/result/TILE_file/';
 
-file_names = fs.readdirSync(result_Path);
-const GeoJSON_fileNames = file_names.filter(GEOfileName => GEOfileName.endsWith('.geojson'));
-const TILE_fileNames    = file_names.filter(GEOfileName => GEOfileName.endsWith('TILE'));
+file_names_1 = fs.readdirSync(result_Path);
+file_names_2 = fs.readdirSync(Tile_Path);
+const GeoJSON_fileNames = file_names_1.filter(GEOfileName => GEOfileName.endsWith('.geojson'));
+const TILE_fileNames    = file_names_2.filter(GEOfileName => GEOfileName.endsWith('TILE'));
 console.log("ServerSide GeoJSON_fileNames", GeoJSON_fileNames)
 console.log("ServerSide TILE_fileNames", TILE_fileNames)
 
 // dates
 const dates = []
 GeoJSON_fileNames.forEach( function (fileName_fordates) {
-    // 提取日期部分（從位置17到25）, fileName的長相: S1A_IW_GRDH_1SDV_20230719T100133_20230719T100158_049491_05F383_61E2_exp7
+    // 提取日期部分（從位置0到8）, fileName的長相: 20231118_AIS
     if (fileName_fordates.toLowerCase().endsWith(".geojson") && fileName_fordates.startsWith("20")) {
     var yearpart   = fileName_fordates.substring(0, 4);
     var monthpart  = fileName_fordates.substring(4, 6);

@@ -1,3 +1,4 @@
 *.tiff
 *.tif
 node_modules
+GEOJSON_file/result/TILE_file/*
