@@ -8,6 +8,7 @@ file_names_1 = fs.readdirSync(result_Path);
 file_names_2 = fs.readdirSync(Tile_Path);
 const GeoJSON_fileNames = file_names_1.filter(GEOfileName => GEOfileName.endsWith('.geojson'));
 const TILE_fileNames    = file_names_2.filter(GEOfileName => GEOfileName.endsWith('TILE'));
+
 console.log("ServerSide GeoJSON_fileNames", GeoJSON_fileNames)
 console.log("ServerSide TILE_fileNames", TILE_fileNames)
 
