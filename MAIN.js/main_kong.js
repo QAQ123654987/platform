@@ -134,7 +134,6 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
                     onEachFeature: function (feature, layer) {
                         // 得到的 每筆 feature 和 layer 要 做什麼寫這裡
                         var temp_polygon = L.polygon(feature.geometry.coordinates);
-                        // point 是 先丟y再丟x, 跟 polygon相反！ 所以先把 point1,2 的 x, y 抓出來, 再正確的用 y, x 來建立 marker
                         return temp_polygon;
                     }
                 });
@@ -412,7 +411,137 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
     });
     var control3 = new L.Control.KongButtons()
     control3.addTo(map);
+
+    
+    // 創建 潮間帶 按鈕
+    // 讀取geoJson: 潮間帶地形 Coastal
+    coastal_layer = L.layerGroup()
+    $.getJSON("GEOJSON_file/coastal/file/Coastal/Coastal_4326.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+        // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
+        // console.log("data", data)  // 確定是 polygon
+        var geoJSON_layer = L.geoJSON(data, {          
+            // onEachFeature, 特點是 會把 data裡面的 每筆feature 和 layer return 給 user使用, 這裡 layer用不到 只有用到 feature這樣子喔～  
+            onEachFeature: function (feature, layer) {
+                // 得到的 每筆 feature 和 layer 要 做什麼寫這裡
+                var temp_polygon = L.polygon(feature.geometry.coordinates);
+                return temp_polygon;
+            }
+            
+        });
+        geoJSON_layer.addTo(coastal_layer);
+
+    });
+    // console.log("coastal_layer", coastal_layer);
+    // coastal_layer.addTo(map);
+
+    // 讀取geoJson: 潮間帶地形(公告) Tide_post
+    tide_post_layer = L.layerGroup()
+    $.getJSON("GEOJSON_file/coastal/file/Tide_post_4326/Tide_post_4326.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+        // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
+        // console.log("data", data)  // 確定是 polygon
+        var geoJSON_layer = L.geoJSON(data, {          
+            // onEachFeature, 特點是 會把 data裡面的 每筆feature 和 layer return 給 user使用, 這裡 layer用不到 只有用到 feature這樣子喔～  
+            onEachFeature: function (feature, layer) {
+                // 得到的 每筆 feature 和 layer 要 做什麼寫這裡
+                var temp_polygon = L.polygon(feature.geometry.coordinates);
+                return temp_polygon;
+            }
+            
+        });
+        geoJSON_layer.addTo(tide_post_layer);
+
+    });
+    // console.log("tide_post_layer", tide_post_layer);
+    // tide_post_layer.addTo(map);
+
+    // 讀取geoJson: 潮間帶地形(試辦) Tide_test
+    tide_test_layer = L.layerGroup()
+    $.getJSON("GEOJSON_file/coastal/file/Tide_test_4326/Tide_test_4326.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+        // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
+        // console.log("data", data)  // 確定是 polygon
+        var geoJSON_layer = L.geoJSON(data, {          
+            // onEachFeature, 特點是 會把 data裡面的 每筆feature 和 layer return 給 user使用, 這裡 layer用不到 只有用到 feature這樣子喔～  
+            onEachFeature: function (feature, layer) {
+                // 得到的 每筆 feature 和 layer 要 做什麼寫這裡
+                var temp_polygon = L.polygon(feature.geometry.coordinates);
+                return temp_polygon;
+            }
+            
+        });
+        geoJSON_layer.addTo(tide_test_layer);
+
+    });
+    // console.log("tide_test_layer", tide_test_layer);
+    // tide_test_layer.addTo(map);
+
+    L.Control.KongButtons2 = L.Control.extend({
+        options: {
+            position: 'topright',
+        },
+
+        onAdd: function (map) {
+            var container = L.DomUtil.create('div', 'leaflet-control-layers leaflet-control leaflet-control-layers-expanded');
+            var container = L.DomUtil.create('div', 'leaflet-control-layers leaflet-control leaflet-control-layers-expanded');
+            // var container = L.DomUtil.create('div'    , 'leaflet-control-layers leaflet-control leaflet-control-layers');
+            container.setAttribute('aria-haspopup', true);
+
+            var a_tag   = L.DomUtil.create("a", "leaflet-control-layers-toggle", container); // leaflet-control-layers-toggle 會有 圖層 的icon 自動產生
+            a_tag.href  = "#";  // 為了讓 button 滑鼠過去 會變小手手 會有可以按的感覺
+            a_tag.title = "Layers";
+            a_tag.role  = "button";
+            var section = L.DomUtil.create("section", "leaflet-control-layers-list", container)
+
+            // ###################################################################################################
+            var layerover = L.DomUtil.create("div", "leaflet-control-layers-overlays", section)
+
+            var coastal_label     = L.DomUtil.create("label", "",   layerover  )
+            var coastal_span      = L.DomUtil.create("span" , "",   coastal_label )
+            var coastal_check     = L.DomUtil.create('input', 'leaflet-control-layers-selector', coastal_span) ; coastal_check.type  = "checkbox";
+            var coastal_span      = L.DomUtil.create('span' , '',   coastal_span  ); coastal_span.innerHTML  = "潮間帶地形";
+
+            var tide_post_label      = L.DomUtil.create("label", "",   layerover  )
+            var tide_post_span       = L.DomUtil.create("span" , "",   tide_post_label  )
+            var tide_post_check      = L.DomUtil.create('input', 'leaflet-control-layers-selector', tide_post_span)  ; tide_post_check.type   = "checkbox";
+            var tide_post_span       = L.DomUtil.create('span' , '',   tide_post_span   ); tide_post_span.innerHTML   = "潮間帶範圍(公告)";
+
+            var tide_test_label    = L.DomUtil.create("label", "",   layerover  )
+            var tide_test_span     = L.DomUtil.create("span" , "",   tide_test_label)
+            var tide_test_check    = L.DomUtil.create('input', 'leaflet-control-layers-selector', tide_test_span); tide_test_check.type = "checkbox";
+            var tide_test_span     = L.DomUtil.create('span' , '',   tide_test_span ); tide_test_span.innerHTML = "潮間帶範圍(試辦)";
+
+            // 給 checkbox  用的， 檢查 打勾狀態 做 相對應的事情
+            var check_status_of_select_and_checkbox_then_do_things = function () {
+
+                // 如果 船隻 checkbok 打勾/沒打勾 要做的事情
+                if (coastal_check.checked)  { coastal_layer.addTo(map);}
+                else                        { map.removeLayer(coastal_layer);}
+                
+                // // 如果 船隻ais checkbok 打勾/沒打勾 要做的事情
+                if (tide_post_check.checked)  { tide_post_layer.addTo(map);}
+                else                          { map.removeLayer(tide_post_layer);}
+                
+                if (tide_test_check.checked)  { tide_test_layer.addTo(map);}
+                else                          { map.removeLayer(tide_test_layer);}
+            }
+
+            // 參考 https://stackoverflow.com/questions/64046196/i%C2%B4m-stucked-creating-a-new-leaflet-custom-control
+            L.DomEvent.on(coastal_check   , 'click' , check_status_of_select_and_checkbox_then_do_things);
+            L.DomEvent.on(tide_post_check , 'click' , check_status_of_select_and_checkbox_then_do_things);
+            L.DomEvent.on(tide_test_check , 'click' , check_status_of_select_and_checkbox_then_do_things);
+            // L.DomEvent.on(container, 'click', checkfunction);
+            // 參考 leaflet官網上下載下來的javascript：https://leafletjs.com/download.html，用 ctrl+f 搜 stopPropagation
+            L.DomEvent.on(container      , 'mousedown touchstart dblclick contextmenu', L.DomEvent.stopPropagation);
+            L.DomEvent.on(container      , 'wheel' , L.DomEvent.stopPropagation);
+
+            return container;
+        },
+        onRemove: function (map) { },
         
+    });
+    var control4 = new L.Control.KongButtons2()
+    control4.addTo(map);
+
+
     // ###################################################################################################
     // slider小工具, 用來控制 Cluster的群聚半徑
     L.control.slider(
