@@ -1,0 +1,22 @@
+img
+　　GIS_image_data
+　　　　　　　　　hot_point　   十三處浸淤熱點(104-106年)      pdf
+　　　　　　　　　city_RGB　    歷史衛星影像-縣市(1970-2016年) jpg
+　　　　　　　　　district_RGB  歷史衛星影像-鄉鎮(1970-2016年) jpg
+
+file
+     Coastal  　海岸地區範圍GIS數值檔 shp等檔案
+     Tide_post　潮間帶(公告)　　　　　shp等檔案
+     Tide_test　潮間帶(試辦)　　　　　shp等檔案
+
+tile UAS正射影像
+
+JSON_data
+　　　　　GeoJSON　City_position　   海岸帶地形
+　　　　　       　Protection　　    潛在保護區
+　                 Coastal_Resources 海岸資源
+　                 Beach_Resources   海水浴場
+　                 Port_Resources    港口
+　                 Wetland_Resources 濕地資源
+
+
