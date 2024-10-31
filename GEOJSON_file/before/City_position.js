@@ -1,0 +1,230 @@
+var City_position =
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.661814,
+                25.212596
+            ]
+        },
+        "properties": {
+            "Name": "新北市",
+            "Name_E": "Taipei"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.253289,
+                22.662277
+            ]
+        },
+        "properties": {
+            "Name": "高雄市",
+            "Name_E": "Kaohsiung"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.551293,
+                24.323039
+            ]
+        },
+        "properties": {
+            "Name": "臺中市",
+            "Name_E": "Taichung"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.107199,
+                25.065696
+            ]
+        },
+        "properties": {
+            "Name": "桃園縣",
+            "Name_E": "Taoyuan"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.072378,
+                23.119171
+            ]
+        },
+        "properties": {
+            "Name": "台南市",
+            "Name_E": "Tainan"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.359827,
+                24.020477
+            ]
+        },
+        "properties": {
+            "Name": "彰化縣",
+            "Name_E": "Changhua"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.702549,
+                21.993264
+            ]
+        },
+        "properties": {
+            "Name": "屏東縣",
+            "Name_E": "Pingtung"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.164293,
+                23.692206
+            ]
+        },
+        "properties": {
+            "Name": "雲林縣",
+            "Name_E": "Yunlin"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.762755,
+                24.61656
+            ]
+        },
+        "properties": {
+            "Name": "苗栗縣",
+            "Name_E": "Miaoli"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.143474,
+                23.431856
+            ]
+        },
+        "properties": {
+            "Name": "嘉義縣",
+            "Name_E": "Chiayi"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.922272,
+                24.84496
+            ]
+        },
+        "properties": {
+            "Name": "新竹縣",
+            "Name_E": "Hsinchu"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.846611,
+                24.644463
+            ]
+        },
+        "properties": {
+            "Name": "宜蘭縣",
+            "Name_E": "Yilan"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.601511,
+                23.900587
+            ]
+        },
+        "properties": {
+            "Name": "花蓮縣",
+            "Name_E": "Hualien"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.189367,
+                22.838978
+            ]
+        },
+        "properties": {
+            "Name": "臺東縣",
+            "Name_E": "Taitung"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.6151,
+                23.56548
+            ]
+        },
+        "properties": {
+            "Name": "澎湖縣",
+            "Name_E": "Penghu"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.7476,
+                25.1384
+            ]
+        },
+        "properties": {
+            "Name": "基隆市",
+            "Name_E": "Keelung"
+        }
+    }
+]
+}

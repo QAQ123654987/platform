@@ -1,0 +1,1295 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.9501,
+                24.842641
+            ]
+        },
+        "properties": {
+            "Name": "Guishan Island",
+            "place_names": "龜山島",
+            "remaker": "位於宜蘭東方約 10 餘公里之海域，為孤懸於海中之火山島嶼，外 貌酷似浮龜而得名，屬宜蘭縣頭城鎮所轄。除龜尾和北岸為礫石灘外， 其他海岸多為崩落堆積而成的崖錐、峭壁和海蝕洞。龜山島的珊瑚礁位 在龜尾東北岸，分布水深大約從岸邊 1 公尺以下到 6 公尺左右，分布寬 度約 150 公尺左右，擁有種類繁多的無脊椎動物和珊瑚礁魚類在此棲息。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.806667,
+                24.834722
+            ]
+        },
+        "properties": {
+            "Name": "Jhuan Wetland",
+            "place_names": "竹安濕地",
+            "remaker": "位於頭城鎮與礁溪鄉交界處，曾為蘭陽平原最大的沼澤區。竹 安濕地是匯集頭城河、福德溪、金面溪、得子口溪等溪流，於河口因沙 丘阻滯溪水所形成的後背濕地，後又因下埔地區的養殖業快速興盛後，卻因病害污染及經濟因素而快速衰微，被廢棄的魚塭因富含生物資源，而成為宜蘭地區的水鳥重要集散地，每年 10 月起的雁鴨度冬季節，雁鴨群陸續飛到此地棲息覓食。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.798611,
+                24.716389
+            ]
+        },
+        "properties": {
+            "Name": "Lanyang Estuary Wetland",
+            "place_names": "蘭陽溪口濕地",
+            "remaker": "位於壯圍鄉與五結鄉交界處，已納入「蘭陽溪口水鳥保護區」（85 年 9 月 16 日成立），面積 206 公頃。國際自然資源保育聯盟（IUCN〉亞洲濕地調查所也將此地列為臺灣 12 大濕地之一，歷年來共記錄到鳥類236 種。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.857102,
+                24.625425
+            ]
+        },
+        "properties": {
+            "Name": "Wuwei Harbor Wetland",
+            "place_names": "無尾港濕地",
+            "remaker": "位於宜蘭縣蘇澳鎮，是由舊河口演變成的沼澤濕地。本地位 在秋冬季候鳥過境的必經路線上，加上濕地特有的豐富水生動植物資 源，提供了鳥類食物來源，因此成為臺灣主要雁鴨度冬區之一。農委會 於 75 年 11 月 28 日成立「宜蘭縣無尾港水鳥保護區」，面積 101.63 公頃。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.85859,
+                24.481428
+            ]
+        },
+        "properties": {
+            "Name": "Wushibi",
+            "place_names": "烏石鼻",
+            "remaker": "蘇花海岸最壯觀的岬角，西臨太平洋處為陡峭的山崖，下方是 由崩落的碎石組成的岩岸，長期經強風、海水侵蝕，形成特殊的海蝕地 形；上方離海平面較遠處為茂密的森林，由不同的植物相組成；由於本 區為一特殊的海岬地形景觀，亟需保護，農委會於 83 年 1 月 10 日公告 「烏石鼻海岸自然保留區」，面積 347 公頃。另農委會於 89 年 10 月 19 日公告「觀音海岸野生動物重要棲息環境」，本區位在南澳，谷風間東 向陡坡面，南北全長約 8.5 公里，約自海岸山-南山間嶺線至海濱，面積 有 519 公頃，因地勢陡峭開發不易，所以保有較原始的棲地。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.727053,
+                25.163241
+            ]
+        },
+        "properties": {
+            "Name": "Waimushan Coastal",
+            "place_names": "外木山海岸",
+            "remaker": "基隆市轄區僅存最長的天然海岸，一側為開闊的海岸景 觀，一側為高聳的單面山懸崖，景色壯麗。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.768055,
+                25.158056
+            ]
+        },
+        "properties": {
+            "Name": "Peace Island",
+            "place_names": "和平島",
+            "remaker": "基隆市中正區，位於基隆港東北側，距基隆市約 4 公里，因 公路與橋梁的修築，早已和臺灣本島連接；由於海岸出露的地層特性與 受強勁東北季風吹襲以及海浪拍打侵蝕等影響，造就和平島多奇岩怪石 的天然景觀。位於和平島最北端的和平島公園，園區內以多樣的海蝕地 形景觀著稱，包括濱台（海蝕平台、波蝕棚）、豆腐岩、海蝕溝、海蝕 崖、風化窗、海蝕洞、蕈狀岩等，已納入北海岸及觀音山國家風景特定 區管理。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.919683,
+                25.127813
+            ]
+        },
+        "properties": {
+            "Name": "Bitoujiiao",
+            "place_names": "鼻頭角",
+            "remaker": "鼻頭角為東北角海岸突出海面的一個岬角，該岬角正好是東 西向海岸及南北向海岸的交點。鼻頭角南側海蝕崖下方的海蝕凹壁非 常典型。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.893834,
+                25.119928
+            ]
+        },
+        "properties": {
+            "Name": "Nanya Coastal",
+            "place_names": "南雅海岸",
+            "remaker": "鄰近海岸多屬於砂、頁岩互層，形成差異風化、侵蝕地形。 因強勁東北季風及岩石內的含鐵礦物氧化，形成美麗的「霜淇淋岩」。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.92325,
+                25.103984
+            ]
+        },
+        "properties": {
+            "Name": "Longdong Cape",
+            "place_names": "龍洞岬",
+            "remaker": "以龍洞灣與鼻頭角相隔，岬頭出露的四稜砂岩，為東北角海 岸出露的最老地層，色澤淺白且抗蝕力高，形成陡峭壯麗的海崖景觀； 岬灣海床的底質堅硬，多有珊瑚礁分布。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                122.003588,
+                25.008975
+            ]
+        },
+        "properties": {
+            "Name": "Sandiaojiao",
+            "place_names": "三貂角",
+            "remaker": "是臺灣本島最東點，亦為雪山山脈的最北端。該處岩層主要 以細粒石英質砂岩間夾黑色頁岩的「媽崗砂岩」。卯澳至三貂角海域， 是本段海岸珊瑚種類最多、豐富度最高的地區。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.928171,
+                25.041494
+            ]
+        },
+        "properties": {
+            "Name": "Fulong",
+            "place_names": "福隆",
+            "remaker": "位於雙溪河口入海處，因近岸流與河水共同作用堆積出沙嘴地 形，形成內河與外海，目前為福隆海水浴場所在地"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.511973,
+                25.287031
+            ]
+        },
+        "properties": {
+            "Name": "Linshanbi",
+            "place_names": "麟山鼻",
+            "remaker": "麟山鼻係北部海岸地形的分界，麟山鼻以西主要是沙（砂） 岸，以東是則以岩岸為主。麟山鼻岬角是 80 萬年前大屯火山爆發，熔 岩流經此處所形成，地層以安山岩為主。崩解的安山岩經過長年風蝕 作用，形成北海岸獨特的風稜石，麟山鼻與富貴角間有長約 1 公里的 半月形海灣，即白沙灣。北海岸沿海保護區內有藻礁分布，是潮間帶 生物的重要棲息地。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.536557,
+                25.299239
+            ]
+        },
+        "properties": {
+            "Name": "Fuguijiao",
+            "place_names": "富貴角",
+            "remaker": "富貴角為臺灣最北端，係由第 4 紀大屯火山群竹子火山熔岩 流入海中所形成。區內最具特色的地質地形景觀為風稜石，不論在數 量或規模上都相當可觀，堪稱臺灣首屈一指。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.638583,
+                25.225165
+            ]
+        },
+        "properties": {
+            "Name": "Jinshan",
+            "place_names": "金山",
+            "remaker": "位於金山（北）磺溪河口平原東側，因堅硬五指山層砂岩 突出地表，形成孤立延伸入海的岬角，又稱磺港半島，過去為軍事管 制區，故仍保有原始自然生態景觀。燭台雙嶼佇立在金山岬外海約 450公尺處，高約 60 公尺，是經長年波浪侵蝕而形成的海蝕柱。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.691203,
+                25.206944
+            ]
+        },
+        "properties": {
+            "Name": "Yehliu ",
+            "place_names": "野柳",
+            "remaker": "野柳為突出於海岸的狹長海岬，風化與侵蝕作用明顯，區內蕈 狀石、燭台石、薑石、壺穴、棋盤石、海蝕洞等，皆為獨特地形景觀 資源。野柳岬往陸地側之淺水海域一帶為岩質海底，其亞潮帶內大型 無脊椎動物以固著性之造礁珊瑚為主，主要之珊瑚種類有綠石珊瑚、 花菜珊瑚、板片狀珊瑚、指狀珊瑚等"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.414305,
+                25.167748
+            ]
+        },
+        "properties": {
+            "Name": "Waziwei",
+            "place_names": "挖子尾紅樹林",
+            "remaker": "挖子尾位於淡水河口南岸，河流挾帶的泥沙及有機物， 在沙嘴內側形成一片沼澤地，為典型的河口生態系。為保存水筆仔紅 樹林及其伴生動、植物所形成的生態系，避免受到人為干擾，農委會 於 83 年 1 月將該區公告為「挖子尾自然保留區」。本區之水筆仔純林 與竹圍紅樹林為全世界水筆仔分布最北界，且面積最大的一塊。在保 護區內，常見彈塗魚、蟹類及上百種鳥類，當海水退潮時，紅樹林間 的流道成了小白鷺等鳥類之覓食場所。本區設有木棧道，可提供民眾 完整觀察水筆仔的生長生態。另臺北港東側泥質灘地，為東方環頸鴴 繁殖棲地。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.458744,
+                25.154711
+            ]
+        },
+        "properties": {
+            "Name": "Zhuwei Hongshulin",
+            "place_names": "竹圍紅樹林",
+            "remaker": "在地形上屬河口潮間帶泥質灘地，水筆仔灌叢佔全區 50 ％左右，為此區主要樹種。水筆仔植株高度差異頗大，從 0.6 至 5 公 尺都有。農委會於 75 年 6 月將該區公告為「淡水河紅樹林自然保留 區」。由於受到妥善保護，本區成為臺灣地區面積最大，且較完整的 水筆仔純林。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.470427,
+                25.118768
+            ]
+        },
+        "properties": {
+            "Name": "Guandu Wetland",
+            "place_names": "關渡濕地",
+            "remaker": "屬河口濕地，原為大面積的泥質灘地，複雜的生態系統同時吸 引各類型的候鳥在此聚集，是國際知名的候鳥遷移重站，為臺灣北部 地區一處非常重要的賞鳥區。但近數十年來，紅樹林不斷擴張，已使 潮間帶生態系轉變為海岸林生態系。農委會於 75 年 6 月將該區公告為 「關渡自然保留區」。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.790335,
+                24.452864
+            ]
+        },
+        "properties": {
+            "Name": "Guanyin Coastal",
+            "place_names": "觀音海岸",
+            "remaker": "有一片長約 5 公里、寬約 500 公尺、高約 4 公尺的藻礁地形， 是目前國內發現面積最大的藻礁，其中從觀音區小飯壢溪到新屋溪，是最完 整、生長最好的一段。因為藻礁係由紅藻、綠藻等石灰藻類經由膠結及鈣化 作用，沉積碳酸鈣所形成，因生長速度緩慢，1 年只長 0.1 至 0.2 公分，依估 計觀音海岸的藻礁，至少要經歷 2 千年以上方能長成現今規模。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.967092,
+                24.909301
+            ]
+        },
+        "properties": {
+            "Name": "Xinfeng Bayou",
+            "place_names": "新豐溪河口",
+            "remaker": "北岸除了海茄苳，還有零星的水筆仔混生；河口南岸濕地的 優勢植物是水筆仔紅樹林，另還有完整的木麻黃、黃槿保安林綠帶和朴樹群， 適合動物棲息。紅毛港紅樹林，面積約有 10 公頃，主要植生物種為海茄苳與 水筆仔混生林。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.899898,
+                24.785154
+            ]
+        },
+        "properties": {
+            "Name": "Siangshan Wetland",
+            "place_names": "香山濕地",
+            "remaker": "客雅溪口至鹽港溪口的沿海地區，退潮時出現寬約 2 公里，長達 13 公里 的潮埔地，即為香山濕地。香山濕地招潮蟹超過 40 種，數量推估達 4 億隻。 另外，客雅溪口及三姓溪口附近泥灘地，面積約有 20 公頃的紅樹林，香山濕 地亦約有 20 公頃紅樹林生長。香山濕地沿海同時是重要漁場，客雅溪口的西 北海域是法定的魚礁保護區；南岸的潮間帶地形平緩，有不少魚苗、蟹苗生 長，為臺灣重要的沿岸漁業區之一。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.919314,
+                24.640508
+            ]
+        },
+        "properties": {
+            "Name": "Zhonggang Creek",
+            "place_names": "中港溪",
+            "remaker": "北岸之射流溝及五福大橋附近，有水筆仔純林分布，面積約 4.5 公頃；堤防沿線泥質灘地，有零星分布之紅樹林，除水筆仔外，還有少數海茄苳及欖李，面積約有 0.5 公頃。另外沿海沙丘上有完整的木麻黃、黃槿等保安林帶，適合動物棲息。中港溪南岸，沙丘地形較為發達。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.566121,
+                24.325291
+            ]
+        },
+        "properties": {
+            "Name": "Dajia Bayou",
+            "place_names": "大甲溪口",
+            "remaker": "有稀有單子葉植物在低海拔的物種，如雲林莞草（扁稈藨草）、 甘藻。此外，大安水蓑衣為臺灣特有種的珍貴稀有植物，目前只零星分布於 大安區、清水區及龍井區的濱海水澤濕地，數量相當稀少，值得保護與復育。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.543889,
+                24.323056
+            ]
+        },
+        "properties": {
+            "Name": "Gaomei Wetland",
+            "place_names": "高美濕地",
+            "remaker": "位於大甲溪以南，擁有豐富的天然資源，更是國內少數幾個雁 鴨集體度冬區之一，加上有機質豐富，招潮蟹、彈塗魚、沙蟹和貝類繁衍昌 盛。維管束植物種類眾多，已發現有 27 科 105 種，除提供動物棲所和食物外， 也擔負國土保安、水土保持的重大責任，在這些植物中，最特殊的要算是稀 有的雲林莞草（全臺面積最大的生長區，約 5 公頃），這種植物只有在日本、 中國大陸及本省西部沿海的河海潮間帶才看得到，同時也營造水鳥賴以為生 的重要棲息環境。根據歷年來的各類研究，本區鳥類已記錄 55 科 155 種，其 中保育類有 12 種，由於潮間帶食物來源眾多，故鷸鴴、雁鴨科鳥類種類和數 量龐大。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.479878,
+                24.208511
+            ]
+        },
+        "properties": {
+            "Name": "Dadu Bayou wildlife sanctuary",
+            "place_names": "大肚溪口野生動物保護區",
+            "remaker": "大肚溪（烏溪）是臺灣主要河川之一，出海口坡度平緩，大肚溪口野生 動物保護區面積約 2,700 公頃，擁有寬達 4 公里左右的潮間帶和高生產力的河 口生態環境，由外而內包括了海域、潮間帶、河流、沙洲、新生地、耕作地、 魚塭等。蘊含豐富的潮汐生物，為臺灣地區海岸重要濕地之一。動物資源豐 富，為每年秋冬季候鳥遷徙必經之地，調查資料顯示：鳥類的種類、族群數 量及密度均高，已成為臺灣最大的水鳥棲地之一，並列名世界保育聯盟的亞洲最重要濕地之一。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.318441,
+                23.935435
+            ]
+        },
+        "properties": {
+            "Name": "Erlin Bayou",
+            "place_names": "二林溪口",
+            "remaker": "已出現新的紅樹林生育區，面積約 有 14 公頃，主要植生物種為水筆仔及欖李，除孕育底棲生物外，亦吸引世界 級的保育鳥類在此棲息，包括黑嘴鷗、大杓鷸、黑翅鳶。濁水溪口附近之泥 質灘地，因受到河口和海洋沖積作用，孕育大量底棲生物（如貝類、多毛類、 星蟲、蝦、蟹、彈塗魚等），為沿岸大陸棚內仔稚魚及水鳥重要的生態環境。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.252059,
+                23.842224
+            ]
+        },
+        "properties": {
+            "Name": "Zhoushui Bayou",
+            "place_names": "濁水溪口",
+            "remaker": "濁水溪口兩側（含南側保安林）提供鳥類、兩棲類、爬蟲類之重要棲息 環境，據調查，溪口一帶曾觀察紀錄之瀕絕鳥類有：琵鷺、黑面琵鷺、隼等； 珍貴稀有物種有：貢德氏蛙（兩棲類）、臺灣草蜥等 4 種爬蟲類及白眉燕鷗 等 9 種鳥類。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.088826,
+                23.50568
+            ]
+        },
+        "properties": {
+            "Name": "Waisandingzhou",
+            "place_names": "外傘頂洲",
+            "remaker": "由濁水溪、北港溪及朴子溪沖積而成的外傘頂洲，是座浮動的沙洲。沙 洲與臺灣間的水域，蘊藏豐富之魚蝦貝類，是天然養殖的良好環境，應維持 其自然生態環境，並永續發展"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.117222,
+                23.417222
+            ]
+        },
+        "properties": {
+            "Name": "Puzih Estuary Wetland",
+            "place_names": "朴子溪河口濕地",
+            "remaker": "已出現紅樹林群落，且形成特殊濕地生態，主要植生物種為紅海欖及欖李，鰲鼓濕地具有相當多樣的生態環境與棲地型態，包括耕作地、沼澤地、鹹水地、淡水地、沙丘、魚塭、堤岸及造林區等。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.159722,
+                23.36
+            ]
+        },
+        "properties": {
+            "Name": "Budai Salt Pan Wetland",
+            "place_names": "布袋鹽田重要濕地",
+            "remaker": "為高蹺鴴、東方環頸鴴及小燕 鷗等水鳥繁殖區，也是候鳥過境度冬棲息時的重要場所，為沿海漁業資源孕 育區。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.094086,
+                23.264033
+            ]
+        },
+        "properties": {
+            "Name": "Wangyegang Sandbank",
+            "place_names": "王爺港沙洲",
+            "remaker": "長約 6 公里，平均寬約 400 公尺， 呈北北東－南南西走向，與海岸平行，淺灘區蘊藏豐富之魚蝦貝類。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.116249,
+                23.225018
+            ]
+        },
+        "properties": {
+            "Name": "Jiangjun Bayou",
+            "place_names": "將軍溪口",
+            "remaker": "為臺灣重要野鳥棲地，曾觀察到全球性受威 脅鳥種黑嘴鷗及黑面琵鷺出現，將軍溪口亦曾觀察到鸕鶿、高蹺鴴、大白鷺、 黑腹濱鷸、黑腹燕鷗等。七股潟湖是全臺最大的潟湖，為頂頭額汕、網子寮 汕、青山港汕等濱外沙洲與陸地所圍的水域，蘊藏著豐富的動植物生態，包 括魚、貝、蚵、蝦、蟹、紅樹林、鳥類及兩棲類等，其中以黑面琵鷺最為著 名，並有招潮蟹、和尚蟹、厚蟹、彈塗魚等，當地漁民在該潟湖中插蚵仔、 施放定置網捕魚，養殖文蛤，是西南沿海最具有生產力與多樣性的生態棲息 環境。曾文溪口重要濕地因曾文溪帶來豐富的營養鹽，成為各種生物群聚的 棲息地。四草濕地是臺灣沿海紅樹林保存最完整、歧異度最高的區域之一， 具有珍稀之黑面琵鷺、東方白鸛、遊隼、諾氏鷸與反嘴鴴等。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.072394,
+                23.136969
+            ]
+        },
+        "properties": {
+            "Name": "Qigu Lagoon",
+            "place_names": "七股潟湖",
+            "remaker": "全臺最大的潟湖，為頂頭額汕、網子寮 汕、青山港汕等濱外沙洲與陸地所圍的水域，蘊藏著豐富的動植物生態，包 括魚、貝、蚵、蝦、蟹、紅樹林、鳥類及兩棲類等，其中以黑面琵鷺最為著 名，並有招潮蟹、和尚蟹、厚蟹、彈塗魚等，當地漁民在該潟湖中插蚵仔、 施放定置網捕魚，養殖文蛤，是西南沿海最具有生產力與多樣性的生態棲息 環境。曾文溪口重要濕地因曾文溪帶來豐富的營養鹽，成為各種生物群聚的 棲息地。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.141461,
+                23.046326
+            ]
+        },
+        "properties": {
+            "Name": "Sihcao Wetland",
+            "place_names": "四草濕地",
+            "remaker": "臺灣沿海紅樹林保存最完整、歧異度最高的區域之一， 具有珍稀之黑面琵鷺、東方白鸛、遊隼、諾氏鷸與反嘴鴴等。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.262143,
+                22.647995
+            ]
+        },
+        "properties": {
+            "Name": "Shoushan",
+            "place_names": "壽山(柴山)",
+            "remaker": "位於臺灣南部高雄市西南濱海的山，也是高雄 市臨海的天然屏障。其地質屬隆起珊瑚礁石灰岩，天然岩洞甚多。柴山不但 是高雄市的天然地標，也是高雄市民遊憩、登山、從事自然觀察、人文等活 動的好去處。柴山南邊在日治時代即開發為壽山公園，動物園座落其中，每年吸引遊客 30 萬人。柴山北側因為長期的軍事管制，保存完整而獨特的生態體系，臺灣獼猴更是柴山具代表性的野生動物。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.371179,
+                22.340513
+            ]
+        },
+        "properties": {
+            "Name": "Lambai Island",
+            "place_names": "琉球嶼",
+            "remaker": "琉球嶼為珊瑚礁島嶼，四周海域多是珊瑚礁、藻類生長的理想環境和 魚類聚集的場所。附近海域的魚類、貝類、藻類、珊瑚類等生物種類達 800 餘種，且為綠蠵龜的重要繁殖地，具豐富的生態資源。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.369856,
+                22.329149
+            ]
+        },
+        "properties": {
+            "Name": "Jianshan Costal",
+            "place_names": "尖山海岸",
+            "remaker": "海口海岸低潮線以下之淺水域內，有珊瑚礁分布。這些位於海中之珊 瑚礁，自潮間帶往下延伸分布到水深 4 至 5 公尺處"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.82927,
+                21.92842
+            ]
+        },
+        "properties": {
+            "Name": "Xiangjiaowan Ecological protection area",
+            "place_names": "香蕉灣生態保護區",
+            "remaker": "位於船帆石與香蕉灣間之海濱地帶，瀕臨南灣海 域，擁有珍貴之海岸林及大型高位珊瑚礁岩，富於學術研究及觀賞價 值。因省道台 26 線從中穿越且鄰近聚落，生態資源易遭破壞，應加強 保護措施。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.845873,
+                22.088772
+            ]
+        },
+        "properties": {
+            "Name": "Narenshan Ecological protection area",
+            "place_names": "南仁山生態保護區",
+            "remaker": "位於計畫區東北端，全區坡度陡峻，兼備丘陵、 山谷、沼潭、溪流、山坡、草原等地型。由於位置偏僻，交通不便， 除小部分地區遭濫墾或改植人造林外，多為濃密原始林所覆蓋，具有 完整之動物相及珍貴之植群，極富學術研究價值。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.847105,
+                21.913631
+            ]
+        },
+        "properties": {
+            "Name": "Shadao Ecological protection area",
+            "place_names": "砂島生態保護區",
+            "remaker": "擁有極珍貴的「貝殼砂」，其組成沙粒甚為均勻， 係海洋中之貝殼長期受到海水侵蝕，被擊碎研磨而成晶瑩明亮之細 沙，隨海流漂洋過海沖至砂島內構成之自然景觀。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.864861,
+                21.900299
+            ]
+        },
+        "properties": {
+            "Name": "Longkeng Ecological protection area",
+            "place_names": "龍坑生態保護區",
+            "remaker": "綿延之群狀珊瑚礁，隔著狹窄的陡坡及懸崖，為隆 起之高位珊瑚礁，由於重力及海浪之衝擊，台地崖之珊瑚石灰岩逐步 破裂，向下崩落，而呈絕佳的崖崩景觀。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.822171,
+                21.965307
+            ]
+        },
+        "properties": {
+            "Name": "Sheding Ecological protection area",
+            "place_names": "社頂高位珊瑚礁生態保護區",
+            "remaker": "環繞現有墾丁森林遊樂區，全區遍布古老高位珊瑚礁岩，生長其上之珊瑚礁植群，是各種野生動物生存繁殖場所，生態資源豐富，因本區未開放參觀，尚保持原始自然狀態。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.733832,
+                21.973148
+            ]
+        },
+        "properties": {
+            "Name": "Checheng to Wanlitong",
+            "place_names": "下水崛至萬里桐間海域",
+            "remaker": "位於大平頂台地崖西側，海水清澈，海底地 形富於變化，巨大礁石林立，間有深溝及裂谷，形成懸崖絕壁、峽谷 隧道等奇特景觀。全區遍布生長良好之各類石軟珊瑚、成叢的海扇、 海柳及群游的珊瑚礁魚類等，此外，各種貝類及海百合、海藤、海鞭 等分布亦多。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.783424,
+                21.945638
+            ]
+        },
+        "properties": {
+            "Name": "West Guanshan High coral reefs to Baishabi",
+            "place_names": "關山高位珊瑚礁岩西側至白沙鼻間之海域",
+            "remaker": "海底景觀雄偉，有石洞、 隧道、拱門、峽谷等各種海底地形，且水質清澈，各種石、軟珊瑚生 長甚密，珊瑚礁魚類、貝類及海百合、海星等均相當豐富。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.835047,
+                21.921638
+            ]
+        },
+        "properties": {
+            "Name": "Sail Rock throughBanana bay to Shadao",
+            "place_names": "船帆石南側經香蕉灣至砂島間之海域",
+            "remaker": "海底地形為狹長帶狀之裙礁， 而被浪渠或沙溝分隔成許多塊狀珊瑚礁，礁石底質地段，石、軟珊瑚 之生長良好，呈群聚型態，尤其各種蕈狀珊瑚之分布甚多，珊瑚礁魚 類、貝類種類及數量亦極豐富。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.849508,
+                21.923913
+            ]
+        },
+        "properties": {
+            "Name": "South Fengchuisha to Longkeng",
+            "place_names": "風吹砂以南至龍坑間之海域",
+            "remaker": "海底多大塊礁石、地形富於變化，石軟 珊瑚在礁石表面生長，甚為密集，而以軟珊瑚類為主，尤其獨立礁附 近，多大型魚類，景觀極為出色。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.88314,
+                22.125673
+            ]
+        },
+        "properties": {
+            "Name": "Jiupeng Costal",
+            "place_names": "九棚海岸",
+            "remaker": "本區有大規模的沙丘群分布、鵝卵石礫灘與東南側珊瑚礁海 岸，及其間棲息之重要動植物資源。由於海岸走向與東北季風風向直交， 風沙劇烈，沙丘移動十分明顯，均屬於活動沙丘，形成特異之沙河景觀， 部分沙丘掩蓋港仔溪南側支流，形成河道埋蓋現象，顯見沙丘活動之旺 盛，為本區的自然景觀資源保護重點。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.69297,
+                24.219085
+            ]
+        },
+        "properties": {
+            "Name": "Chingshui Cliff",
+            "place_names": "清水斷崖",
+            "remaker": "菲律賓海板塊在蘇澳外海一帶隱沒到歐亞大陸板塊之下，使 東海岸深陷，形成蘇花斷崖海岸。其中又以位於和平與崇德間，綿延 21 公里長的清水斷崖，舉世聞名。清水斷崖在和平溪以南、清水山的東側， 高約 800 至 900 公尺，幾乎以 90 度角垂直陡降至太平洋，是蘇花公路上 工程最艱難、景色最美的一段。其中清水斷崖海岸自然保護區陸域部分， 皆位於太魯閣國家公園內。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.631714,
+                24.027648
+            ]
+        },
+        "properties": {
+            "Name": "Qixingtan",
+            "place_names": "七星潭",
+            "remaker": "位於花蓮縣新城鄉東北角的海濱，此地海灘成一優美的弧形海 灣，海水潔淨蔚藍，具得天獨厚的自然地理環境。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.608374,
+                23.939947
+            ]
+        },
+        "properties": {
+            "Name": "Hualien Xikou",
+            "place_names": "花蓮溪口",
+            "remaker": "位處河、海、山的交界，為海岸山脈北端，地質、地形景觀和 動植物的生態資源非常豐富，是國家重要濕地之一。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573486,
+                23.81437
+            ]
+        },
+        "properties": {
+            "Name": "Shuilian Important habitat of wild animals",
+            "place_names": "水璉野生動物重要棲息環境",
+            "remaker": "農委會於 90 年 3 月 1 日，依據野生動物保育法，劃設「水璉野生 動物重要棲息環境」，面積 339.86 公頃，位於花蓮縣壽豐鄉境內海岸山 脈鹽寮村至水璉村之間，範圍涵蓋整個國有林林田山事業區第 142 林班。 水璉附近的臺灣海棗是目前臺灣保存最大族群之地區，本區具有代表 東部海岸地區的臺灣海棗棲地之意義。臺灣海棗、臺灣油杉、臺灣穗花杉 及臺東蘇鐵並稱「臺灣四大奇木」，經歷冰河期千萬年的物競天擇，生存 至今。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.545527,
+                23.675356
+            ]
+        },
+        "properties": {
+            "Name": "Qinbuzhizi Cliffs",
+            "place_names": "親不知子斷崖",
+            "remaker": "位於加路蘭山（746 公尺）稜線向北北東延伸和海岸相 交的地方，可見海蝕洞景觀。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.501457,
+                23.521536
+            ]
+        },
+        "properties": {
+            "Name": "Shimen",
+            "place_names": "石門",
+            "remaker": "豐濱以南、大港口以北，因一處外觀似門的海蝕洞而得名。 本區海蝕地形發達，具有東部海岸最壯觀的海蝕門，是觀察波浪侵蝕 海岸的優良地點。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.507509,
+                23.482962
+            ]
+        },
+        "properties": {
+            "Name": "Shitiping",
+            "place_names": "石梯坪",
+            "remaker": "一處寬濶且壯觀的濱台，由厚層的灰白色凝灰岩和火山角礫 岩互層所組成。傾斜的岩層形成單面山地形，是本區著名的地景。海 濱有海蝕溝、海蝕門、海蝕壺穴、海蝕平台、溶蝕盤等海蝕地形發育， 而桶狀海蝕壺穴更是臺灣難得一見的特殊地形景觀。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.501375,
+                23.464168
+            ]
+        },
+        "properties": {
+            "Name": "Shiquiyu",
+            "place_names": "獅球嶼",
+            "remaker": "秀姑巒溪溪水清澈，河口中央獨立一獅球嶼，整個島緊緊包覆著密林， 人類難以穿越和干擾，是許多鳥類過夜的安全場所。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.470791,
+                22.674167
+            ]
+        },
+        "properties": {
+            "Name": "Green Island",
+            "place_names": "綠島",
+            "remaker": "為火山島，地處熱帶，海水溫暖，海底多為火山岩。因綠島沿岸 淺水海域均為珊瑚礁覆蓋，棲息著形形色色的魚類、多采多姿的珊瑚和 五花八門的無脊椎動物。隆起珊瑚礁與淺水中的現生珊瑚礁連接在一 起，形成極為壯觀的裙狀珊瑚礁地形，具發展潛水活動及海底觀光潛力。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.548261,
+                22.045989
+            ]
+        },
+        "properties": {
+            "Name": "Orchid Island",
+            "place_names": "蘭嶼",
+            "remaker": "火山作用形成之地質、地形景觀及熱帶雨林景觀，為亞洲與大洋 洲生物間之過渡帶，生物種類歧異度極高，生物資源豐富，為研究生物 之重鎮。當地瀕臨絕種的稀有動物包括：蘭嶼角鴞、長尾鳩、珠光鳳蝶綠斑鳳蝶、大白斑蝶、大紫斑蝶、白帶斑蝶、綠蠵龜等；另蘭嶼原生而瀕臨絕種之植物包括：臺灣蝴蝶蘭、蘭嶼羅漢松、水芫花、象牙樹、毛柿、海芙蓉、仙茅、蘭嶼管唇蘭、紅花石斛、青脆枝等。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.415352,
+                23.226563
+            ]
+        },
+        "properties": {
+            "Name": "Wushibi",
+            "place_names": "烏石鼻",
+            "remaker": "具自然海岸景觀，位於膽曼部落東側海岸，為全臺灣面積最大 的柱狀火成岩體，是火山活動熔岩噴發的產物。烏石鼻滿布大大小小 的潮池和海蝕溝，是觀賞潮間帶海洋生物的最佳去處，也是東部潛水 和磯釣的天堂。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.403346,
+                23.177257
+            ]
+        },
+        "properties": {
+            "Name": "Shiyusan",
+            "place_names": "石雨傘",
+            "remaker": "石灰岩隆起之海蝕柱，附近海岸公路東側有突出海面長達 1 公里之海岬，稱為石空鼻長堤。此處具豐富之海蝕地形，有礁岩、海 蝕洞、海蝕溝、壺穴、平衡石等。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.421621,
+                23.126106
+            ]
+        },
+        "properties": {
+            "Name": "Sanxiantai",
+            "place_names": "三仙台",
+            "remaker": "由突出海岸的海岬與海岬外的離岸小島所構成，小島上有 3 座巨大石塊屹立，故稱三仙台。在三仙台周圍的海域分布珊瑚礁，受 到波浪的侵蝕，形成崎嶇的礁岩海岸，海蝕溝、海蝕壺穴、濱台等地 形，均可在此一覽無遺。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.185751,
+                22.832303
+            ]
+        },
+        "properties": {
+            "Name": "Shayuan Beach",
+            "place_names": "杉原海水浴場",
+            "remaker": "南北兩端的海濱，有珊瑚礁分布。特別是海水浴場北方 礁石海岸，潮間帶長約數百公尺，寬約 50 至 100 公尺。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.198211,
+                22.794738
+            ]
+        },
+        "properties": {
+            "Name": "Xiaoyeliu",
+            "place_names": "小野柳",
+            "remaker": "小野柳一帶的地層是具有地層倒轉特性的厚層砂岩及薄層頁岩互層。 特殊地形有單面山、風化紋、豆腐岩、蕈狀岩及蜂窩岩等。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.608333,
+                23.744799
+            ]
+        },
+        "properties": {
+            "Name": "Bird Island",
+            "place_names": "吉貝嶼",
+            "remaker": "澎湖群島中最北端有人居住的島嶼，周圍密布的石滬，是極 為特殊的人文景觀。島嶼東半部是較高的玄武岩方山台地，西半部則有大 片沙灘，寬度由北往南遞增，目前仍在繼續成長中，尤其南端的沙嘴沿著 海流方向不斷地擴增，是難得一見的景觀。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.600392,
+                23.786287
+            ]
+        },
+        "properties": {
+            "Name": "Mudouyu",
+            "place_names": "目斗嶼",
+            "remaker": "北側海底斜坡的角度稍大，水質較混濁。目斗嶼海域珊瑚礁生 態系相當豐富多樣，海底景色優美。吉貝嶼西側的西崁山、風灣子、及北 側的白沙莊，擁有寬廣平坦的海底平台，其中以風灣子附近之珊瑚礁生態 系更為完整。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.566699,
+                23.71064
+            ]
+        },
+        "properties": {
+            "Name": "Tiezhenyu",
+            "place_names": "鐵砧嶼",
+            "remaker": "由緻密玄武岩和多孔玄武岩所構成的方山，位於姑婆嶼東南 東方，形似鐵砧而得名。由於波浪侵蝕作用，在東側形成寬約 15 公尺， 深約 7 公尺的海蝕洞。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.599497,
+                23.666519
+            ]
+        },
+        "properties": {
+            "Name": "Baisha",
+            "place_names": "白沙",
+            "remaker": "白沙鄉北側與西側潮間帶上布滿珊瑚骨骸和玄武岩塊，常見到軸孔珊 瑚、微孔珊瑚、菊珊瑚、角菊珊瑚、腦紋珊瑚等石珊瑚，珊瑚礁生態系相 當豐富多樣。 鳥嶼後山有岩石洋蔥狀風化景觀及多孔狀玄武岩；員貝嶼北側有柱狀 玄武岩及東側扇形柱狀玄武岩；小白沙嶼已劃設為澎湖玄武岩自然保留 區，保育對象為特殊玄武岩景觀。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.658637,
+                23.585041
+            ]
+        },
+        "properties": {
+            "Name": "Huxi",
+            "place_names": "湖西",
+            "remaker": "雞善嶼、錠鉤嶼及小白沙嶼由於柱狀玄武岩景色秀麗，已於 81 年 3 月 12 日劃設為「澎湖玄武岩自然保留區」，保育對象為特殊玄武岩景觀， 有雞善嶼柱狀玄武岩、柱狀節理海崖、錠鉤嶼立石柱及小白沙柱狀玄武 岩、海蝕平台、灘岩等。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.520576,
+                23.652577
+            ]
+        },
+        "properties": {
+            "Name": "Shomon Island",
+            "place_names": "小門嶼",
+            "remaker": "西嶼北端的一個小島，是個玄武岩小方山，地形景觀特殊， 為澎湖群島地形、人文景觀的縮影。鯨魚洞為海蝕作用淘挖出來的海蝕 門，洞旁的玄武岩柱發育良好。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.514376,
+                23.57347
+            ]
+        },
+        "properties": {
+            "Name": "Niuxin Shan",
+            "place_names": "牛心山",
+            "remaker": "位於內垵村，是柱狀玄武岩風化形成的孤山，山頂是裸露的柱 狀玄武岩，山腳則為銀合歡及雜草覆蓋。附近潮間帶有不少石滬。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.51638,
+                23.595349
+            ]
+        },
+        "properties": {
+            "Name": "Daguoye",
+            "place_names": "大菓葉",
+            "remaker": "位於池東村，有著名之柱狀節理玄武岩，是熔岩流遇到海水快 速冷卻收縮凝固成六角狀的玄武岩。因為長年覆蓋於表土下，所以大菓葉 柱狀節理玄武岩顏色較黃，且節理保持得相當完整。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.543019,
+                25.148228
+            ]
+        },
+        "properties": {
+            "Name": "Shamao Shan",
+            "place_names": "紗帽山",
+            "remaker": "以西至風櫃之間的青灣，為一處天然的海灣，海灣內外都是由 珊瑚為主所組成的珊瑚礁生態系，擁有豐富的魚類和甲殼動物棲息於此， 珊瑚礁生態系相當豐富多樣。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.54371,
+                23.537885
+            ]
+        },
+        "properties": {
+            "Name": "Fongguei",
+            "place_names": "風櫃",
+            "remaker": "玄武岩柱狀節理十分發達，因波浪侵蝕造成狹長海蝕溝。蒔裡沙 灘長達 1 公里，是澎湖最具規模的沙丘地形，山水亦有天然沙灘。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.521389,
+                23.512763
+            ]
+        },
+        "properties": {
+            "Name": "Tongpan Islet",
+            "place_names": "桶盤嶼",
+            "remaker": "特有的柱狀玄武岩地形景觀，由海上觀看排列整齊， 十分壯觀。海岸濱台上，低潮時露出古岩漿噴發孔洞，狀似同心圓狀蓮花 台。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.527778,
+                23.49079
+            ]
+        },
+        "properties": {
+            "Name": "Table Island",
+            "place_names": "虎井嶼",
+            "remaker": "特有的柱狀玄武岩地形景觀，由海上觀看排列整齊， 十分壯觀。海岸濱台上，低潮時露出古岩漿噴發孔洞，狀似同心圓狀蓮花 台。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.5,
+                23.383489
+            ]
+        },
+        "properties": {
+            "Name": "Wangan",
+            "place_names": "望安",
+            "remaker": "望安島南側海岸低平、珊瑚沙礫發達。綠蠵龜為大洋性洄游動 物，望安島附近的海域為綠蠵龜上岸產卵必經的水域。目前綠蠵龜主 要產卵地為：天台山南側、西安水庫西側、土地公港南側、水雷港仔 南側、網鞍口東側及萬安宮南側等沙灘草地。84 年 1 月 17 日劃設為 「望安島綠蠵龜產卵棲地保護區」，面積 23.3 公頃。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.322414,
+                23.40361
+            ]
+        },
+        "properties": {
+            "Name": "Huayu",
+            "place_names": "花嶼",
+            "remaker": "四周海岸皆為海崖構成的岩岸地形及大大小小的礫石灘，地形 與澎湖其他大小島嶼相似，但地質迥異，主要由安山岩質火山熔岩所 構成。每年 4 月是過境鳥遷移的高峰期，生態資源相當豐富，高峰期 近 1,500 隻的赤腹鷹過境。花嶼不僅可作為研究與保育的前進站，也具規劃為生態旅遊的潛力。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.321187,
+                23.325161
+            ]
+        },
+        "properties": {
+            "Name": "Maoyu",
+            "place_names": "貓嶼",
+            "remaker": "海拔 79 公尺之貓嶼，位於澎湖群島西南方，為澎湖最高峰。80 年 5 月 24 日劃設為「澎湖縣貓嶼海鳥保護區」，為全國第一個野生動 物保護區。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.672146,
+                23.256395
+            ]
+        },
+        "properties": {
+            "Name": "Dongjiyu、Xijiyu",
+            "place_names": "東吉、西吉嶼",
+            "remaker": "東吉、西吉嶼附近海域之珊瑚礁生態系相當豐富多樣。 東吉嶼及西吉嶼皆有玄武岩風化及侵蝕的景觀，包括壯觀的海蝕洞及 海蝕門等玄武岩海蝕地形。103 年 6 月 8 日已納入「澎湖南方四島國 家公園」。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.428525,
+                23.208134
+            ]
+        },
+        "properties": {
+            "Name": "Qimei",
+            "place_names": "七美",
+            "remaker": "七美鄉位於澎湖群島的最南方，就其地形而言是一個切割的方山 島嶼。東岸牛母坪和龍埕附近，可見凸出海面的火成岩脈、褶皺的層狀 水山角礫岩、巨大的向斜摺皺地質景觀，和受海水浸蝕而成的海蝕平台 及壺穴。月鯉港水流穩定，珊瑚礁生態系相當豐富多樣。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.004741,
+                26.222833
+            ]
+        },
+        "properties": {
+            "Name": "Tanghoudao Beach",
+            "place_names": "塘后道沙灘",
+            "remaker": "為北竿最大沙灘，長達數百公尺，沙灘連結塘岐村與后沃村 之間，形成「連島沙洲」。坂里沙灘，係由芹山、坂山及里山 3 座山峰 環繞、東南向開口的灣澳，受每年夏季東南季風吹襲，洋流夾帶泥沙於此 淤積，日積月累，形成的沙灘，面積廣達 6 公頃以上，規模僅次於塘后沙 灘。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.477562,
+                26.381221
+            ]
+        },
+        "properties": {
+            "Name": "Houao",
+            "place_names": "后澳",
+            "remaker": "后澳裡的侵入岩脈為南竿最特殊之地質景觀，由地殼內的岩漿沿著先 形成的岩體裂隙侵入，再冷卻而形成。由早期形成的酸性、淺色花崗岩基 盤與後期貫入的基性、深色的基性侵入岩脈所共同組成，呈現出黑白相間 的紋路。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.929035,
+                26.142359
+            ]
+        },
+        "properties": {
+            "Name": "Nangan Beihai Tunnel",
+            "place_names": "南竿北海坑道",
+            "remaker": "為戰地景觀，以「井」字為造型坑道，水道高為 18 公 尺，寬 10 公尺，長 640 公尺。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.967911,
+                25.95513
+            ]
+        },
+        "properties": {
+            "Name": "Mengao Harbor",
+            "place_names": "猛澳港",
+            "remaker": "東莒地勢較平坦，從閩江流出的河沙堆積而成的猛澳沙灘，為東莒的 海運門戶。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.947832,
+                25.978476
+            ]
+        },
+        "properties": {
+            "Name": "Caipuao",
+            "place_names": "菜浦澳",
+            "remaker": "位於西莒島東北角澳口，沿岸自然地景地貌屬典型之花崗岩錐 狀形，地勢起伏極大且陡峭，花崗岩稜線呈放射狀深入海中，形成大小不一的谷地，長期受風化解體以及波浪侵蝕作用，形成顯礁、谷地、斷崖等多樣化地質景觀。"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.485802,
+                26.368064
+            ]
+        },
+        "properties": {
+            "Name": "Dongyin、Xiyin",
+            "place_names": "東引西引",
+            "remaker": "東、西引 2 島地勢陡峭，海岸地形屬沉水海岸中的谷灣式海岸，岬角與 灣澳廣布，為典型的花崗岩岩岸地形，其中岬角以海蝕地形為主，有海蝕洞、 海蝕門、海蝕柱、濱台等。 東引北海坑道，為軍方因戰備需要所挖鑿的隱藏坑道，全長約 193 公尺，寬 10 公尺，高 12 公尺。惟北海坑道有落石危險，暫不開放。"
+        }
+    }
+]
+}

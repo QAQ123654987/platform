@@ -1,0 +1,561 @@
+var Beach=
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.644206,
+                25.230374
+            ]
+        },
+        "properties": {
+            "Name": "Jinshan Beach",
+            "place_names": "金山海濱浴場",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.416197,
+                25.188897
+            ]
+        },
+        "properties": {
+            "Name": "Shalun Beach",
+            "place_names": "沙崙海水浴場",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.43881,
+                25.218001
+            ]
+        },
+        "properties": {
+            "Name": "Zhouziwan Beach",
+            "place_names": "洲子灣",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517156,
+                25.284618
+            ]
+        },
+        "properties": {
+            "Name": "Baishawan Beach",
+            "place_names": "白沙灣",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.651787,
+                25.218173
+            ]
+        },
+        "properties": {
+            "Name": "Xialiao Beach",
+            "place_names": "下寮沙灘",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.671923,
+                25.201939
+            ]
+        },
+        "properties": {
+            "Name": "Guosheng Beach",
+            "place_names": "國聖海灘",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.915993,
+                25.07531
+            ]
+        },
+        "properties": {
+            "Name": "Jinshawan Beach",
+            "place_names": "金沙灣",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.686135,
+                25.188473
+            ]
+        },
+        "properties": {
+            "Name": "Feicuiwan Beach",
+            "place_names": "翡翠灣",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.928171,
+                25.041494
+            ]
+        },
+        "properties": {
+            "Name": "Yanliao Beach",
+            "place_names": "鹽寮海水浴場",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.941962,
+                25.022742
+            ]
+        },
+        "properties": {
+            "Name": "Fulon Beach",
+            "place_names": "福隆海水浴場",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.689756,
+                25.182466
+            ]
+        },
+        "properties": {
+            "Name": "Wanli Beach",
+            "place_names": "萬里海水浴場",
+            "remaker": "新北"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.707069,
+                25.165323
+            ]
+        },
+        "properties": {
+            "Name": "Dawulun White Beach",
+            "place_names": "大武崙白沙灘",
+            "remaker": "基隆"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.727115,
+                25.163453
+            ]
+        },
+        "properties": {
+            "Name": "Waimushan Beach",
+            "place_names": "外木山海水浴場",
+            "remaker": "基隆"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.238449,
+                25.114896
+            ]
+        },
+        "properties": {
+            "Name": "Zhuwei Beach",
+            "place_names": "竹圍海水浴場",
+            "remaker": "桃園"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.074665,
+                25.046438
+            ]
+        },
+        "properties": {
+            "Name": "Guanyin Beach",
+            "place_names": "觀音海水浴場",
+            "remaker": "桃園"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.944557,
+                24.845317
+            ]
+        },
+        "properties": {
+            "Name": "Honeymoon Bay",
+            "place_names": "蜜月灣",
+            "remaker": "宜蘭"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.829476,
+                24.850414
+            ]
+        },
+        "properties": {
+            "Name": "Toucheng Beach",
+            "place_names": "頭城海水浴場",
+            "remaker": "宜蘭"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.870037,
+                24.5763
+            ]
+        },
+        "properties": {
+            "Name": "Neipi Beach",
+            "place_names": "內埤海灣",
+            "remaker": "宜蘭"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.9175,
+                24.838
+            ]
+        },
+        "properties": {
+            "Name": "Naliao Beach",
+            "place_names": "南寮海水浴場",
+            "remaker": "新竹"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.975061,
+                24.92856
+            ]
+        },
+        "properties": {
+            "Name": "Xinfeng Beach",
+            "place_names": "新豐海水浴場",
+            "remaker": "新竹"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.670884,
+                24.49571
+            ]
+        },
+        "properties": {
+            "Name": "Tongxiao Beach",
+            "place_names": "通霄海水浴場",
+            "remaker": "苗栗"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.872199,
+                24.729082
+            ]
+        },
+        "properties": {
+            "Name": "Qiding Beach",
+            "place_names": "崎頂海水浴場",
+            "remaker": "苗栗"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.583947,
+                24.380339
+            ]
+        },
+        "properties": {
+            "Name": "Daan Beach",
+            "place_names": "大安海濱沙灘",
+            "remaker": "台中"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.9124,
+                23.39316
+            ]
+        },
+        "properties": {
+            "Name": "Santiaolun Beach",
+            "place_names": "三條崙海水浴場",
+            "remaker": "雲林縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.082035,
+                23.217494
+            ]
+        },
+        "properties": {
+            "Name": "Mashagou Beach",
+            "place_names": "馬沙溝海水浴場",
+            "remaker": "台南"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.167359,
+                22.960273
+            ]
+        },
+        "properties": {
+            "Name": "Kunshen Beach",
+            "place_names": "鯤鯓海水浴場",
+            "remaker": "台南"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.263769,
+                22.62606
+            ]
+        },
+        "properties": {
+            "Name": "Hsi-tzu-wan Bach",
+            "place_names": "西子灣海水浴場",
+            "remaker": "高雄"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.267168,
+                22.609947
+            ]
+        },
+        "properties": {
+            "Name": "Qijin Beach",
+            "place_names": "旗津海水浴場",
+            "remaker": "高雄"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.763317,
+                21.959494
+            ]
+        },
+        "properties": {
+            "Name": "Nawan Beach",
+            "place_names": "南灣海水浴場",
+            "remaker": "屏東"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.804256,
+                21.941567
+            ]
+        },
+        "properties": {
+            "Name": "Xiaowan Beach",
+            "place_names": "小灣海水浴場",
+            "remaker": "屏東"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.794666,
+                21.944236
+            ]
+        },
+        "properties": {
+            "Name": "Kending Beach",
+            "place_names": "墾丁海水浴場",
+            "remaker": "屏東"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.54924,
+                23.703955
+            ]
+        },
+        "properties": {
+            "Name": "Jiqi Beach",
+            "place_names": "磯崎海水浴場",
+            "remaker": "花蓮"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.185708,
+                22.832086
+            ]
+        },
+        "properties": {
+            "Name": "Shayuan Beach",
+            "place_names": "杉原海水浴場",
+            "remaker": "台東"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.562353,
+                23.569803
+            ]
+        },
+        "properties": {
+            "Name": "Guanyinting Beach",
+            "place_names": "觀音亭海水浴場",
+            "remaker": "澎湖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.565643,
+                23.526103
+            ]
+        },
+        "properties": {
+            "Name": "Shili Beach",
+            "place_names": "?裡沙灘",
+            "remaker": "澎湖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.639288,
+                23.555594
+            ]
+        },
+        "properties": {
+            "Name": "Aimen Beach",
+            "place_names": "隘門沙灘",
+            "remaker": "澎湖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.467415,
+                24.442373
+            ]
+        },
+        "properties": {
+            "Name": "Xibian Beach",
+            "place_names": "溪邊海水浴場",
+            "remaker": "金門"
+        }
+    }
+]
+}

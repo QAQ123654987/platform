@@ -442,7 +442,7 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
     // 創建 潮間帶 按鈕
     // 讀取geoJson: 潮間帶地形 Coastal
     coastal_layer = L.layerGroup()
-    $.getJSON("GEOJSON_file/coastal/file/Coastal/Coastal_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+    $.getJSON("GEOJSON_file/before/coastal/file/Coastal/Coastal_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
         // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
         // console.log("data", data)  // 確定是 polygon
         var geoJSON_layer = L.geoJSON(data, {          
@@ -492,7 +492,7 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
 
     // 讀取geoJson: 潮間帶地形(公告) Tide_post
     tide_post_layer = L.layerGroup()
-    $.getJSON("GEOJSON_file/coastal/file/Tide_post_4326/Tide_post_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+    $.getJSON("GEOJSON_file/before/coastal/file/Tide_post_4326/Tide_post_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
         // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
         // console.log("data", data)  // 確定是 polygon
         var geoJSON_layer = L.geoJSON(data, {          
@@ -534,7 +534,7 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
 
     // 讀取geoJson: 潮間帶地形(試辦) Tide_test
     tide_test_layer = L.layerGroup()
-    $.getJSON("GEOJSON_file/coastal/file/Tide_test_4326/Tide_test_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+    $.getJSON("GEOJSON_file/before/coastal/file/Tide_test_4326/Tide_test_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
         // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
         // console.log("data", data)  // 確定是 polygon
         var geoJSON_layer = L.geoJSON(data, {          

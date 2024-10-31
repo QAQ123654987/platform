@@ -1,0 +1,402 @@
+var Hotpoint=
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.334,
+                25.145
+            ]
+        },
+        "properties": {
+            "Name": "臺北港",
+            "Group": [
+                {
+                    "lon": 121.4135,
+                    "lat": 25.1713,
+                    "Name": "臺北港-A"
+                },
+                {
+                    "lon": 121.38,
+                    "lat": 25.153,
+                    "Name": "臺北港-B"
+                },
+                {
+                    "lon": 121.34,
+                    "lat": 25.134,
+                    "Name": "臺北港-C"
+                },
+                {
+                    "lon": 121.31,
+                    "lat": 25.13,
+                    "Name": "臺北港-D"
+                },
+                {
+                    "lon": 121.288,
+                    "lat": 25.125,
+                    "Name": "臺北港-E"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.8347,
+                24.8624
+            ]
+        },
+        "properties": {
+            "Name": "烏石港",
+            "Group": [
+                {
+                    "lon": 121.8439,
+                    "lat": 24.8763,
+                    "Name": "烏石港-A"
+                },
+                {
+                    "lon": 121.8399,
+                    "lat": 24.8643,
+                    "Name": "烏石港-B"
+                },
+                {
+                    "lon": 121.8292,
+                    "lat": 24.8503,
+                    "Name": "烏石港-C"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.929,
+                24.8499
+            ]
+        },
+        "properties": {
+            "Name": "新竹新豐及頭前溪",
+            "Group": [
+                {
+                    "lon": 120.9415,
+                    "lat": 24.8614,
+                    "Name": "新竹新豐及頭前溪-A"
+                },
+                {
+                    "lon": 120.9187,
+                    "lat": 24.851,
+                    "Name": "新竹新豐及頭前溪-B"
+                },
+                {
+                    "lon": 120.9125,
+                    "lat": 24.8328,
+                    "Name": "新竹新豐及頭前溪-C"
+                },
+                {
+                    "lon": 121.31,
+                    "lat": 25.13,
+                    "Name": "新竹新豐及頭前溪-D"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.1567,
+                22.9546
+            ]
+        },
+        "properties": {
+            "Name": "台南黃金",
+            "Group": [
+                {
+                    "lon": 120.142,
+                    "lat": 22.9914,
+                    "Name": "台南黃金-A"
+                },
+                {
+                    "lon": 120.1551,
+                    "lat": 22.974,
+                    "Name": "台南黃金-B"
+                },
+                {
+                    "lon": 120.1686,
+                    "lat": 22.9412,
+                    "Name": "台南黃金-C"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.9145,
+                22.3278
+            ]
+        },
+        "properties": {
+            "Name": "臺東縣南迴公段",
+            "Group": [
+                {
+                    "lon": 120.9306,
+                    "lat": 22.4006,
+                    "Name": "臺東縣南迴公段-A"
+                },
+                {
+                    "lon": 120.8965,
+                    "lat": 22.3362,
+                    "Name": "臺東縣南迴公段-B"
+                },
+                {
+                    "lon": 120.8928,
+                    "lat": 22.3211,
+                    "Name": "臺東縣南迴公段-C"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.1277,
+                23.387
+            ]
+        },
+        "properties": {
+            "Name": "嘉義布袋",
+            "Group": [
+                {
+                    "lon": 120.1277,
+                    "lat": 23.4431,
+                    "Name": "嘉義布袋-A"
+                },
+                {
+                    "lon": 120.1277,
+                    "lat": 23.4372,
+                    "Name": "嘉義布袋-B"
+                },
+                {
+                    "lon": 120.1277,
+                    "lat": 23.41,
+                    "Name": "嘉義布袋-C"
+                },
+                {
+                    "lon": 120.1277,
+                    "lat": 23.3827,
+                    "Name": "嘉義布袋-D"
+                },
+                {
+                    "lon": 120.1277,
+                    "lat": 23.3526,
+                    "Name": "嘉義布袋-E"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.1989,
+                22.8382
+            ]
+        },
+        "properties": {
+            "Name": "高雄興達港",
+            "Group": [
+                {
+                    "lon": 120.1808,
+                    "lat": 22.8878,
+                    "Name": "高雄興達港-A"
+                },
+                {
+                    "lon": 120.193,
+                    "lat": 22.8356,
+                    "Name": "高雄興達港-B"
+                },
+                {
+                    "lon": 120.2258,
+                    "lat": 22.7862,
+                    "Name": "高雄興達港-C"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.6291,
+                23.9722
+            ]
+        },
+        "properties": {
+            "Name": "花蓮溪口",
+            "Group": [
+                {
+                    "lon": 121.6426,
+                    "lat": 23.9848,
+                    "Name": "花蓮溪口-A"
+                },
+                {
+                    "lon": 121.617,
+                    "lat": 23.959,
+                    "Name": "花蓮溪口-B"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.43286,
+                24.154437
+            ]
+        },
+        "properties": {
+            "Name": "台中港及彰濱"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.146396,
+                23.671912
+            ]
+        },
+        "properties": {
+            "Name": "濁水溪口"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.0473,
+                25.0169
+            ]
+        },
+        "properties": {
+            "Name": "桃園觀音、新屋",
+            "Group": [
+                {
+                    "lon": 121.0803,
+                    "lat": 25.0515,
+                    "Name": "桃園觀音、新屋-A"
+                },
+                {
+                    "lon": 121.0466,
+                    "lat": 25.0373,
+                    "Name": "桃園觀音、新屋-B"
+                },
+                {
+                    "lon": 121.027,
+                    "lat": 25.0092,
+                    "Name": "桃園觀音、新屋-C"
+                },
+                {
+                    "lon": 121.0134,
+                    "lat": 24.9892,
+                    "Name": "桃園觀音、新屋-D"
+                },
+                {
+                    "lon": 121.0149,
+                    "lat": 24.98,
+                    "Name": "桃園觀音、新屋-E"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.0533,
+                23.1444
+            ]
+        },
+        "properties": {
+            "Name": "台南七股",
+            "Group": [
+                {
+                    "lon": 120.0819,
+                    "lat": 23.2256,
+                    "Name": "台南七股-A"
+                },
+                {
+                    "lon": 120.0762,
+                    "lat": 23.2117,
+                    "Name": "台南七股-B"
+                },
+                {
+                    "lon": 120.0775,
+                    "lat": 23.1964,
+                    "Name": "台南七股-C"
+                },
+                {
+                    "lon": 120.0757,
+                    "lat": 23.2117,
+                    "Name": "台南七股-D"
+                },
+                {
+                    "lon": 120.0583,
+                    "lat": 23.1151,
+                    "Name": "台南七股-E"
+                }
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.3134,
+                22.6202
+            ]
+        },
+        "properties": {
+            "Name": "高雄左營及旗津",
+            "Group": [
+                {
+                    "lon": 120.2672,
+                    "lat": 22.6164,
+                    "Name": "高雄左營及旗津-A"
+                },
+                {
+                    "lon": 120.2972,
+                    "lat": 22.5657,
+                    "Name": "高雄左營及旗津-B"
+                },
+                {
+                    "lon": 120.3698,
+                    "lat": 22.5056,
+                    "Name": "高雄左營及旗津-C"
+                }
+            ]
+        }
+    }
+]
+}

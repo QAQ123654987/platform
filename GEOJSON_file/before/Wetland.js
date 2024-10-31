@@ -1,0 +1,1398 @@
+var Wetland =
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.406389,
+                    25.171667
+                ]
+            },
+            "properties": {
+                "Name": "Nanao Wetland",
+                "place_names": "臺北港北堤濕地",
+                "type": "海岸自然濕地",
+                "remaker": "淡水河流域濕地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.416433,
+                    25.166487
+                ]
+            },
+            "properties": {
+                "Name": "Wazihwei Wetland",
+                "place_names": "挖子尾濕地",
+                "type": "海岸自然濕地",
+                "remaker": "淡水河流域濕地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456582,
+                    25.156261
+                ]
+            },
+            "properties": {
+                "Name": "Danshuei River Mangrove Wetland",
+                "place_names": "淡水河紅樹林濕地",
+                "type": "海岸自然濕地",
+                "remaker": "淡水河流域濕地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470427,
+                    25.118768
+                ]
+            },
+            "properties": {
+                "Name": "Guandu Wetland",
+                "place_names": "關渡濕地",
+                "type": "海岸自然濕地及人為濕地",
+                "remaker": "淡水河流域濕地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.453032,
+                    25.095347
+                ]
+            },
+            "properties": {
+                "Name": "Wugu Wetland",
+                "place_names": "五股濕地",
+                "type": "人為濕地及小部分內陸自然濕地",
+                "remaker": "淡水河流域濕地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446389,
+                    25.033333
+                ]
+            },
+            "properties": {
+                "Name": "Sinhai Manmade Wetland",
+                "place_names": "新海人工濕地",
+                "type": "人為濕地",
+                "remaker": "淡水河流域濕地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.424018,
+                    24.973081
+                ]
+            },
+            "properties": {
+                "Name": "Lujiao River  Manmade Wetland",
+                "place_names": "鹿角溪人工濕地",
+                "type": "人為濕地",
+                "remaker": "淡水河流域濕地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.438537,
+                    24.999866
+                ]
+            },
+            "properties": {
+                "Name": "Fujhou Manmade Wetland",
+                "place_names": "浮洲人工濕地",
+                "type": "人為濕地",
+                "remaker": "淡水河流域濕地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.174591,
+                    25.085331
+                ]
+            },
+            "properties": {
+                "Name": "Xucuogang Wetland",
+                "place_names": "許厝港濕地",
+                "type": "海岸自然濕地",
+                "remaker": "桃園"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.958056,
+                    24.904444
+                ]
+            },
+            "properties": {
+                "Name": "Sinfong Wetland",
+                "place_names": "新豐濕地",
+                "type": "海岸自然濕地",
+                "remaker": "新竹"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.899898,
+                    24.785154
+                ]
+            },
+            "properties": {
+                "Name": "Siangshan Wetland",
+                "place_names": "香山溼地",
+                "type": "海岸自然濕地",
+                "remaker": "新竹"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.741389,
+                    24.609722
+                ]
+            },
+            "properties": {
+                "Name": "Xihu Wetland",
+                "place_names": "西湖濕地",
+                "type": "海岸自然濕地、人為濕地",
+                "remaker": "苗栗"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543889,
+                    24.323056
+                ]
+            },
+            "properties": {
+                "Name": "Gaomei Wetland",
+                "place_names": "高美濕地",
+                "type": "海岸自然濕地",
+                "remaker": "台中"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485278,
+                    24.192222
+                ]
+            },
+            "properties": {
+                "Name": "Dadu Estuary Wetland",
+                "place_names": "大肚溪口濕地",
+                "type": "海岸自然濕地",
+                "remaker": "台中"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1175,
+                    23.505278
+                ]
+            },
+            "properties": {
+                "Name": "Aogu Wetland",
+                "place_names": "鰲鼓濕地",
+                "type": "海岸堤內濕地及小部分堤外灘地",
+                "remaker": "嘉義"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.117222,
+                    23.417222
+                ]
+            },
+            "properties": {
+                "Name": "Puzih Estuary Wetland",
+                "place_names": "朴子溪河口濕地",
+                "type": "海岸自然濕地、河流自然濕地",
+                "remaker": "嘉義"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.130278,
+                    23.366944
+                ]
+            },
+            "properties": {
+                "Name": "Haomeiliao Wetland",
+                "place_names": "好美寮濕地",
+                "type": "海岸自然濕地及小部分人為濕地",
+                "remaker": "嘉義"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.159722,
+                    23.36
+                ]
+            },
+            "properties": {
+                "Name": "Budai Salt Pan Wetland",
+                "place_names": "布袋鹽田濕地",
+                "type": "人為濕地及小部分海岸自然濕地",
+                "remaker": "嘉義"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.116667,
+                    23.326389
+                ]
+            },
+            "properties": {
+                "Name": "Bajhang Estuary Wetland",
+                "place_names": "八掌溪口濕地",
+                "type": "海岸自然濕地",
+                "remaker": "嘉義"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1075,
+                    23.271389
+                ]
+            },
+            "properties": {
+                "Name": "Beimen Wetland",
+                "place_names": "北門濕地",
+                "type": "海岸自然濕地及小部分人為濕地",
+                "remaker": "台南"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.076117,
+                    23.157499
+                ]
+            },
+            "properties": {
+                "Name": "Cigu Salt Pan Wetland",
+                "place_names": "七股鹽田濕地",
+                "type": "海岸自然濕地及小部分人為濕地",
+                "remaker": "台南"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.149167,
+                    23.011111
+                ]
+            },
+            "properties": {
+                "Name": "Yanshuei Estuary Wetland",
+                "place_names": "鹽水溪口濕地",
+                "type": "海岸自然濕地",
+                "remaker": "台南"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291389,
+                    22.684167
+                ]
+            },
+            "properties": {
+                "Name": "Jhouzai Wetland",
+                "place_names": "洲仔濕地",
+                "type": "人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.155278,
+                    22.772222
+                ]
+            },
+            "properties": {
+                "Name": "Beinan Estuary Wetland",
+                "place_names": "卑南溪口濕地",
+                "type": "海岸自然濕地",
+                "remaker": "台東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604203,
+                    23.937531
+                ]
+            },
+            "properties": {
+                "Name": "Hualien Estuary Wetland",
+                "place_names": "花蓮溪口濕地",
+                "type": "海岸自然濕地",
+                "remaker": "花蓮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.798611,
+                    24.716389
+                ]
+            },
+            "properties": {
+                "Name": "Lanyang Estuary Wetland",
+                "place_names": "蘭陽溪口濕地",
+                "type": "海岸自然濕地",
+                "remaker": "宜蘭"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.81,
+                    24.658611
+                ]
+            },
+            "properties": {
+                "Name": "52-jia Wetland",
+                "place_names": "五十二甲濕地",
+                "type": "人為濕地及小部分海岸自然濕地",
+                "remaker": "宜蘭"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.857102,
+                    24.625425
+                ]
+            },
+            "properties": {
+                "Name": "Wuwei Harbor Wetland",
+                "place_names": "無尾港濕地",
+                "type": "海岸自然濕地",
+                "remaker": "宜蘭"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.636667,
+                    23.596667
+                ]
+            },
+            "properties": {
+                "Name": "Chingluo Wetland",
+                "place_names": "青螺濕地",
+                "type": "海岸自然濕地及小部分人為濕地",
+                "remaker": "澎湖"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.950833,
+                    26.180556
+                ]
+            },
+            "properties": {
+                "Name": "Cingshuei Wetland",
+                "place_names": "清水濕地",
+                "type": "海岸自然濕地",
+                "remaker": "連江"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.551944,
+                    25.167778
+                ]
+            },
+            "properties": {
+                "Name": "Menghuan Lake Wetland",
+                "place_names": "夢幻湖濕地",
+                "type": "內陸自然濕地",
+                "remaker": "臺北市陽明山"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430556,
+                    24.975
+                ]
+            },
+            "properties": {
+                "Name": "Taoyuan's Reservoir and Canal Wetland",
+                "place_names": "桃園埤圳濕地",
+                "type": "內陸自然濕地及小部分人為濕地",
+                "remaker": "桃園"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.393611,
+                    24.581667
+                ]
+            },
+            "properties": {
+                "Name": "Yuanyang Lake Wetland",
+                "place_names": "鴛鴦湖濕地",
+                "type": "內陸自然濕地",
+                "remaker": "新竹"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.277778,
+                    24.395
+                ]
+            },
+            "properties": {
+                "Name": "CijiawanRiver Wetland",
+                "place_names": "七家灣溪濕地",
+                "type": "內陸自然濕地",
+                "remaker": "台中"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.385278,
+                    23.210556
+                ]
+            },
+            "properties": {
+                "Name": "Jiianan's Reservoir and Canal Wetlands",
+                "place_names": "嘉南埤圳濕地",
+                "type": "內陸人為濕地及小部分自然濕地",
+                "remaker": "嘉義、台南"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304722,
+                    23.183611
+                ]
+            },
+            "properties": {
+                "Name": "Guantian Wetland",
+                "place_names": "官田濕地",
+                "type": "人為濕地",
+                "remaker": "臺南"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655556,
+                    23.204444
+                ]
+            },
+            "properties": {
+                "Name": "Nanzihsiian River Wetland",
+                "place_names": "楠梓仙溪濕地",
+                "type": "內陸自然濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.853611,
+                    22.871389
+                ]
+            },
+            "properties": {
+                "Name": "Daguei Lake Wetland",
+                "place_names": "大鬼湖濕地",
+                "type": "內陸自然濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.856944,
+                    22.088056
+                ]
+            },
+            "properties": {
+                "Name": "Nanren Lake Wetland",
+                "place_names": "南仁湖濕地",
+                "type": "內陸自然濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.734167,
+                    22.976389
+                ]
+            },
+            "properties": {
+                "Name": "Longluan Lake Wetland",
+                "place_names": "龍鑾潭濕地",
+                "type": "內陸自然濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148333,
+                    23.130833
+                ]
+            },
+            "properties": {
+                "Name": "Sinwulyu River Wetland",
+                "place_names": "新武呂溪濕地",
+                "type": "內陸自然濕地",
+                "remaker": "台東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.216667,
+                    23.119167
+                ]
+            },
+            "properties": {
+                "Name": "Dapochih Wetland",
+                "place_names": "大坡池濕地",
+                "type": "內陸自然濕地",
+                "remaker": "台東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.887778,
+                    22.736111
+                ]
+            },
+            "properties": {
+                "Name": "Siiaoguei Lake Wetland",
+                "place_names": "小鬼湖濕地",
+                "type": "內陸自然濕地",
+                "remaker": "臺東、屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.406389,
+                    23.661944
+                ]
+            },
+            "properties": {
+                "Name": "Fataan Wetland (Mataian Wetland)",
+                "place_names": "馬太鞍濕地",
+                "type": "內陸自然濕地",
+                "remaker": "花蓮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.630833,
+                    24.751389
+                ]
+            },
+            "properties": {
+                "Name": "Shuanglian Reservoir Wetland",
+                "place_names": "雙連埤濕地",
+                "type": "內陸自然濕地",
+                "remaker": "宜蘭"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.737778,
+                    24.381389
+                ]
+            },
+            "properties": {
+                "Name": "Nanao Wetland",
+                "place_names": "南澳濕地",
+                "type": "內陸自然濕地",
+                "remaker": "宜蘭"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.282222,
+                    24.456944
+                ]
+            },
+            "properties": {
+                "Name": "Cih Lake Wetland",
+                "place_names": "慈湖濕地",
+                "type": "內陸自然濕地",
+                "remaker": "金門"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.826389,
+                    24.674167
+                ]
+            },
+            "properties": {
+                "Name": "Jhunan Manmade Wetland",
+                "place_names": "竹南人工濕地",
+                "type": "海岸人為濕地",
+                "remaker": "苗栗"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.151667,
+                    23.555833
+                ]
+            },
+            "properties": {
+                "Name": "Chenglong Wetland",
+                "place_names": "成龍濕地",
+                "type": "海岸人為濕地及小部分自然濕地",
+                "remaker": "雲林"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.16,
+                    23.5325
+                ]
+            },
+            "properties": {
+                "Name": "Yiwu Wetland",
+                "place_names": "?梧濕地",
+                "type": "海岸人為濕地及小部分自然濕地",
+                "remaker": "雲林"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.201389,
+                    22.843611
+                ]
+            },
+            "properties": {
+                "Name": "Yongan Salt Pan Wetland",
+                "place_names": "永安鹽田濕地",
+                "type": "海岸人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.258056,
+                    22.728611
+                ]
+            },
+            "properties": {
+                "Name": "Yuanjhong Harbor Wetland",
+                "place_names": "援中港濕地",
+                "type": "海岸人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.195556,
+                    22.884722
+                ]
+            },
+            "properties": {
+                "Name": "Jiading Wetland",
+                "place_names": "茄萣濕地",
+                "type": "人為濕地及小部分海岸自然濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.708889,
+                    22.064444
+                ]
+            },
+            "properties": {
+                "Name": "Sihchong Estuary Wetland",
+                "place_names": "四重溪口濕地",
+                "type": "海岸自然濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688611,
+                    22.051111
+                ]
+            },
+            "properties": {
+                "Name": "National Museum of Marine Biology and Aquarium Manmade Wetland",
+                "place_names": "海生館人工濕地",
+                "type": "人為濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.806667,
+                    24.834722
+                ]
+            },
+            "properties": {
+                "Name": "Jhuan Wetland",
+                "place_names": "竹安濕地",
+                "type": "海岸自然濕地及小部分人為濕地",
+                "remaker": "宜蘭"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.595833,
+                    23.551667
+                ]
+            },
+            "properties": {
+                "Name": "Caiyuan Wetland",
+                "place_names": "菜園濕地",
+                "type": "海岸自然濕地及小部分人為濕地",
+                "remaker": "澎湖"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.953056,
+                    24.88
+                ]
+            },
+            "properties": {
+                "Name": "Jhubei Lianhua Temple Wetland",
+                "place_names": "竹北蓮花寺濕地",
+                "type": "內陸自然濕地",
+                "remaker": "新竹"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.099722,
+                    24.738056
+                ]
+            },
+            "properties": {
+                "Name": "Ecological Park of Toucian River",
+                "place_names": "頭前溪生態公園",
+                "type": "人為濕地",
+                "remaker": "新竹"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026111,
+                    24.584722
+                ]
+            },
+            "properties": {
+                "Name": "Siiangtian Lake Wetland",
+                "place_names": "向天湖濕地",
+                "type": "內陸自然濕地及小部分的人為濕地",
+                "remaker": "苗栗"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.967778,
+                    24.524444
+                ]
+            },
+            "properties": {
+                "Name": "Danan Lake Wetland",
+                "place_names": "大湳湖濕地",
+                "type": "內陸自然濕地",
+                "remaker": "苗栗"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.813333,
+                    24.265
+                ]
+            },
+            "properties": {
+                "Name": "Dongshih Manmade Wetland",
+                "place_names": "東勢人工濕地",
+                "type": "內陸自然濕地",
+                "remaker": "臺中"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.905833,
+                    23.948611
+                ]
+            },
+            "properties": {
+                "Name": "Caonan Wetland",
+                "place_names": "草湳濕地",
+                "type": "內陸自然濕地",
+                "remaker": "南投"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699722,
+                    23.883889
+                ]
+            },
+            "properties": {
+                "Name": "Shinjie Cold Spring Wetland",
+                "place_names": "名間新街冷泉濕地",
+                "type": "河流自然濕地",
+                "remaker": "南投"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.745833,
+                    23.830556
+                ]
+            },
+            "properties": {
+                "Name": "Twin Lakes Wetland",
+                "place_names": "集集雙子湖濕地",
+                "type": "人為濕地",
+                "remaker": "南投"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.901944,
+                    23.828333
+                ]
+            },
+            "properties": {
+                "Name": "TouSher Basin Wetland",
+                "place_names": "頭社盆地濕地",
+                "type": "內陸自然濕地",
+                "remaker": "南投"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.787222,
+                    23.65
+                ]
+            },
+            "properties": {
+                "Name": "Caodi Wetland",
+                "place_names": "草?濕地",
+                "type": "內陸自然濕地",
+                "remaker": "南投"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463889,
+                    23.472778
+                ]
+            },
+            "properties": {
+                "Name": "Mituo Wetland",
+                "place_names": "彌陀濕地",
+                "type": "內陸自然濕地",
+                "remaker": "嘉義"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.419722,
+                    23.432222
+                ]
+            },
+            "properties": {
+                "Name": "Bajhang River mid-stream Wetland",
+                "place_names": "八掌溪中游濕地",
+                "type": "內陸自然濕地",
+                "remaker": "嘉義"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.406667,
+                    23.354722
+                ]
+            },
+            "properties": {
+                "Name": "Baihe Elementary School Manmade Wetland",
+                "place_names": "白河國小人工濕地",
+                "type": "人為濕地",
+                "remaker": "臺南"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.222222,
+                    22.923333
+                ]
+            },
+            "properties": {
+                "Name": "Chianan University of Pharmacy and Science Manmade Wetland",
+                "place_names": "嘉南藥理大學人工濕地",
+                "type": "人為濕地",
+                "remaker": "臺南"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281944,
+                    22.734167
+                ]
+            },
+            "properties": {
+                "Name": "Wetland of the National Kaohsiung University",
+                "place_names": "高雄大學濕地",
+                "type": "人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.421667,
+                    22.658333
+                ]
+            },
+            "properties": {
+                "Name": "Dashu Manmade Wetland",
+                "place_names": "大樹人工濕地",
+                "type": "人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3425,
+                    22.654167
+                ]
+            },
+            "properties": {
+                "Name": "Niaosong Wetland",
+                "place_names": "鳥松濕地",
+                "type": "人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41,
+                    22.491944
+                ]
+            },
+            "properties": {
+                "Name": "Linyuan Manmade Wetland",
+                "place_names": "林園人工濕地",
+                "type": "人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.303889,
+                    22.696667
+                ]
+            },
+            "properties": {
+                "Name": "Banping Lake Wetland",
+                "place_names": "半屏湖濕地",
+                "type": "人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.383333,
+                    22.542778
+                ]
+            },
+            "properties": {
+                "Name": "Fongshan Reservoir Wetland",
+                "place_names": "鳳山水庫",
+                "type": "內陸人為濕地",
+                "remaker": "高雄"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551111,
+                    22.658056
+                ]
+            },
+            "properties": {
+                "Name": "Linluo Manmade Wetland",
+                "place_names": "麟洛人工濕地",
+                "type": "人為濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.436944,
+                    22.677222
+                ]
+            },
+            "properties": {
+                "Name": "Wuluo River Wetland",
+                "place_names": "武洛溪人工濕地",
+                "type": "人為濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471111,
+                    22.511944
+                ]
+            },
+            "properties": {
+                "Name": "Kanding Wetland",
+                "place_names": "崁頂濕地",
+                "type": "河流自然濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.608333,
+                    22.643333
+                ]
+            },
+            "properties": {
+                "Name": "Pingtung University of Science and Technology Manmade Wetland",
+                "place_names": "國立屏東科技大學人工濕地",
+                "type": "人為濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.803333,
+                    22.079722
+                ]
+            },
+            "properties": {
+                "Name": "Shihlinger Mountain Wetland",
+                "place_names": "四林格山濕地",
+                "type": "內陸自然濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.850833,
+                    22.193333
+                ]
+            },
+            "properties": {
+                "Name": "Dongyuan Wetland",
+                "place_names": "東源濕地",
+                "type": "內陸自然濕地",
+                "remaker": "屏東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.166111,
+                    23.043889
+                ]
+            },
+            "properties": {
+                "Name": "Guanshan Manmade Wetland",
+                "place_names": "關山人工濕地",
+                "type": "人為濕地",
+                "remaker": "臺東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.153056,
+                    22.900278
+                ]
+            },
+            "properties": {
+                "Name": "Luanshan Lake Wetland",
+                "place_names": "鸞山湖濕地",
+                "type": "人為濕地",
+                "remaker": "臺東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.881944,
+                    22.351389
+                ]
+            },
+            "properties": {
+                "Name": "Jinlong Lake Wetland",
+                "place_names": "金龍湖濕地",
+                "type": "人為濕地",
+                "remaker": "臺東"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.305556,
+                    23.233333
+                ]
+            },
+            "properties": {
+                "Name": "Lioushihdan Mountain Wetland",
+                "place_names": "六十石山濕地",
+                "type": "內陸自然濕地",
+                "remaker": "花蓮"
+            }
+        }
+    ]
+}

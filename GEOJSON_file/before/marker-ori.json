@@ -1,0 +1,3959 @@
+{
+	"Beach":
+	[{
+			"lon": 121.644206,
+			"lat": 25.230374,
+			"Name": "Jinshan Beach",
+			"place_names": "金山海濱浴場",
+			"remaker": "新北"
+		}, {
+			"lon": 121.416197,
+			"lat": 25.188897,
+			"Name": "Shalun Beach",
+			"place_names": "沙崙海水浴場",
+			"remaker": "新北"
+		}, {
+			"lon": 121.43881,
+			"lat": 25.218001,
+			"Name": "Zhouziwan Beach",
+			"place_names": "洲子灣",
+			"remaker": "新北"
+		}, {
+			"lon": 121.517156,
+			"lat": 25.284618,
+			"Name": "Baishawan Beach",
+			"place_names": "白沙灣",
+			"remaker": "新北"
+		}, {
+			"lon": 121.651787,
+			"lat": 25.218173,
+			"Name": "Xialiao Beach",
+			"place_names": "下寮沙灘",
+			"remaker": "新北"
+		}, {
+			"lon": 121.671923,
+			"lat": 25.201939,
+			"Name": "Guosheng Beach",
+			"place_names": "國聖海灘",
+			"remaker": "新北"
+		}, {
+			"lon": 121.915993,
+			"lat": 25.07531,
+			"Name": "Jinshawan Beach",
+			"place_names": "金沙灣",
+			"remaker": "新北"
+		}, {
+			"lon": 121.686135,
+			"lat": 25.188473,
+			"Name": "Feicuiwan Beach",
+			"place_names": "翡翠灣",
+			"remaker": "新北"
+		}, {
+			"lon": 121.928171,
+			"lat": 25.041494,
+			"Name": "Yanliao Beach",
+			"place_names": "鹽寮海水浴場",
+			"remaker": "新北"
+		}, {
+			"lon": 121.941962,
+			"lat": 25.022742,
+			"Name": "Fulon Beach",
+			"place_names": "福隆海水浴場",
+			"remaker": "新北"
+		}, {
+			"lon": 121.689756,
+			"lat": 25.182466,
+			"Name": "Wanli Beach",
+			"place_names": "萬里海水浴場",
+			"remaker": "新北"
+		}, {
+			"lon": 121.707069,
+			"lat": 25.165323,
+			"Name": "Dawulun White Beach",
+			"place_names": "大武崙白沙灘",
+			"remaker": "基隆"
+		}, {
+			"lon": 121.727115,
+			"lat": 25.163453,
+			"Name": "Waimushan Beach",
+			"place_names": "外木山海水浴場",
+			"remaker": "基隆"
+		}, {
+			"lon": 121.238449,
+			"lat": 25.114896,
+			"Name": "Zhuwei Beach",
+			"place_names": "竹圍海水浴場",
+			"remaker": "桃園"
+		}, {
+			"lon": 121.074665,
+			"lat": 25.046438,
+			"Name": "Guanyin Beach",
+			"place_names": "觀音海水浴場",
+			"remaker": "桃園"
+		}, {
+			"lon": 121.944557,
+			"lat": 24.845317,
+			"Name": "Honeymoon Bay",
+			"place_names": "蜜月灣",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 121.829476,
+			"lat": 24.850414,
+			"Name": "Toucheng Beach",
+			"place_names": "頭城海水浴場",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 121.870037,
+			"lat": 24.5763,
+			"Name": "Neipi Beach",
+			"place_names": "內埤海灣",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 120.9175,
+			"lat": 24.838,
+			"Name": "Naliao Beach",
+			"place_names": "南寮海水浴場",
+			"remaker": "新竹"
+		}, {
+			"lon": 120.975061,
+			"lat": 24.92856,
+			"Name": "Xinfeng Beach",
+			"place_names": "新豐海水浴場",
+			"remaker": "新竹"
+		}, {
+			"lon": 120.670884,
+			"lat": 24.49571,
+			"Name": "Tongxiao Beach",
+			"place_names": "通霄海水浴場",
+			"remaker": "苗栗"
+		}, {
+			"lon": 120.872199,
+			"lat": 24.729082,
+			"Name": "Qiding Beach",
+			"place_names": "崎頂海水浴場",
+			"remaker": "苗栗"
+		}, {
+			"lon": 120.583947,
+			"lat": 24.380339,
+			"Name": "Daan Beach",
+			"place_names": "大安海濱沙灘",
+			"remaker": "台中"
+		}, {
+			"lon": 120.9124,
+			"lat": 23.39316,
+			"Name": "Santiaolun Beach",
+			"place_names": "三條崙海水浴場",
+			"remaker": "雲林縣"
+		}, {
+			"lon": 120.082035,
+			"lat": 23.217494,
+			"Name": "Mashagou Beach",
+			"place_names": "馬沙溝海水浴場",
+			"remaker": "台南"
+		}, {
+			"lon": 120.167359,
+			"lat": 22.960273,
+			"Name": "Kunshen Beach",
+			"place_names": "鯤鯓海水浴場",
+			"remaker": "台南"
+		}, {
+			"lon": 120.263769,
+			"lat": 22.62606,
+			"Name": "Hsi-tzu-wan Bach",
+			"place_names": "西子灣海水浴場",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.267168,
+			"lat": 22.609947,
+			"Name": "Qijin Beach",
+			"place_names": "旗津海水浴場",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.763317,
+			"lat": 21.959494,
+			"Name": "Nawan Beach",
+			"place_names": "南灣海水浴場",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.804256,
+			"lat": 21.941567,
+			"Name": "Xiaowan Beach",
+			"place_names": "小灣海水浴場",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.794666,
+			"lat": 21.944236,
+			"Name": "Kending Beach",
+			"place_names": "墾丁海水浴場",
+			"remaker": "屏東"
+		}, {
+			"lon": 121.54924,
+			"lat": 23.703955,
+			"Name": "Jiqi Beach",
+			"place_names": "磯崎海水浴場",
+			"remaker": "花蓮"
+		}, {
+			"lon": 121.185708,
+			"lat": 22.832086,
+			"Name": "Shayuan Beach",
+			"place_names": "杉原海水浴場",
+			"remaker": "台東"
+		}, {
+			"lon": 119.562353,
+			"lat": 23.569803,
+			"Name": "Guanyinting Beach",
+			"place_names": "觀音亭海水浴場",
+			"remaker": "澎湖"
+		}, {
+			"lon": 119.565643,
+			"lat": 23.526103,
+			"Name": "Shili Beach",
+			"place_names": "?裡沙灘",
+			"remaker": "澎湖"
+		}, {
+			"lon": 119.639288,
+			"lat": 23.555594,
+			"Name": "Aimen Beach",
+			"place_names": "隘門沙灘",
+			"remaker": "澎湖"
+		}, {
+			"lon": 118.467415,
+			"lat": 24.442373,
+			"Name": "Xibian Beach",
+			"place_names": "溪邊海水浴場",
+			"remaker": "金門"
+		}
+	],
+	"Port":
+	[{
+			"lon": 121.7476,
+			"lat": 25.1384,
+			"Name": "Port of Keelung",
+			"place_names": "基隆港",
+			"type": "國際商港",
+			"remaker": ""
+		}, {
+			"lon": 120.508333,
+			"lat": 24.28,
+			"Name": "Port of Taichung",
+			"place_names": "台中港",
+			"type": "國際商港",
+			"remaker": ""
+		}, {
+			"lon": 120.277778,
+			"lat": 22.613056,
+			"Name": "Port of Kaohsiung",
+			"place_names": "高雄港",
+			"type": "國際商港",
+			"remaker": ""
+		}, {
+			"lon": 121.635278,
+			"lat": 24.000833,
+			"Name": "Port of Hualien",
+			"place_names": "花蓮港",
+			"type": "國際商港",
+			"remaker": ""
+		}, {
+			"lon": 121.377811,
+			"lat": 25.154453,
+			"Name": "Port of Taipei",
+			"place_names": "台北港",
+			"type": "國際商港輔助港口",
+			"remaker": ""
+		}, {
+			"lon": 121.85789,
+			"lat": 24.59703,
+			"Name": "Port of Su'ao",
+			"place_names": "蘇澳港",
+			"type": "國際商港輔助港口",
+			"remaker": ""
+		}, {
+			"lon": 121.85789,
+			"lat": 24.59703,
+			"Name": "Port of Anping",
+			"place_names": "安平港",
+			"type": "國際商港輔助港口",
+			"remaker": ""
+		}, {
+			"lon": 120.116667,
+			"lat": 23.366667,
+			"Name": "Port of Budai",
+			"place_names": "布袋港",
+			"type": "國內商港",
+			"remaker": ""
+		}, {
+			"lon": 119.5644,
+			"lat": 23.56308,
+			"Name": "Magong Port",
+			"place_names": "馬公港",
+			"type": "國內商港",
+			"remaker": "澎湖"
+		}, {
+			"lon": 119.672523,
+			"lat": 23.560335,
+			"Name": "Longmen port",
+			"place_names": "龍門港",
+			"type": "國內商港",
+			"remaker": "澎湖"
+		}, {
+			"lon": 118.429309,
+			"lat": 24.408295,
+			"Name": "Liaoluo Port",
+			"place_names": "料羅港",
+			"type": "國內商港",
+			"remaker": "金門"
+		}, {
+			"lon": 118.292783,
+			"lat": 24.421905,
+			"Name": "Shuitou Port",
+			"place_names": "水頭港",
+			"type": "國內商港",
+			"remaker": "金門"
+		}, {
+			"lon": 118.265135,
+			"lat": 24.427055,
+			"Name": "Jiugong Port",
+			"place_names": "九宮港",
+			"type": "國內商港",
+			"remaker": "金門"
+		}, {
+			"lon": 119.942615,
+			"lat": 26.158694,
+			"Name": "Fu'ao Port",
+			"place_names": "福澳港",
+			"type": "國內商港",
+			"remaker": "馬祖"
+		}, {
+			"lon": 119.966661,
+			"lat": 26.205589,
+			"Name": "Baisha Port",
+			"place_names": "白沙港",
+			"type": "國內商港",
+			"remaker": "馬祖"
+		}, {
+			"lon": 119.935469,
+			"lat": 25.966542,
+			"Name": "Qingfan Port",
+			"place_names": "青帆港",
+			"type": "國內商港",
+			"remaker": "馬祖"
+		}, {
+			"lon": 119.96781,
+			"lat": 25.953803,
+			"Name": "Mengao Port",
+			"place_names": "猛澳港",
+			"type": "國內商港",
+			"remaker": "馬祖"
+		}, {
+			"lon": 120.484841,
+			"lat": 26.365101,
+			"Name": "Zhongzhu Port",
+			"place_names": "中柱港",
+			"type": "國內商港",
+			"remaker": "馬祖"
+		}, {
+			"lon": 120.166111,
+			"lat": 23.786667,
+			"Name": "Mailiao Industrial Port",
+			"place_names": "麥寮工業專用港",
+			"type": "工業專用港",
+			"remaker": ""
+		}, {
+			"lon": 121.760893,
+			"lat": 24.299718,
+			"Name": "Mailiao Industrial Port",
+			"place_names": "和平工業專用港",
+			"type": "工業專用港",
+			"remaker": ""
+		}, {
+			"lon": 120.271111,
+			"lat": 22.696111,
+			"Name": "Zuoying Port",
+			"place_names": "左營港",
+			"type": "專用軍港",
+			"remaker": ""
+		}, {
+			"lon": 121.763825,
+			"lat": 25.1542,
+			"Name": "Zhebgbin Fishing Port",
+			"place_names": "正濱漁港",
+			"type": "漁港",
+			"remaker": "基隆市"
+		}, {
+			"lon": 121.789722,
+			"lat": 25.144444,
+			"Name": "Badouzi Fishing Port",
+			"place_names": "八斗子漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "基隆市"
+		}, {
+			"lon": 121.70809,
+			"lat": 25.166626,
+			"Name": "Dawulun Fishing Port",
+			"place_names": "大武崙漁港",
+			"type": "漁港",
+			"remaker": "基隆市"
+		}, {
+			"lon": 121.73323,
+			"lat": 25.159314,
+			"Name": "Waimushan Fishing Port",
+			"place_names": "外木山漁港",
+			"type": "漁港",
+			"remaker": "基隆市"
+		}, {
+			"lon": 121.800226,
+			"lat": 25.140653,
+			"Name": "Changtanli Fishing Port",
+			"place_names": "長潭里漁港",
+			"type": "漁港",
+			"remaker": "基隆市"
+		}, {
+			"lon": 121.803213,
+			"lat": 25.137837,
+			"Name": "Wanghaihang Fishing Port",
+			"place_names": "望海巷漁港",
+			"type": "漁港",
+			"remaker": "基隆市"
+		}, {
+			"lon": 121.381036,
+			"lat": 25.143024,
+			"Name": "Xiaguzi Fishing Port",
+			"place_names": "下罟子漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.435184,
+			"lat": 25.173068,
+			"Name": "Danshui First Fishing Port",
+			"place_names": "淡水第一漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.409559,
+			"lat": 25.183538,
+			"Name": "Yuren Fishing Port",
+			"place_names": "漁人碼頭",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.448592,
+			"lat": 25.242223,
+			"Name": "Liukuaicuo Fishing Port",
+			"place_names": "六塊厝漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.473876,
+			"lat": 25.257291,
+			"Name": "Houcuo Fishing Port",
+			"place_names": "後厝漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.509996,
+			"lat": 25.283995,
+			"Name": "Linshanbi Fishing Port",
+			"place_names": "麟山鼻漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.533611,
+			"lat": 25.291667,
+			"Name": "Fuji Fishing Port",
+			"place_names": "富基漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.546498,
+			"lat": 25.291691,
+			"Name": "Laomei Fishing Port",
+			"place_names": "老梅漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.567329,
+			"lat": 25.294933,
+			"Name": "Shimen Fishing Port",
+			"place_names": "石門漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.606637,
+			"lat": 25.282377,
+			"Name": "Caoli Fishing Port",
+			"place_names": "草里漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.633873,
+			"lat": 25.24194,
+			"Name": "Zhongjiao Fishing Port",
+			"place_names": "中角漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.647807,
+			"lat": 25.230309,
+			"Name": "Huanggang Fishing Port",
+			"place_names": "磺港漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.651204,
+			"lat": 25.225468,
+			"Name": "Shuiwei Fishing Port",
+			"place_names": "水尾漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.68761,
+			"lat": 25.205705,
+			"Name": "Yeliu Fishing Port",
+			"place_names": "野柳漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.6926,
+			"lat": 25.203624,
+			"Name": "Dongao Fishing Port",
+			"place_names": "東澳漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.688832,
+			"lat": 25.195529,
+			"Name": "Guihou Fishing Port",
+			"place_names": "龜吼漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.696693,
+			"lat": 25.180449,
+			"Name": "Wangli Fishing Port",
+			"place_names": "萬里漁港（瑪鍊漁港）",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.820506,
+			"lat": 25.13179,
+			"Name": "Shenao Fishing Port",
+			"place_names": "深澳漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.8677,
+			"lat": 25.122931,
+			"Name": "Shuinandong Fishing Port",
+			"place_names": "水湳洞漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.888181,
+			"lat": 25.121588,
+			"Name": "Naya Fishing Port",
+			"place_names": "南雅漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.915539,
+			"lat": 25.123666,
+			"Name": "BitouFishing Port",
+			"place_names": "鼻頭漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.915485,
+			"lat": 25.11204,
+			"Name": "Longdong Fishing Port",
+			"place_names": "龍洞漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.915649,
+			"lat": 25.079686,
+			"Name": "Hemei Fishing Port",
+			"place_names": "和美漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.92365,
+			"lat": 25.06922,
+			"Name": "Meiyanshan Fishing Port",
+			"place_names": "美豔山漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.926456,
+			"lat": 25.05732,
+			"Name": "Aode Fishing Port",
+			"place_names": "澳底漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.930134,
+			"lat": 25.052636,
+			"Name": "Aozai Fishing Port",
+			"place_names": "澳仔漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 119.67272,
+			"lat": 23.558222,
+			"Name": "Longmen Fishing Port",
+			"place_names": "龍門漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.951014,
+			"lat": 25.021562,
+			"Name": "Fulong Fishing Port",
+			"place_names": "福隆漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.991422,
+			"lat": 25.012545,
+			"Name": "Maoao Fishing Port",
+			"place_names": "卯澳漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 122.002231,
+			"lat": 25.014731,
+			"Name": "Magang Fishing Port",
+			"place_names": "馬崗漁港",
+			"type": "漁港",
+			"remaker": "新北市"
+		}, {
+			"lon": 121.240317,
+			"lat": 25.119243,
+			"Name": "Zhuwei Fishing Port",
+			"place_names": "竹圍漁港",
+			"type": "漁港",
+			"remaker": "桃園市"
+		}, {
+			"lon": 121.011106,
+			"lat": 24.989698,
+			"Name": "Yongan Fishing Port",
+			"place_names": "永安漁港",
+			"type": "漁港",
+			"remaker": "桃園市"
+		}, {
+			"lon": 120.98702,
+			"lat": 24.938897,
+			"Name": "Keke Fishing Port",
+			"place_names": "蚵殼漁港",
+			"type": "漁港",
+			"remaker": "桃園市"
+		}, {
+			"lon": 120.918386,
+			"lat": 24.849746,
+			"Name": "Xinzhu Fishing Port",
+			"place_names": "新竹漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "新竹市"
+		}, {
+			"lon": 120.90351,
+			"lat": 24.765176,
+			"Name": "Haishan Fishing Port",
+			"place_names": "海山漁港",
+			"type": "漁港",
+			"remaker": "新竹市"
+		}, {
+			"lon": 120.971334,
+			"lat": 24.92715,
+			"Name": "Potou Fishing Port",
+			"place_names": "坡頭漁港",
+			"type": "漁港",
+			"remaker": "新竹縣"
+		}, {
+			"lon": 120.862156,
+			"lat": 24.71564,
+			"Name": "Quingcao Fishing Port",
+			"place_names": "青草漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.856228,
+			"lat": 24.700188,
+			"Name": "Longfeng Fishing Port",
+			"place_names": "龍鳳漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.771121,
+			"lat": 24.651521,
+			"Name": "Waibu Fishing Port",
+			"place_names": "外埔漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.757218,
+			"lat": 24.613335,
+			"Name": "Gongsiliao Fishing Port",
+			"place_names": "公司寮漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.747837,
+			"lat": 24.60696,
+			"Name": "Funing Fishing Port",
+			"place_names": "福寧漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.712698,
+			"lat": 24.588808,
+			"Name": "Nagang Fishing Port",
+			"place_names": "南港漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.705539,
+			"lat": 24.571008,
+			"Name": "Baishatun Fishing Port",
+			"place_names": "白沙屯漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.693888,
+			"lat": 24.545196,
+			"Name": "Xinbu Fishing Port",
+			"place_names": "新埔漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.673797,
+			"lat": 24.497555,
+			"Name": "Tongxiao Fishing Port",
+			"place_names": "通霄漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.648517,
+			"lat": 24.460926,
+			"Name": "Yuangang Fishing Port",
+			"place_names": "苑港漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.63297,
+			"lat": 24.44638,
+			"Name": "Yuanli Fishing Port",
+			"place_names": "苑裡漁港",
+			"type": "漁港",
+			"remaker": "苗栗縣"
+		}, {
+			"lon": 120.518049,
+			"lat": 24.292126,
+			"Name": "Wuqi Fishing Port",
+			"place_names": "梧棲漁港",
+			"type": "漁港",
+			"remaker": "臺中市"
+		}, {
+			"lon": 120.617357,
+			"lat": 24.427415,
+			"Name": "Songbai Fishing Port",
+			"place_names": "松柏漁港",
+			"type": "漁港",
+			"remaker": "臺中市"
+		}, {
+			"lon": 120.58799,
+			"lat": 24.390459,
+			"Name": "Wujia Fishing Port",
+			"place_names": "五甲漁港",
+			"type": "漁港",
+			"remaker": "臺中市"
+		}, {
+			"lon": 120.586132,
+			"lat": 24.382944,
+			"Name": "Beishan Fishing Port",
+			"place_names": "北汕漁港",
+			"type": "漁港",
+			"remaker": "臺中市"
+		}, {
+			"lon": 120.581861,
+			"lat": 24.372143,
+			"Name": "Wenliao Fishing Port",
+			"place_names": "塭寮漁港",
+			"type": "漁港",
+			"remaker": "臺中市"
+		}, {
+			"lon": 120.496677,
+			"lat": 24.199016,
+			"Name": "Lishui Fishing Port",
+			"place_names": "麗水漁港",
+			"type": "漁港",
+			"remaker": "臺中市"
+		}, {
+			"lon": 120.421659,
+			"lat": 24.084382,
+			"Name": "Lunweiwan Fishing Port",
+			"place_names": "崙尾灣漁港",
+			"type": "漁港",
+			"remaker": "彰化縣"
+		}, {
+			"lon": 120.32455,
+			"lat": 23.968931,
+			"Name": "Wanggong Fishing Port",
+			"place_names": "王功漁港",
+			"type": "漁港",
+			"remaker": "彰化縣"
+		}, {
+			"lon": 120.150642,
+			"lat": 23.65949,
+			"Name": "Wutiaognag Fishing Port",
+			"place_names": "五條港漁港",
+			"type": "漁港",
+			"remaker": "雲林縣"
+		}, {
+			"lon": 120.172765,
+			"lat": 23.704331,
+			"Name": "Taixi Fishing Port",
+			"place_names": "台西漁港",
+			"type": "漁港",
+			"remaker": "雲林縣"
+		}, {
+			"lon": 120.150483,
+			"lat": 23.65936,
+			"Name": "Santiaolun Fishing Port",
+			"place_names": "三條崙漁港",
+			"type": "漁港",
+			"remaker": "雲林縣"
+		}, {
+			"lon": 120.137139,
+			"lat": 23.619133,
+			"Name": "Boziliao Fishing Port",
+			"place_names": "箔子寮漁港",
+			"type": "漁港",
+			"remaker": "雲林縣"
+		}, {
+			"lon": 120.141721,
+			"lat": 23.572092,
+			"Name": "Jinhuyu Fishing Port",
+			"place_names": "金湖漁港",
+			"type": "漁港",
+			"remaker": "雲林縣"
+		}, {
+			"lon": 120.13917,
+			"lat": 23.560825,
+			"Name": "Taizicun Fishing Port",
+			"place_names": "台子村漁港",
+			"type": "漁港",
+			"remaker": "雲林縣"
+		}, {
+			"lon": 120.169122,
+			"lat": 23.491934,
+			"Name": "Aogu Fishing Port",
+			"place_names": "鰲鼓漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.168942,
+			"lat": 23.490432,
+			"Name": "Fulai Fishing Port",
+			"place_names": "副瀨漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.143818,
+			"lat": 23.467654,
+			"Name": "Wengang Fishing Port",
+			"place_names": "塭港漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.146136,
+			"lat": 23.464858,
+			"Name": "Xiazhuang Fishing Port",
+			"place_names": "下莊漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.137653,
+			"lat": 23.450622,
+			"Name": "Dongshi Fishing Port",
+			"place_names": "東石漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.146853,
+			"lat": 23.437375,
+			"Name": "Wangliao Fishing Port",
+			"place_names": "網寮漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.151803,
+			"lat": 23.424522,
+			"Name": "Baishuihu Fishing Port",
+			"place_names": "白水湖漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.156136,
+			"lat": 23.384602,
+			"Name": "Budai Fishing Port",
+			"place_names": "布袋漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.120671,
+			"lat": 23.34194,
+			"Name": "Haomeili Fishing Port",
+			"place_names": "好美里漁港",
+			"type": "漁港",
+			"remaker": "嘉義縣"
+		}, {
+			"lon": 120.153888,
+			"lat": 22.992586,
+			"Name": "Anping Fishing Port",
+			"place_names": "安平漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "台南市"
+		}, {
+			"lon": 120.133506,
+			"lat": 23.285521,
+			"Name": "Keliao Fishing Port",
+			"place_names": "蚵寮漁港",
+			"type": "漁港",
+			"remaker": "台南市"
+		}, {
+			"lon": 120.095585,
+			"lat": 23.234154,
+			"Name": "Beimen Fishing Port",
+			"place_names": "北門漁港",
+			"type": "漁港",
+			"remaker": "台南市"
+		}, {
+			"lon": 120.08698,
+			"lat": 23.210108,
+			"Name": "Jiangjun Fishing Port",
+			"place_names": "將軍漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "台南市"
+		}, {
+			"lon": 120.070858,
+			"lat": 23.172349,
+			"Name": "Qingshan Fishing Port",
+			"place_names": "青山漁港",
+			"type": "漁港",
+			"remaker": "台南市"
+		}, {
+			"lon": 120.113196,
+			"lat": 23.137518,
+			"Name": "Xiashan Fishing Port",
+			"place_names": "下山漁港",
+			"type": "漁港",
+			"remaker": "台南市"
+		}, {
+			"lon": 120.140602,
+			"lat": 23.007534,
+			"Name": "Sicao Fishing Port",
+			"place_names": "四草漁港",
+			"type": "漁港",
+			"remaker": "台南市"
+		}, {
+			"lon": 120.314831,
+			"lat": 22.570115,
+			"Name": "Qianzhen Fishing Port",
+			"place_names": "前鎮漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.18127,
+			"lat": 22.914398,
+			"Name": "Baishalun Fishing Port",
+			"place_names": "白砂崙漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.19566,
+			"lat": 22.867735,
+			"Name": "Xingda Fishing Port",
+			"place_names": "興達漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.199729,
+			"lat": 22.81363,
+			"Name": "Yongxin Fishing Port",
+			"place_names": "永新漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.233993,
+			"lat": 22.761596,
+			"Name": "Mituo Fishing Port",
+			"place_names": "彌陀漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.254139,
+			"lat": 22.727179,
+			"Name": "Keziliao Fishing Port",
+			"place_names": "蚵子寮漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.272018,
+			"lat": 22.61861,
+			"Name": "Gushan Fishing Port",
+			"place_names": "鼓山漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.273584,
+			"lat": 22.612726,
+			"Name": "Qihou Fishing Port",
+			"place_names": "旗后漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.288044,
+			"lat": 22.591334,
+			"Name": "Qijin Fishing Port",
+			"place_names": "旗津漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.293623,
+			"lat": 22.583403,
+			"Name": "Shanzhuli Fishing Port",
+			"place_names": "上竹里漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.298947,
+			"lat": 22.576407,
+			"Name": "Zhongzhou Fishing Port",
+			"place_names": "中洲漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.339533,
+			"lat": 22.553914,
+			"Name": "Linhai Village Siaogang District Fishing Port",
+			"place_names": "小港臨海新村漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.355261,
+			"lat": 22.508841,
+			"Name": "Fhenbitou Fishing Port",
+			"place_names": "鳳鼻頭漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.381182,
+			"lat": 22.49515,
+			"Name": "Gangbu Fishing Port",
+			"place_names": "港埔漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.399698,
+			"lat": 22.483356,
+			"Name": "Zhongyun Fishing Port",
+			"place_names": "中芸漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.415005,
+			"lat": 22.479053,
+			"Name": "Shanwei Fishing Port",
+			"place_names": "汕尾漁港",
+			"type": "漁港",
+			"remaker": "高雄市"
+		}, {
+			"lon": 120.440678,
+			"lat": 22.470037,
+			"Name": "Yanpu Donggang Fishing Port",
+			"place_names": "東港鹽埔漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.513155,
+			"lat": 22.417725,
+			"Name": "Shuili village Fishing Port",
+			"place_names": "水利村漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.518499,
+			"lat": 22.415069,
+			"Name": "Wenfeng Fishing Port",
+			"place_names": "塭豐漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.593929,
+			"lat": 22.361309,
+			"Name": "Fangliao Fishing Port",
+			"place_names": "枋寮漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.689555,
+			"lat": 22.186969,
+			"Name": "Fenggang Fishing Port",
+			"place_names": "楓港漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.593503,
+			"lat": 22.362351,
+			"Name": "Haikou Fishing Port",
+			"place_names": "海口漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.696433,
+			"lat": 22.042041,
+			"Name": "Houwan Fishing Port",
+			"place_names": "後灣漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.711513,
+			"lat": 21.985863,
+			"Name": "Shanhai Fishing Port",
+			"place_names": "山海漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.715748,
+			"lat": 21.971295,
+			"Name": "Hongchaikeng Fishing Port",
+			"place_names": "紅柴坑漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.745351,
+			"lat": 21.945043,
+			"Name": "Houbihu Fishing Port",
+			"place_names": "後壁湖漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.77693,
+			"lat": 21.950432,
+			"Name": "Tanzai Fishing Port",
+			"place_names": "潭仔漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.831883,
+			"lat": 21.924899,
+			"Name": "Ziangjiaowan Fishing Port",
+			"place_names": "香蕉灣漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.848433,
+			"lat": 21.904811,
+			"Name": "Bitou Fishing Port",
+			"place_names": "鼻頭漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.845117,
+			"lat": 21.974894,
+			"Name": "Xinghai Fishing Port",
+			"place_names": "興海漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.89125,
+			"lat": 22.087495,
+			"Name": "Naren Fishing Port",
+			"place_names": "南仁漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.891235,
+			"lat": 22.137365,
+			"Name": "Zhongshan Fishing Port",
+			"place_names": "中山漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.892148,
+			"lat": 22.197881,
+			"Name": "Xuhai Fishing Port",
+			"place_names": "旭海漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.374429,
+			"lat": 22.334173,
+			"Name": "Dafu Fishing Port",
+			"place_names": "大福漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.388922,
+			"lat": 22.347572,
+			"Name": "Yufu Fishing Port",
+			"place_names": "漁福漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.357815,
+			"lat": 22.322579,
+			"Name": "Haizikou Fishing Port",
+			"place_names": "海子口漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.383124,
+			"lat": 22.35312,
+			"Name": "Baishawei Fishing Port",
+			"place_names": "白沙尾漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 120.362623,
+			"lat": 22.340055,
+			"Name": "Shafu Fishing Port",
+			"place_names": "杉福漁港",
+			"type": "漁港",
+			"remaker": "屏東縣"
+		}, {
+			"lon": 121.836953,
+			"lat": 24.866439,
+			"Name": "Wushi Fishing Port",
+			"place_names": "烏石漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.868541,
+			"lat": 24.582324,
+			"Name": "Nafangao Fishing Port",
+			"place_names": "南方澳漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.950793,
+			"lat": 24.979729,
+			"Name": "Shicheng Fishing Port",
+			"place_names": "石城漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.936096,
+			"lat": 24.97362,
+			"Name": "Tongpanku Fishing Port",
+			"place_names": "桶盤堀漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.921772,
+			"lat": 24.962086,
+			"Name": "Dali Fishing Port",
+			"place_names": "大里漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.914763,
+			"lat": 24.951788,
+			"Name": "Fanshuliao Fishing Port",
+			"place_names": "蕃薯寮漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.899985,
+			"lat": 24.940675,
+			"Name": "Daxi Second Fishing Port",
+			"place_names": "大溪第二漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.898296,
+			"lat": 24.941337,
+			"Name": "Daxi First Fishing Port",
+			"place_names": "大溪第一漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.869727,
+			"lat": 24.904306,
+			"Name": "Gangfang Fishing Port",
+			"place_names": "梗枋漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.842758,
+			"lat": 24.497869,
+			"Name": "Fenniaolin Fishing Port",
+			"place_names": "粉鳥林漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.821149,
+			"lat": 24.461038,
+			"Name": "Chaoyang Fishing Port",
+			"place_names": "朝陽漁港",
+			"type": "漁港",
+			"remaker": "宜蘭縣"
+		}, {
+			"lon": 121.630584,
+			"lat": 23.979172,
+			"Name": "Hualian Fishing Port",
+			"place_names": "花蓮漁港",
+			"type": "漁港",
+			"remaker": "花蓮縣"
+		}, {
+			"lon": 121.586413,
+			"lat": 23.829106,
+			"Name": "Yanliao Fishing Port",
+			"place_names": "鹽寮漁港",
+			"type": "漁港",
+			"remaker": "花蓮縣"
+		}, {
+			"lon": 121.505867,
+			"lat": 23.494189,
+			"Name": "Shiti Fishing Port",
+			"place_names": "石梯漁港",
+			"type": "漁港",
+			"remaker": "花蓮縣"
+		}, {
+			"lon": 121.456592,
+			"lat": 23.312847,
+			"Name": "Changbin Fishing Port",
+			"place_names": "長濱漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.416764,
+			"lat": 23.228199,
+			"Name": "Wubishi Fishing Port",
+			"place_names": "烏石鼻漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.404018,
+			"lat": 23.157954,
+			"Name": "Xiaogang Fishing Port",
+			"place_names": "小港漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.382863,
+			"lat": 23.09681,
+			"Name": "Xingang Fishing Port",
+			"place_names": "新港漁港(成功漁港)",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.29298,
+			"lat": 22.954007,
+			"Name": "Jinzun Fishing Port",
+			"place_names": "金樽漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.202289,
+			"lat": 22.860211,
+			"Name": "Xinlan Fishing Port",
+			"place_names": "新蘭漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.192693,
+			"lat": 22.790975,
+			"Name": "Galan Fishing Port",
+			"place_names": "伽藍漁港(富岡漁港)",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 120.896642,
+			"lat": 22.33661,
+			"Name": "Dawu Fishing Port",
+			"place_names": "大武漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.47181,
+			"lat": 22.659778,
+			"Name": "Naliao Fishing Port",
+			"place_names": "南寮漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.47262,
+			"lat": 22.676119,
+			"Name": "Zhongliao Fishing Port",
+			"place_names": "中寮漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.492828,
+			"lat": 22.675693,
+			"Name": "Gongguan Fishing Port",
+			"place_names": "公館漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.499366,
+			"lat": 22.645793,
+			"Name": "Wenquan Fishing Port",
+			"place_names": "溫泉漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.508159,
+			"lat": 22.058631,
+			"Name": "Kaiyuan Fishing Port",
+			"place_names": "開元漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 121.530352,
+			"lat": 22.080236,
+			"Name": "Langdao Fishing Port",
+			"place_names": "朗島漁港",
+			"type": "漁港",
+			"remaker": "台東縣"
+		}, {
+			"lon": 119.530192,
+			"lat": 23.639767,
+			"Name": "Hojie Fishing Port",
+			"place_names": "合界漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.538025,
+			"lat": 23.633487,
+			"Name": "Hengjiao Fishing Port",
+			"place_names": "橫礁漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.523328,
+			"lat": 23.630555,
+			"Name": "Zhuwan Fishing Port",
+			"place_names": "竹灣漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.52184,
+			"lat": 23.606826,
+			"Name": "Erkan Fishing Port",
+			"place_names": "二崁漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.516723,
+			"lat": 23.5943,
+			"Name": "Daguoye Fishing Port",
+			"place_names": "大?葉漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.512944,
+			"lat": 23.581547,
+			"Name": "Chima Fishing Port",
+			"place_names": "赤馬漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.50065,
+			"lat": 23.56656,
+			"Name": "Neianna Fishing Port",
+			"place_names": "內垵南漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.48055,
+			"lat": 23.563889,
+			"Name": "Waian Fishing Port",
+			"place_names": "外垵漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.499898,
+			"lat": 23.575118,
+			"Name": "Neianbei Fishing Port",
+			"place_names": "內垵北漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.503333,
+			"lat": 23.599999,
+			"Name": "Chixi Fishing Port",
+			"place_names": "池西漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.50479,
+			"lat": 23.616816,
+			"Name": "Dachi Fishing Port",
+			"place_names": "大池漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.516647,
+			"lat": 23.651087,
+			"Name": "Xiaomen Fishing Port",
+			"place_names": "小門漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.569315,
+			"lat": 23.670689,
+			"Name": "Houliao Fishing Port",
+			"place_names": "後寮漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.603335,
+			"lat": 23.666377,
+			"Name": "Chikan Fishing Port",
+			"place_names": "赤崁漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.609196,
+			"lat": 23.649114,
+			"Name": "Qitou Fishing Port",
+			"place_names": "岐頭漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.601674,
+			"lat": 23.648045,
+			"Name": "Gangzi Fishing Port",
+			"place_names": "港子漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.60177,
+			"lat": 23.642157,
+			"Name": "Zhenhai Fishing Port",
+			"place_names": "鎮海漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.599997,
+			"lat": 23.636393,
+			"Name": "Jiangmei Fishing Port",
+			"place_names": "講美漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.596034,
+			"lat": 23.62389,
+			"Name": "Chengqian Fishing Port",
+			"place_names": "城前漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.579984,
+			"lat": 23.657206,
+			"Name": "Wadong Fishing Port",
+			"place_names": "瓦硐漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.555299,
+			"lat": 23.656449,
+			"Name": "Tongliang Fishing Port",
+			"place_names": "通樑漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.568873,
+			"lat": 23.617214,
+			"Name": "Dacang Fishing Port",
+			"place_names": "大倉漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.630903,
+			"lat": 23.646312,
+			"Name": "Yuanbei Fishing Port",
+			"place_names": "員貝漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.655819,
+			"lat": 23.659911,
+			"Name": "Niaoyu Fishing Port",
+			"place_names": "鳥嶼漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.612979,
+			"lat": 23.7396,
+			"Name": "Jiebi Fishing Port",
+			"place_names": "吉貝漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.615247,
+			"lat": 23.604441,
+			"Name": "Zhongxi Fishing Port",
+			"place_names": "中西漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.62004,
+			"lat": 23.606084,
+			"Name": "Shagang West Fishing Port",
+			"place_names": "沙港西漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.626022,
+			"lat": 23.607578,
+			"Name": "Shagang Zhong Fishing Port",
+			"place_names": "沙港中漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.630051,
+			"lat": 23.603348,
+			"Name": "Shagang East Fishing Port",
+			"place_names": "沙港東漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.626501,
+			"lat": 23.583442,
+			"Name": "Chenggong Fishing Port",
+			"place_names": "成功漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.632828,
+			"lat": 23.593711,
+			"Name": "Xixi Fishing Port",
+			"place_names": "西溪漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.640332,
+			"lat": 23.597854,
+			"Name": "Hongluo Fishing Port",
+			"place_names": "紅羅漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.647178,
+			"lat": 23.602402,
+			"Name": "Qingluo Fishing Port",
+			"place_names": "青螺漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.661136,
+			"lat": 23.594997,
+			"Name": "Baikeng Fishing Port",
+			"place_names": "白坑漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.667743,
+			"lat": 23.595572,
+			"Name": "Nanbeiliao Fishing Port",
+			"place_names": "南北寮漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.681247,
+			"lat": 23.577369,
+			"Name": "Guoye Fishing Port",
+			"place_names": "?葉漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.675409,
+			"lat": 23.558617,
+			"Name": "Longmen Fishing Port",
+			"place_names": "龍門漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.668728,
+			"lat": 23.561454,
+			"Name": "Jianshan Fishing Port",
+			"place_names": "尖山漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.625557,
+			"lat": 23.544167,
+			"Name": "Wukan Fishing Port",
+			"place_names": "烏崁漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.605756,
+			"lat": 23.526467,
+			"Name": "Suogang Fishing Port",
+			"place_names": "鎖港漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.596657,
+			"lat": 23.511943,
+			"Name": "Shanshui Fishing Port",
+			"place_names": "山水漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.541513,
+			"lat": 23.541817,
+			"Name": "Fenggui West Fishing Port",
+			"place_names": "風櫃西漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.550003,
+			"lat": 23.541312,
+			"Name": "Fenggui East Fishing Port",
+			"place_names": "風櫃東漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.572551,
+			"lat": 23.528025,
+			"Name": "Shili Fishing Port",
+			"place_names": "蒔裡漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.579308,
+			"lat": 23.52316,
+			"Name": "Jingan Fishing Port",
+			"place_names": "井垵漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.586939,
+			"lat": 23.53,
+			"Name": "Wude Fishing Port",
+			"place_names": "五德漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.596527,
+			"lat": 23.532573,
+			"Name": "Tiexian Fishing Port",
+			"place_names": "鐵線漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.595116,
+			"lat": 23.548663,
+			"Name": "Caiyuan Fishing Port",
+			"place_names": "菜園漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.579929,
+			"lat": 23.523459,
+			"Name": "Shiquan Fishing Port",
+			"place_names": "石泉漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.587498,
+			"lat": 23.551119,
+			"Name": "Qianliao Fishing Port",
+			"place_names": "前寮漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.575414,
+			"lat": 23.558607,
+			"Name": "Anshan Fishing Port",
+			"place_names": "案山漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.568279,
+			"lat": 23.559119,
+			"Name": "Magong Fishing Port",
+			"place_names": "馬公漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.571449,
+			"lat": 23.585507,
+			"Name": "Chongguang Fishing Port",
+			"place_names": "重光漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.583863,
+			"lat": 23.580831,
+			"Name": "Xiwei Fishing Port",
+			"place_names": "西衛漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.598565,
+			"lat": 23.577427,
+			"Name": "Anzhai Fishing Port",
+			"place_names": "安宅漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.519143,
+			"lat": 23.513053,
+			"Name": "Tongpan Fishing Port",
+			"place_names": "桶盤漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.516923,
+			"lat": 23.487003,
+			"Name": "Hujing Fishing Port",
+			"place_names": "虎井漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.501357,
+			"lat": 23.389781,
+			"Name": "Shuian Fishing Port",
+			"place_names": "水垵漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.494145,
+			"lat": 23.372793,
+			"Name": "Zhongshe Fishing Port",
+			"place_names": "中社漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.507782,
+			"lat": 23.363049,
+			"Name": "Tanmen Fishing Port",
+			"place_names": "潭門漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 120.086445,
+			"lat": 23.211585,
+			"Name": "Jianjun Fishing Port",
+			"place_names": "將軍漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.317622,
+			"lat": 23.398666,
+			"Name": "Huayu Fishing Port",
+			"place_names": "花嶼漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.511021,
+			"lat": 23.256162,
+			"Name": "Dongyuping Fishing Port",
+			"place_names": "東嶼坪漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.667166,
+			"lat": 23.253868,
+			"Name": "Dongji Fishing Port",
+			"place_names": "東吉漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 120.776938,
+			"lat": 21.950425,
+			"Name": "Tanzi Fishing Port",
+			"place_names": "潭仔漁港",
+			"type": "漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 119.418944,
+			"lat": 23.194632,
+			"Name": "Qumei Fishing Port",
+			"place_names": "七美漁港",
+			"type": "附遊艇碼頭之漁港",
+			"remaker": "澎湖縣"
+		}, {
+			"lon": 118.4745884,
+			"lat": 24.44535246,
+			"Name": "Fuguodun Fishing Port",
+			"place_names": "復國墩漁港",
+			"type": "漁港",
+			"remaker": "金門縣"
+		}, {
+			"lon": 118.4105,
+			"lat": 24.43178,
+			"Name": "Xinhu Fishing Port",
+			"place_names": "新湖漁港",
+			"type": "漁港",
+			"remaker": "金門縣"
+		}, {
+			"lon": 118.25871,
+			"lat": 24.42465,
+			"Name": "Luocuo Fishing Port",
+			"place_names": "羅厝漁港",
+			"type": "漁港",
+			"remaker": "金門縣"
+		}
+	],
+	"Wetland":
+	[{
+			"lon": 121.406389,
+			"lat": 25.171667,
+			"Name": "Nanao Wetland",
+			"place_names": "臺北港北堤濕地",
+			"type": "海岸自然濕地",
+			"remaker": "淡水河流域濕地"
+		}, {
+			"lon": 121.416433,
+			"lat": 25.166487,
+			"Name": "Wazihwei Wetland",
+			"place_names": "挖子尾濕地",
+			"type": "海岸自然濕地",
+			"remaker": "淡水河流域濕地"
+		}, {
+			"lon": 121.456582,
+			"lat": 25.156261,
+			"Name": "Danshuei River Mangrove Wetland",
+			"place_names": "淡水河紅樹林濕地",
+			"type": "海岸自然濕地",
+			"remaker": "淡水河流域濕地"
+		}, {
+			"lon": 121.470427,
+			"lat": 25.118768,
+			"Name": "Guandu Wetland",
+			"place_names": "關渡濕地",
+			"type": "海岸自然濕地及人為濕地",
+			"remaker": "淡水河流域濕地"
+		}, {
+			"lon": 121.453032,
+			"lat": 25.095347,
+			"Name": "Wugu Wetland",
+			"place_names": "五股濕地",
+			"type": "人為濕地及小部分內陸自然濕地",
+			"remaker": "淡水河流域濕地"
+		}, {
+			"lon": 121.446389,
+			"lat": 25.033333,
+			"Name": "Sinhai Manmade Wetland",
+			"place_names": "新海人工濕地",
+			"type": "人為濕地",
+			"remaker": "淡水河流域濕地"
+		}, {
+			"lon": 121.424018,
+			"lat": 24.973081,
+			"Name": "Lujiao River  Manmade Wetland",
+			"place_names": "鹿角溪人工濕地",
+			"type": "人為濕地",
+			"remaker": "淡水河流域濕地"
+		}, {
+			"lon": 121.438537,
+			"lat": 24.999866,
+			"Name": "Fujhou Manmade Wetland",
+			"place_names": "浮洲人工濕地",
+			"type": "人為濕地",
+			"remaker": "淡水河流域濕地"
+		}, {
+			"lon": 121.174591,
+			"lat": 25.085331,
+			"Name": "Xucuogang Wetland",
+			"place_names": "許厝港濕地",
+			"type": "海岸自然濕地",
+			"remaker": "桃園"
+		}, {
+			"lon": 120.958056,
+			"lat": 24.904444,
+			"Name": "Sinfong Wetland",
+			"place_names": "新豐濕地",
+			"type": "海岸自然濕地",
+			"remaker": "新竹"
+		}, {
+			"lon": 120.899898,
+			"lat": 24.785154,
+			"Name": "Siangshan Wetland",
+			"place_names": "香山溼地",
+			"type": "海岸自然濕地",
+			"remaker": "新竹"
+		}, {
+			"lon": 120.741389,
+			"lat": 24.609722,
+			"Name": "Xihu Wetland",
+			"place_names": "西湖濕地",
+			"type": "海岸自然濕地、人為濕地",
+			"remaker": "苗栗"
+		}, {
+			"lon": 120.543889,
+			"lat": 24.323056,
+			"Name": "Gaomei Wetland",
+			"place_names": "高美濕地",
+			"type": "海岸自然濕地",
+			"remaker": "台中"
+		}, {
+			"lon": 120.485278,
+			"lat": 24.192222,
+			"Name": "Dadu Estuary Wetland",
+			"place_names": "大肚溪口濕地",
+			"type": "海岸自然濕地",
+			"remaker": "台中"
+		}, {
+			"lon": 120.1175,
+			"lat": 23.505278,
+			"Name": "Aogu Wetland",
+			"place_names": "鰲鼓濕地",
+			"type": "海岸堤內濕地及小部分堤外灘地",
+			"remaker": "嘉義"
+		}, {
+			"lon": 120.117222,
+			"lat": 23.417222,
+			"Name": "Puzih Estuary Wetland",
+			"place_names": "朴子溪河口濕地",
+			"type": "海岸自然濕地、河流自然濕地",
+			"remaker": "嘉義"
+		}, {
+			"lon": 120.130278,
+			"lat": 23.366944,
+			"Name": "Haomeiliao Wetland",
+			"place_names": "好美寮濕地",
+			"type": "海岸自然濕地及小部分人為濕地",
+			"remaker": "嘉義"
+		}, {
+			"lon": 120.159722,
+			"lat": 23.36,
+			"Name": "Budai Salt Pan Wetland",
+			"place_names": "布袋鹽田濕地",
+			"type": "人為濕地及小部分海岸自然濕地",
+			"remaker": "嘉義"
+		}, {
+			"lon": 120.116667,
+			"lat": 23.326389,
+			"Name": "Bajhang Estuary Wetland",
+			"place_names": "八掌溪口濕地",
+			"type": "海岸自然濕地",
+			"remaker": "嘉義"
+		}, {
+			"lon": 120.1075,
+			"lat": 23.271389,
+			"Name": "Beimen Wetland",
+			"place_names": "北門濕地",
+			"type": "海岸自然濕地及小部分人為濕地",
+			"remaker": "台南"
+		}, {
+			"lon": 120.076117,
+			"lat": 23.157499,
+			"Name": "Cigu Salt Pan Wetland",
+			"place_names": "七股鹽田濕地",
+			"type": "海岸自然濕地及小部分人為濕地",
+			"remaker": "台南"
+		}, {
+			"lon": 120.149167,
+			"lat": 23.011111,
+			"Name": "Yanshuei Estuary Wetland",
+			"place_names": "鹽水溪口濕地",
+			"type": "海岸自然濕地",
+			"remaker": "台南"
+		}, {
+			"lon": 120.291389,
+			"lat": 22.684167,
+			"Name": "Jhouzai Wetland",
+			"place_names": "洲仔濕地",
+			"type": "人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 121.155278,
+			"lat": 22.772222,
+			"Name": "Beinan Estuary Wetland",
+			"place_names": "卑南溪口濕地",
+			"type": "海岸自然濕地",
+			"remaker": "台東"
+		}, {
+			"lon": 121.604203,
+			"lat": 23.937531,
+			"Name": "Hualien Estuary Wetland",
+			"place_names": "花蓮溪口濕地",
+			"type": "海岸自然濕地",
+			"remaker": "花蓮"
+		}, {
+			"lon": 121.798611,
+			"lat": 24.716389,
+			"Name": "Lanyang Estuary Wetland",
+			"place_names": "蘭陽溪口濕地",
+			"type": "海岸自然濕地",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 121.81,
+			"lat": 24.658611,
+			"Name": "52-jia Wetland",
+			"place_names": "五十二甲濕地",
+			"type": "人為濕地及小部分海岸自然濕地",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 121.857102,
+			"lat": 24.625425,
+			"Name": "Wuwei Harbor Wetland",
+			"place_names": "無尾港濕地",
+			"type": "海岸自然濕地",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 119.636667,
+			"lat": 23.596667,
+			"Name": "Chingluo Wetland",
+			"place_names": "青螺濕地",
+			"type": "海岸自然濕地及小部分人為濕地",
+			"remaker": "澎湖"
+		}, {
+			"lon": 119.950833,
+			"lat": 26.180556,
+			"Name": "Cingshuei Wetland",
+			"place_names": "清水濕地",
+			"type": "海岸自然濕地",
+			"remaker": "連江"
+		}, {
+			"lon": 121.551944,
+			"lat": 25.167778,
+			"Name": "Menghuan Lake Wetland",
+			"place_names": "夢幻湖濕地",
+			"type": "內陸自然濕地",
+			"remaker": "臺北市陽明山"
+		}, {
+			"lon": 121.430556,
+			"lat": 24.975,
+			"Name": "Taoyuan's Reservoir and Canal Wetland",
+			"place_names": "桃園埤圳濕地",
+			"type": "內陸自然濕地及小部分人為濕地",
+			"remaker": "桃園"
+		}, {
+			"lon": 121.393611,
+			"lat": 24.581667,
+			"Name": "Yuanyang Lake Wetland",
+			"place_names": "鴛鴦湖濕地",
+			"type": "內陸自然濕地",
+			"remaker": "新竹"
+		}, {
+			"lon": 121.277778,
+			"lat": 24.395,
+			"Name": "CijiawanRiver Wetland",
+			"place_names": "七家灣溪濕地",
+			"type": "內陸自然濕地",
+			"remaker": "台中"
+		}, {
+			"lon": 120.385278,
+			"lat": 23.210556,
+			"Name": "Jiianan's Reservoir and Canal Wetlands",
+			"place_names": "嘉南埤圳濕地",
+			"type": "內陸人為濕地及小部分自然濕地",
+			"remaker": "嘉義、台南"
+		}, {
+			"lon": 120.304722,
+			"lat": 23.183611,
+			"Name": "Guantian Wetland",
+			"place_names": "官田濕地",
+			"type": "人為濕地",
+			"remaker": "臺南"
+		}, {
+			"lon": 120.655556,
+			"lat": 23.204444,
+			"Name": "Nanzihsiian River Wetland",
+			"place_names": "楠梓仙溪濕地",
+			"type": "內陸自然濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.853611,
+			"lat": 22.871389,
+			"Name": "Daguei Lake Wetland",
+			"place_names": "大鬼湖濕地",
+			"type": "內陸自然濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.856944,
+			"lat": 22.088056,
+			"Name": "Nanren Lake Wetland",
+			"place_names": "南仁湖濕地",
+			"type": "內陸自然濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.734167,
+			"lat": 22.976389,
+			"Name": "Longluan Lake Wetland",
+			"place_names": "龍鑾潭濕地",
+			"type": "內陸自然濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 121.148333,
+			"lat": 23.130833,
+			"Name": "Sinwulyu River Wetland",
+			"place_names": "新武呂溪濕地",
+			"type": "內陸自然濕地",
+			"remaker": "台東"
+		}, {
+			"lon": 121.216667,
+			"lat": 23.119167,
+			"Name": "Dapochih Wetland",
+			"place_names": "大坡池濕地",
+			"type": "內陸自然濕地",
+			"remaker": "台東"
+		}, {
+			"lon": 120.887778,
+			"lat": 22.736111,
+			"Name": "Siiaoguei Lake Wetland",
+			"place_names": "小鬼湖濕地",
+			"type": "內陸自然濕地",
+			"remaker": "臺東、屏東"
+		}, {
+			"lon": 121.406389,
+			"lat": 23.661944,
+			"Name": "Fataan Wetland (Mataian Wetland)",
+			"place_names": "馬太鞍濕地",
+			"type": "內陸自然濕地",
+			"remaker": "花蓮"
+		}, {
+			"lon": 121.630833,
+			"lat": 24.751389,
+			"Name": "Shuanglian Reservoir Wetland",
+			"place_names": "雙連埤濕地",
+			"type": "內陸自然濕地",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 121.737778,
+			"lat": 24.381389,
+			"Name": "Nanao Wetland",
+			"place_names": "南澳濕地",
+			"type": "內陸自然濕地",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 118.282222,
+			"lat": 24.456944,
+			"Name": "Cih Lake Wetland",
+			"place_names": "慈湖濕地",
+			"type": "內陸自然濕地",
+			"remaker": "金門"
+		}, {
+			"lon": 120.826389,
+			"lat": 24.674167,
+			"Name": "Jhunan Manmade Wetland",
+			"place_names": "竹南人工濕地",
+			"type": "海岸人為濕地",
+			"remaker": "苗栗"
+		}, {
+			"lon": 120.151667,
+			"lat": 23.555833,
+			"Name": "Chenglong Wetland",
+			"place_names": "成龍濕地",
+			"type": "海岸人為濕地及小部分自然濕地",
+			"remaker": "雲林"
+		}, {
+			"lon": 120.16,
+			"lat": 23.5325,
+			"Name": "Yiwu Wetland",
+			"place_names": "?梧濕地",
+			"type": "海岸人為濕地及小部分自然濕地",
+			"remaker": "雲林"
+		}, {
+			"lon": 120.201389,
+			"lat": 22.843611,
+			"Name": "Yongan Salt Pan Wetland",
+			"place_names": "永安鹽田濕地",
+			"type": "海岸人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.258056,
+			"lat": 22.728611,
+			"Name": "Yuanjhong Harbor Wetland",
+			"place_names": "援中港濕地",
+			"type": "海岸人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.195556,
+			"lat": 22.884722,
+			"Name": "Jiading Wetland",
+			"place_names": "茄萣濕地",
+			"type": "人為濕地及小部分海岸自然濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.708889,
+			"lat": 22.064444,
+			"Name": "Sihchong Estuary Wetland",
+			"place_names": "四重溪口濕地",
+			"type": "海岸自然濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.688611,
+			"lat": 22.051111,
+			"Name": "National Museum of Marine Biology and Aquarium Manmade Wetland",
+			"place_names": "海生館人工濕地",
+			"type": "人為濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 121.806667,
+			"lat": 24.834722,
+			"Name": "Jhuan Wetland",
+			"place_names": "竹安濕地",
+			"type": "海岸自然濕地及小部分人為濕地",
+			"remaker": "宜蘭"
+		}, {
+			"lon": 119.595833,
+			"lat": 23.551667,
+			"Name": "Caiyuan Wetland",
+			"place_names": "菜園濕地",
+			"type": "海岸自然濕地及小部分人為濕地",
+			"remaker": "澎湖"
+		}, {
+			"lon": 120.953056,
+			"lat": 24.88,
+			"Name": "Jhubei Lianhua Temple Wetland",
+			"place_names": "竹北蓮花寺濕地",
+			"type": "內陸自然濕地",
+			"remaker": "新竹"
+		}, {
+			"lon": 121.099722,
+			"lat": 24.738056,
+			"Name": "Ecological Park of Toucian River",
+			"place_names": "頭前溪生態公園",
+			"type": "人為濕地",
+			"remaker": "新竹"
+		}, {
+			"lon": 121.026111,
+			"lat": 24.584722,
+			"Name": "Siiangtian Lake Wetland",
+			"place_names": "向天湖濕地",
+			"type": "內陸自然濕地及小部分的人為濕地",
+			"remaker": "苗栗"
+		}, {
+			"lon": 120.967778,
+			"lat": 24.524444,
+			"Name": "Danan Lake Wetland",
+			"place_names": "大湳湖濕地",
+			"type": "內陸自然濕地",
+			"remaker": "苗栗"
+		}, {
+			"lon": 120.813333,
+			"lat": 24.265,
+			"Name": "Dongshih Manmade Wetland",
+			"place_names": "東勢人工濕地",
+			"type": "內陸自然濕地",
+			"remaker": "臺中"
+		}, {
+			"lon": 120.905833,
+			"lat": 23.948611,
+			"Name": "Caonan Wetland",
+			"place_names": "草湳濕地",
+			"type": "內陸自然濕地",
+			"remaker": "南投"
+		}, {
+			"lon": 120.699722,
+			"lat": 23.883889,
+			"Name": "Shinjie Cold Spring Wetland",
+			"place_names": "名間新街冷泉濕地",
+			"type": "河流自然濕地",
+			"remaker": "南投"
+		}, {
+			"lon": 120.745833,
+			"lat": 23.830556,
+			"Name": "Twin Lakes Wetland",
+			"place_names": "集集雙子湖濕地",
+			"type": "人為濕地",
+			"remaker": "南投"
+		}, {
+			"lon": 120.901944,
+			"lat": 23.828333,
+			"Name": "TouSher Basin Wetland",
+			"place_names": "頭社盆地濕地",
+			"type": "內陸自然濕地",
+			"remaker": "南投"
+		}, {
+			"lon": 120.787222,
+			"lat": 23.65,
+			"Name": "Caodi Wetland",
+			"place_names": "草?濕地",
+			"type": "內陸自然濕地",
+			"remaker": "南投"
+		}, {
+			"lon": 120.463889,
+			"lat": 23.472778,
+			"Name": "Mituo Wetland",
+			"place_names": "彌陀濕地",
+			"type": "內陸自然濕地",
+			"remaker": "嘉義"
+		}, {
+			"lon": 120.419722,
+			"lat": 23.432222,
+			"Name": "Bajhang River mid-stream Wetland",
+			"place_names": "八掌溪中游濕地",
+			"type": "內陸自然濕地",
+			"remaker": "嘉義"
+		}, {
+			"lon": 120.406667,
+			"lat": 23.354722,
+			"Name": "Baihe Elementary School Manmade Wetland",
+			"place_names": "白河國小人工濕地",
+			"type": "人為濕地",
+			"remaker": "臺南"
+		}, {
+			"lon": 120.222222,
+			"lat": 22.923333,
+			"Name": "Chianan University of Pharmacy and Science Manmade Wetland",
+			"place_names": "嘉南藥理大學人工濕地",
+			"type": "人為濕地",
+			"remaker": "臺南"
+		}, {
+			"lon": 120.281944,
+			"lat": 22.734167,
+			"Name": "Wetland of the National Kaohsiung University",
+			"place_names": "高雄大學濕地",
+			"type": "人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.421667,
+			"lat": 22.658333,
+			"Name": "Dashu Manmade Wetland",
+			"place_names": "大樹人工濕地",
+			"type": "人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.3425,
+			"lat": 22.654167,
+			"Name": "Niaosong Wetland",
+			"place_names": "鳥松濕地",
+			"type": "人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.41,
+			"lat": 22.491944,
+			"Name": "Linyuan Manmade Wetland",
+			"place_names": "林園人工濕地",
+			"type": "人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.303889,
+			"lat": 22.696667,
+			"Name": "Banping Lake Wetland",
+			"place_names": "半屏湖濕地",
+			"type": "人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.383333,
+			"lat": 22.542778,
+			"Name": "Fongshan Reservoir Wetland",
+			"place_names": "鳳山水庫",
+			"type": "內陸人為濕地",
+			"remaker": "高雄"
+		}, {
+			"lon": 120.551111,
+			"lat": 22.658056,
+			"Name": "Linluo Manmade Wetland",
+			"place_names": "麟洛人工濕地",
+			"type": "人為濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.436944,
+			"lat": 22.677222,
+			"Name": "Wuluo River Wetland",
+			"place_names": "武洛溪人工濕地",
+			"type": "人為濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.471111,
+			"lat": 22.511944,
+			"Name": "Kanding Wetland",
+			"place_names": "崁頂濕地",
+			"type": "河流自然濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.608333,
+			"lat": 22.643333,
+			"Name": "Pingtung University of Science and Technology Manmade Wetland",
+			"place_names": "國立屏東科技大學人工濕地",
+			"type": "人為濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.803333,
+			"lat": 22.079722,
+			"Name": "Shihlinger Mountain Wetland",
+			"place_names": "四林格山濕地",
+			"type": "內陸自然濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 120.850833,
+			"lat": 22.193333,
+			"Name": "Dongyuan Wetland",
+			"place_names": "東源濕地",
+			"type": "內陸自然濕地",
+			"remaker": "屏東"
+		}, {
+			"lon": 121.166111,
+			"lat": 23.043889,
+			"Name": "Guanshan Manmade Wetland",
+			"place_names": "關山人工濕地",
+			"type": "人為濕地",
+			"remaker": "臺東"
+		}, {
+			"lon": 121.153056,
+			"lat": 22.900278,
+			"Name": "Luanshan Lake Wetland",
+			"place_names": "鸞山湖濕地",
+			"type": "人為濕地",
+			"remaker": "臺東"
+		}, {
+			"lon": 120.881944,
+			"lat": 22.351389,
+			"Name": "Jinlong Lake Wetland",
+			"place_names": "金龍湖濕地",
+			"type": "人為濕地",
+			"remaker": "臺東"
+		}, {
+			"lon": 121.305556,
+			"lat": 23.233333,
+			"Name": "Lioushihdan Mountain Wetland",
+			"place_names": "六十石山濕地",
+			"type": "內陸自然濕地",
+			"remaker": "花蓮"
+		}
+	],
+	"City_position":
+[{
+		"lon": 121.661814,
+		"lat": 25.212596,
+		"Name": "新北市",
+		"Name_E": "Taipei"
+	}, {
+		"lon": 120.253289,
+		"lat": 22.662277,
+		"Name": "高雄市",
+		"Name_E": "Kaohsiung"
+	}, {
+		"lon": 120.551293,
+		"lat": 24.323039,
+		"Name": "臺中市",
+		"Name_E": "Taichung"
+	}, {
+		"lon": 121.107199,
+		"lat": 25.065696,
+		"Name": "桃園縣",
+		"Name_E": "Taoyuan"
+	}, {
+		"lon": 120.072378,
+		"lat": 23.119171,
+		"Name": "台南市",
+		"Name_E": "Tainan"
+	}, {
+		"lon": 120.359827,
+		"lat": 24.020477,
+		"Name": "彰化縣",
+		"Name_E": "Changhua"
+	}, {
+		"lon": 120.702549,
+		"lat": 21.993264,
+		"Name": "屏東縣",
+		"Name_E": "Pingtung"
+	}, {
+		"lon": 120.164293,
+		"lat": 23.692206,
+		"Name": "雲林縣",
+		"Name_E": "Yunlin"
+	}, {
+		"lon": 120.762755,
+		"lat": 24.61656,
+		"Name": "苗栗縣",
+		"Name_E": "Miaoli"
+	}, {
+		"lon": 120.143474,
+		"lat": 23.431856,
+		"Name": "嘉義縣",
+		"Name_E": "Chiayi"
+	}, {
+		"lon": 120.922272,
+		"lat": 24.84496,
+		"Name": "新竹縣",
+		"Name_E": "Hsinchu"
+	}, {
+		"lon": 121.846611,
+		"lat": 24.644463,
+		"Name": "宜蘭縣",
+		"Name_E": "Yilan"
+	}, {
+		"lon": 121.601511,
+		"lat": 23.900587,
+		"Name": "花蓮縣",
+		"Name_E": "Hualien"
+	}, {
+		"lon": 121.189367,
+		"lat": 22.838978,
+		"Name": "臺東縣",
+		"Name_E": "Taitung"
+	}, {
+		"lon": 119.6151,
+		"lat": 23.56548,
+		"Name": "澎湖縣",
+		"Name_E":""
+	}, {
+		"lon": 121.7476,
+		"lat": 25.1384,
+		"Name": "基隆市",
+		"Name_E": "Keelung"
+	}
+],
+	"Districts": 
+	[{
+			"lon": 121.4849,
+			"lat": 25.21369,
+			"Name": "老梅海岸石門區",
+			"Name_E": "shihmen"
+		},{
+			"lon": 121.063,
+			"lat": 25.0367,
+			"Name": "桃園觀音區",
+			"Name_E": "kuanyin"
+		},{
+			"lon": 120.9814,
+			"lat": 24.9142,
+			"Name": "桃園新屋區",
+			"Name_E": "hsinwu"
+		},{
+			"lon": 121.74909,
+			"lat": 25.03115,
+			"Name": "瑞芳區",
+			"Name_E": "juifang"
+		},{
+			"lon": 121.7475,
+			"lat": 24.7776,
+			"Name": "宜蘭頭城區",
+			"Name_E": "toucheng"
+		},{
+			"lon": 121.85918,
+			"lat": 24.9534,
+			"Name": "貢寮區",
+			"Name_E": "kungliao"
+		},{
+			"lon": 120.24100,
+			"lat": 22.6528,
+			"Name": "高雄左營區",
+			"Name_E": "tsoying"
+		}
+	],
+	"CoastalResources":
+	[{
+			"lon": 121.9501,
+			"lat": 24.842641,
+			"Name": "Guishan Island",
+			"place_names": "龜山島",
+			"remaker": "位於宜蘭東方約 10 餘公里之海域，為孤懸於海中之火山島嶼，外 貌酷似浮龜而得名，屬宜蘭縣頭城鎮所轄。除龜尾和北岸為礫石灘外， 其他海岸多為崩落堆積而成的崖錐、峭壁和海蝕洞。龜山島的珊瑚礁位 在龜尾東北岸，分布水深大約從岸邊 1 公尺以下到 6 公尺左右，分布寬 度約 150 公尺左右，擁有種類繁多的無脊椎動物和珊瑚礁魚類在此棲息。"
+		}, {
+			"lon": 121.806667,
+			"lat": 24.834722,
+			"Name": "Jhuan Wetland",
+			"place_names": "竹安濕地",
+			"remaker": "位於頭城鎮與礁溪鄉交界處，曾為蘭陽平原最大的沼澤區。竹 安濕地是匯集頭城河、福德溪、金面溪、得子口溪等溪流，於河口因沙 丘阻滯溪水所形成的後背濕地，後又因下埔地區的養殖業快速興盛後，卻因病害污染及經濟因素而快速衰微，被廢棄的魚塭因富含生物資源，而成為宜蘭地區的水鳥重要集散地，每年 10 月起的雁鴨度冬季節，雁鴨群陸續飛到此地棲息覓食。"
+		}, {
+			"lon": 121.798611,
+			"lat": 24.716389,
+			"Name": "Lanyang Estuary Wetland",
+			"place_names": "蘭陽溪口濕地",
+			"remaker": "位於壯圍鄉與五結鄉交界處，已納入「蘭陽溪口水鳥保護區」（85 年 9 月 16 日成立），面積 206 公頃。國際自然資源保育聯盟（IUCN〉亞洲濕地調查所也將此地列為臺灣 12 大濕地之一，歷年來共記錄到鳥類236 種。"
+		}, {
+			"lon": 121.857102,
+			"lat": 24.625425,
+			"Name": "Wuwei Harbor Wetland",
+			"place_names": "無尾港濕地",
+			"remaker": "位於宜蘭縣蘇澳鎮，是由舊河口演變成的沼澤濕地。本地位 在秋冬季候鳥過境的必經路線上，加上濕地特有的豐富水生動植物資 源，提供了鳥類食物來源，因此成為臺灣主要雁鴨度冬區之一。農委會 於 75 年 11 月 28 日成立「宜蘭縣無尾港水鳥保護區」，面積 101.63 公頃。"
+		}, {
+			"lon": 121.85859,
+			"lat": 24.481428,
+			"Name": "Wushibi",
+			"place_names": "烏石鼻",
+			"remaker": "蘇花海岸最壯觀的岬角，西臨太平洋處為陡峭的山崖，下方是 由崩落的碎石組成的岩岸，長期經強風、海水侵蝕，形成特殊的海蝕地 形；上方離海平面較遠處為茂密的森林，由不同的植物相組成；由於本 區為一特殊的海岬地形景觀，亟需保護，農委會於 83 年 1 月 10 日公告 「烏石鼻海岸自然保留區」，面積 347 公頃。另農委會於 89 年 10 月 19 日公告「觀音海岸野生動物重要棲息環境」，本區位在南澳，谷風間東 向陡坡面，南北全長約 8.5 公里，約自海岸山-南山間嶺線至海濱，面積 有 519 公頃，因地勢陡峭開發不易，所以保有較原始的棲地。"
+		}, {
+			"lon": 121.727053,
+			"lat": 25.163241,
+			"Name": "Waimushan Coastal",
+			"place_names": "外木山海岸",
+			"remaker": "基隆市轄區僅存最長的天然海岸，一側為開闊的海岸景 觀，一側為高聳的單面山懸崖，景色壯麗。"
+		}, {
+			"lon": 121.768055,
+			"lat": 25.158056,
+			"Name": "Peace Island",
+			"place_names": "和平島",
+			"remaker": "基隆市中正區，位於基隆港東北側，距基隆市約 4 公里，因 公路與橋梁的修築，早已和臺灣本島連接；由於海岸出露的地層特性與 受強勁東北季風吹襲以及海浪拍打侵蝕等影響，造就和平島多奇岩怪石 的天然景觀。位於和平島最北端的和平島公園，園區內以多樣的海蝕地 形景觀著稱，包括濱台（海蝕平台、波蝕棚）、豆腐岩、海蝕溝、海蝕 崖、風化窗、海蝕洞、蕈狀岩等，已納入北海岸及觀音山國家風景特定 區管理。"
+		}, {
+			"lon": 121.919683,
+			"lat": 25.127813,
+			"Name": "Bitoujiiao",
+			"place_names": "鼻頭角",
+			"remaker": "鼻頭角為東北角海岸突出海面的一個岬角，該岬角正好是東 西向海岸及南北向海岸的交點。鼻頭角南側海蝕崖下方的海蝕凹壁非 常典型。"
+		}, {
+			"lon": 121.893834,
+			"lat": 25.119928,
+			"Name": "Nanya Coastal",
+			"place_names": "南雅海岸",
+			"remaker": "鄰近海岸多屬於砂、頁岩互層，形成差異風化、侵蝕地形。 因強勁東北季風及岩石內的含鐵礦物氧化，形成美麗的「霜淇淋岩」。"
+		}, {
+			"lon": 121.92325,
+			"lat": 25.103984,
+			"Name": "Longdong Cape",
+			"place_names": "龍洞岬",
+			"remaker": "以龍洞灣與鼻頭角相隔，岬頭出露的四稜砂岩，為東北角海 岸出露的最老地層，色澤淺白且抗蝕力高，形成陡峭壯麗的海崖景觀； 岬灣海床的底質堅硬，多有珊瑚礁分布。"
+		}, {
+			"lon": 122.003588,
+			"lat": 25.008975,
+			"Name": "Sandiaojiao",
+			"place_names": "三貂角",
+			"remaker": "是臺灣本島最東點，亦為雪山山脈的最北端。該處岩層主要 以細粒石英質砂岩間夾黑色頁岩的「媽崗砂岩」。卯澳至三貂角海域， 是本段海岸珊瑚種類最多、豐富度最高的地區。"
+		}, {
+			"lon": 121.928171,
+			"lat": 25.041494,
+			"Name": "Fulong",
+			"place_names": "福隆",
+			"remaker": "位於雙溪河口入海處，因近岸流與河水共同作用堆積出沙嘴地 形，形成內河與外海，目前為福隆海水浴場所在地"
+		}, {
+			"lon": 121.511973,
+			"lat": 25.287031,
+			"Name": "Linshanbi",
+			"place_names": "麟山鼻",
+			"remaker": "麟山鼻係北部海岸地形的分界，麟山鼻以西主要是沙（砂） 岸，以東是則以岩岸為主。麟山鼻岬角是 80 萬年前大屯火山爆發，熔 岩流經此處所形成，地層以安山岩為主。崩解的安山岩經過長年風蝕 作用，形成北海岸獨特的風稜石，麟山鼻與富貴角間有長約 1 公里的 半月形海灣，即白沙灣。北海岸沿海保護區內有藻礁分布，是潮間帶 生物的重要棲息地。"
+		}, {
+			"lon": 121.536557,
+			"lat": 25.299239,
+			"Name": "Fuguijiao",
+			"place_names": "富貴角",
+			"remaker": "富貴角為臺灣最北端，係由第 4 紀大屯火山群竹子火山熔岩 流入海中所形成。區內最具特色的地質地形景觀為風稜石，不論在數 量或規模上都相當可觀，堪稱臺灣首屈一指。"
+		}, {
+			"lon": 121.638583,
+			"lat": 25.225165,
+			"Name": "Jinshan",
+			"place_names": "金山",
+			"remaker": "位於金山（北）磺溪河口平原東側，因堅硬五指山層砂岩 突出地表，形成孤立延伸入海的岬角，又稱磺港半島，過去為軍事管 制區，故仍保有原始自然生態景觀。燭台雙嶼佇立在金山岬外海約 450公尺處，高約 60 公尺，是經長年波浪侵蝕而形成的海蝕柱。"
+		}, {
+			"lon": 121.691203,
+			"lat": 25.206944,
+			"Name": "Yehliu ",
+			"place_names": "野柳",
+			"remaker": "野柳為突出於海岸的狹長海岬，風化與侵蝕作用明顯，區內蕈 狀石、燭台石、薑石、壺穴、棋盤石、海蝕洞等，皆為獨特地形景觀 資源。野柳岬往陸地側之淺水海域一帶為岩質海底，其亞潮帶內大型 無脊椎動物以固著性之造礁珊瑚為主，主要之珊瑚種類有綠石珊瑚、 花菜珊瑚、板片狀珊瑚、指狀珊瑚等"
+		}, {
+			"lon": 121.414305,
+			"lat": 25.167748,
+			"Name": "Waziwei",
+			"place_names": "挖子尾紅樹林",
+			"remaker": "挖子尾位於淡水河口南岸，河流挾帶的泥沙及有機物， 在沙嘴內側形成一片沼澤地，為典型的河口生態系。為保存水筆仔紅 樹林及其伴生動、植物所形成的生態系，避免受到人為干擾，農委會 於 83 年 1 月將該區公告為「挖子尾自然保留區」。本區之水筆仔純林 與竹圍紅樹林為全世界水筆仔分布最北界，且面積最大的一塊。在保 護區內，常見彈塗魚、蟹類及上百種鳥類，當海水退潮時，紅樹林間 的流道成了小白鷺等鳥類之覓食場所。本區設有木棧道，可提供民眾 完整觀察水筆仔的生長生態。另臺北港東側泥質灘地，為東方環頸鴴 繁殖棲地。"
+		}, {
+			"lon": 121.458744,
+			"lat": 25.154711,
+			"Name": "Zhuwei Hongshulin",
+			"place_names": "竹圍紅樹林",
+			"remaker": "在地形上屬河口潮間帶泥質灘地，水筆仔灌叢佔全區 50 ％左右，為此區主要樹種。水筆仔植株高度差異頗大，從 0.6 至 5 公 尺都有。農委會於 75 年 6 月將該區公告為「淡水河紅樹林自然保留 區」。由於受到妥善保護，本區成為臺灣地區面積最大，且較完整的 水筆仔純林。"
+		}, {
+			"lon": 121.470427,
+			"lat": 25.118768,
+			"Name": "Guandu Wetland",
+			"place_names": "關渡濕地",
+			"remaker": "屬河口濕地，原為大面積的泥質灘地，複雜的生態系統同時吸 引各類型的候鳥在此聚集，是國際知名的候鳥遷移重站，為臺灣北部 地區一處非常重要的賞鳥區。但近數十年來，紅樹林不斷擴張，已使 潮間帶生態系轉變為海岸林生態系。農委會於 75 年 6 月將該區公告為 「關渡自然保留區」。"
+		}, {
+			"lon": 121.790335,
+			"lat": 24.452864,
+			"Name": "Guanyin Coastal",
+			"place_names": "觀音海岸",
+			"remaker": "有一片長約 5 公里、寬約 500 公尺、高約 4 公尺的藻礁地形， 是目前國內發現面積最大的藻礁，其中從觀音區小飯壢溪到新屋溪，是最完 整、生長最好的一段。因為藻礁係由紅藻、綠藻等石灰藻類經由膠結及鈣化 作用，沉積碳酸鈣所形成，因生長速度緩慢，1 年只長 0.1 至 0.2 公分，依估 計觀音海岸的藻礁，至少要經歷 2 千年以上方能長成現今規模。"
+		}, {
+			"lon": 120.967092,
+			"lat": 24.909301,
+			"Name": "Xinfeng Bayou",
+			"place_names": "新豐溪河口",
+			"remaker": "北岸除了海茄苳，還有零星的水筆仔混生；河口南岸濕地的 優勢植物是水筆仔紅樹林，另還有完整的木麻黃、黃槿保安林綠帶和朴樹群， 適合動物棲息。紅毛港紅樹林，面積約有 10 公頃，主要植生物種為海茄苳與 水筆仔混生林。"
+		}, {
+			"lon": 120.899898,
+			"lat": 24.785154,
+			"Name": "Siangshan Wetland",
+			"place_names": "香山濕地",
+			"remaker": "客雅溪口至鹽港溪口的沿海地區，退潮時出現寬約 2 公里，長達 13 公里 的潮埔地，即為香山濕地。香山濕地招潮蟹超過 40 種，數量推估達 4 億隻。 另外，客雅溪口及三姓溪口附近泥灘地，面積約有 20 公頃的紅樹林，香山濕 地亦約有 20 公頃紅樹林生長。香山濕地沿海同時是重要漁場，客雅溪口的西 北海域是法定的魚礁保護區；南岸的潮間帶地形平緩，有不少魚苗、蟹苗生 長，為臺灣重要的沿岸漁業區之一。"
+		}, {
+			"lon": 120.919314,
+			"lat": 24.640508,
+			"Name": "Zhonggang Creek",
+			"place_names": "中港溪",
+			"remaker": "北岸之射流溝及五福大橋附近，有水筆仔純林分布，面積約 4.5 公頃；堤防沿線泥質灘地，有零星分布之紅樹林，除水筆仔外，還有少數海茄苳及欖李，面積約有 0.5 公頃。另外沿海沙丘上有完整的木麻黃、黃槿等保安林帶，適合動物棲息。中港溪南岸，沙丘地形較為發達。"
+		}, {
+			"lon": 120.566121,
+			"lat": 24.325291,
+			"Name": "Dajia Bayou",
+			"place_names": "大甲溪口",
+			"remaker": "有稀有單子葉植物在低海拔的物種，如雲林莞草（扁稈藨草）、 甘藻。此外，大安水蓑衣為臺灣特有種的珍貴稀有植物，目前只零星分布於 大安區、清水區及龍井區的濱海水澤濕地，數量相當稀少，值得保護與復育。"
+		}, {
+			"lon": 120.543889,
+			"lat": 24.323056,
+			"Name": "Gaomei Wetland",
+			"place_names": "高美濕地",
+			"remaker": "位於大甲溪以南，擁有豐富的天然資源，更是國內少數幾個雁 鴨集體度冬區之一，加上有機質豐富，招潮蟹、彈塗魚、沙蟹和貝類繁衍昌 盛。維管束植物種類眾多，已發現有 27 科 105 種，除提供動物棲所和食物外， 也擔負國土保安、水土保持的重大責任，在這些植物中，最特殊的要算是稀 有的雲林莞草（全臺面積最大的生長區，約 5 公頃），這種植物只有在日本、 中國大陸及本省西部沿海的河海潮間帶才看得到，同時也營造水鳥賴以為生 的重要棲息環境。根據歷年來的各類研究，本區鳥類已記錄 55 科 155 種，其 中保育類有 12 種，由於潮間帶食物來源眾多，故鷸鴴、雁鴨科鳥類種類和數 量龐大。"
+		}, {
+			"lon": 120.479878,
+			"lat": 24.208511,
+			"Name": "Dadu Bayou wildlife sanctuary",
+			"place_names": "大肚溪口野生動物保護區",
+			"remaker": "大肚溪（烏溪）是臺灣主要河川之一，出海口坡度平緩，大肚溪口野生 動物保護區面積約 2,700 公頃，擁有寬達 4 公里左右的潮間帶和高生產力的河 口生態環境，由外而內包括了海域、潮間帶、河流、沙洲、新生地、耕作地、 魚塭等。蘊含豐富的潮汐生物，為臺灣地區海岸重要濕地之一。動物資源豐 富，為每年秋冬季候鳥遷徙必經之地，調查資料顯示：鳥類的種類、族群數 量及密度均高，已成為臺灣最大的水鳥棲地之一，並列名世界保育聯盟的亞洲最重要濕地之一。"
+		}, {
+			"lon": 120.318441,
+			"lat": 23.935435,
+			"Name": "Erlin Bayou",
+			"place_names": "二林溪口",
+			"remaker": "已出現新的紅樹林生育區，面積約 有 14 公頃，主要植生物種為水筆仔及欖李，除孕育底棲生物外，亦吸引世界 級的保育鳥類在此棲息，包括黑嘴鷗、大杓鷸、黑翅鳶。濁水溪口附近之泥 質灘地，因受到河口和海洋沖積作用，孕育大量底棲生物（如貝類、多毛類、 星蟲、蝦、蟹、彈塗魚等），為沿岸大陸棚內仔稚魚及水鳥重要的生態環境。"
+		}, {
+			"lon": 120.252059,
+			"lat": 23.842224,
+			"Name": "Zhoushui Bayou",
+			"place_names": "濁水溪口",
+			"remaker": "濁水溪口兩側（含南側保安林）提供鳥類、兩棲類、爬蟲類之重要棲息 環境，據調查，溪口一帶曾觀察紀錄之瀕絕鳥類有：琵鷺、黑面琵鷺、隼等； 珍貴稀有物種有：貢德氏蛙（兩棲類）、臺灣草蜥等 4 種爬蟲類及白眉燕鷗 等 9 種鳥類。"
+		}, {
+			"lon": 120.088826,
+			"lat": 23.50568,
+			"Name": "Waisandingzhou",
+			"place_names": "外傘頂洲",
+			"remaker": "由濁水溪、北港溪及朴子溪沖積而成的外傘頂洲，是座浮動的沙洲。沙 洲與臺灣間的水域，蘊藏豐富之魚蝦貝類，是天然養殖的良好環境，應維持 其自然生態環境，並永續發展"
+		}, {
+			"lon": 120.117222,
+			"lat": 23.417222,
+			"Name": "Puzih Estuary Wetland",
+			"place_names": "朴子溪河口濕地",
+			"remaker": "已出現紅樹林群落，且形成特殊濕地生態，主要植生物種為紅海欖及欖李，鰲鼓濕地具有相當多樣的生態環境與棲地型態，包括耕作地、沼澤地、鹹水地、淡水地、沙丘、魚塭、堤岸及造林區等。"
+		}, {
+			"lon": 120.159722,
+			"lat": 23.36,
+			"Name": "Budai Salt Pan Wetland",
+			"place_names": "布袋鹽田重要濕地",
+			"remaker": "為高蹺鴴、東方環頸鴴及小燕 鷗等水鳥繁殖區，也是候鳥過境度冬棲息時的重要場所，為沿海漁業資源孕 育區。"
+		}, {
+			"lon": 120.094086,
+			"lat": 23.264033,
+			"Name": "Wangyegang Sandbank",
+			"place_names": "王爺港沙洲",
+			"remaker": "長約 6 公里，平均寬約 400 公尺， 呈北北東－南南西走向，與海岸平行，淺灘區蘊藏豐富之魚蝦貝類。"
+		}, {
+			"lon": 120.116249,
+			"lat": 23.225018,
+			"Name": "Jiangjun Bayou",
+			"place_names": "將軍溪口",
+			"remaker": "為臺灣重要野鳥棲地，曾觀察到全球性受威 脅鳥種黑嘴鷗及黑面琵鷺出現，將軍溪口亦曾觀察到鸕鶿、高蹺鴴、大白鷺、 黑腹濱鷸、黑腹燕鷗等。七股潟湖是全臺最大的潟湖，為頂頭額汕、網子寮 汕、青山港汕等濱外沙洲與陸地所圍的水域，蘊藏著豐富的動植物生態，包 括魚、貝、蚵、蝦、蟹、紅樹林、鳥類及兩棲類等，其中以黑面琵鷺最為著 名，並有招潮蟹、和尚蟹、厚蟹、彈塗魚等，當地漁民在該潟湖中插蚵仔、 施放定置網捕魚，養殖文蛤，是西南沿海最具有生產力與多樣性的生態棲息 環境。曾文溪口重要濕地因曾文溪帶來豐富的營養鹽，成為各種生物群聚的 棲息地。四草濕地是臺灣沿海紅樹林保存最完整、歧異度最高的區域之一， 具有珍稀之黑面琵鷺、東方白鸛、遊隼、諾氏鷸與反嘴鴴等。"
+		}, {
+			"lon": 120.072394,
+			"lat": 23.136969,
+			"Name": "Qigu Lagoon",
+			"place_names": "七股潟湖",
+			"remaker": "全臺最大的潟湖，為頂頭額汕、網子寮 汕、青山港汕等濱外沙洲與陸地所圍的水域，蘊藏著豐富的動植物生態，包 括魚、貝、蚵、蝦、蟹、紅樹林、鳥類及兩棲類等，其中以黑面琵鷺最為著 名，並有招潮蟹、和尚蟹、厚蟹、彈塗魚等，當地漁民在該潟湖中插蚵仔、 施放定置網捕魚，養殖文蛤，是西南沿海最具有生產力與多樣性的生態棲息 環境。曾文溪口重要濕地因曾文溪帶來豐富的營養鹽，成為各種生物群聚的 棲息地。"
+		}, {
+			"lon": 120.141461,
+			"lat": 23.046326,
+			"Name": "Sihcao Wetland",
+			"place_names": "四草濕地",
+			"remaker": "臺灣沿海紅樹林保存最完整、歧異度最高的區域之一， 具有珍稀之黑面琵鷺、東方白鸛、遊隼、諾氏鷸與反嘴鴴等。"
+		}, {
+			"lon": 120.262143,
+			"lat": 22.647995,
+			"Name": "Shoushan",
+			"place_names": "壽山(柴山)",
+			"remaker": "位於臺灣南部高雄市西南濱海的山，也是高雄 市臨海的天然屏障。其地質屬隆起珊瑚礁石灰岩，天然岩洞甚多。柴山不但 是高雄市的天然地標，也是高雄市民遊憩、登山、從事自然觀察、人文等活 動的好去處。柴山南邊在日治時代即開發為壽山公園，動物園座落其中，每年吸引遊客 30 萬人。柴山北側因為長期的軍事管制，保存完整而獨特的生態體系，臺灣獼猴更是柴山具代表性的野生動物。"
+		}, {
+			"lon": 120.371179,
+			"lat": 22.340513,
+			"Name": "Lambai Island",
+			"place_names": "琉球嶼",
+			"remaker": "琉球嶼為珊瑚礁島嶼，四周海域多是珊瑚礁、藻類生長的理想環境和 魚類聚集的場所。附近海域的魚類、貝類、藻類、珊瑚類等生物種類達 800 餘種，且為綠蠵龜的重要繁殖地，具豐富的生態資源。"
+		}, {
+			"lon": 120.369856,
+			"lat": 22.329149,
+			"Name": "Jianshan Costal",
+			"place_names": "尖山海岸",
+			"remaker": "海口海岸低潮線以下之淺水域內，有珊瑚礁分布。這些位於海中之珊 瑚礁，自潮間帶往下延伸分布到水深 4 至 5 公尺處"
+		}, {
+			"lon": 120.82927,
+			"lat": 21.92842,
+			"Name": "Xiangjiaowan Ecological protection area",
+			"place_names": "香蕉灣生態保護區",
+			"remaker": "位於船帆石與香蕉灣間之海濱地帶，瀕臨南灣海 域，擁有珍貴之海岸林及大型高位珊瑚礁岩，富於學術研究及觀賞價 值。因省道台 26 線從中穿越且鄰近聚落，生態資源易遭破壞，應加強 保護措施。"
+		}, {
+			"lon": 120.845873,
+			"lat": 22.088772,
+			"Name": "Narenshan Ecological protection area",
+			"place_names": "南仁山生態保護區",
+			"remaker": "位於計畫區東北端，全區坡度陡峻，兼備丘陵、 山谷、沼潭、溪流、山坡、草原等地型。由於位置偏僻，交通不便， 除小部分地區遭濫墾或改植人造林外，多為濃密原始林所覆蓋，具有 完整之動物相及珍貴之植群，極富學術研究價值。"
+		}, {
+			"lon": 120.847105,
+			"lat": 21.913631,
+			"Name": "Shadao Ecological protection area",
+			"place_names": "砂島生態保護區",
+			"remaker": "擁有極珍貴的「貝殼砂」，其組成沙粒甚為均勻， 係海洋中之貝殼長期受到海水侵蝕，被擊碎研磨而成晶瑩明亮之細 沙，隨海流漂洋過海沖至砂島內構成之自然景觀。"
+		}, {
+			"lon": 120.864861,
+			"lat": 21.900299,
+			"Name": "Longkeng Ecological protection area",
+			"place_names": "龍坑生態保護區",
+			"remaker": "綿延之群狀珊瑚礁，隔著狹窄的陡坡及懸崖，為隆 起之高位珊瑚礁，由於重力及海浪之衝擊，台地崖之珊瑚石灰岩逐步 破裂，向下崩落，而呈絕佳的崖崩景觀。"
+		}, {
+			"lon": 120.822171,
+			"lat": 21.965307,
+			"Name": "Sheding Ecological protection area",
+			"place_names": "社頂高位珊瑚礁生態保護區",
+			"remaker": "環繞現有墾丁森林遊樂區，全區遍布古老高位珊瑚礁岩，生長其上之珊瑚礁植群，是各種野生動物生存繁殖場所，生態資源豐富，因本區未開放參觀，尚保持原始自然狀態。"
+		}, {
+			"lon": 120.733832,
+			"lat": 21.973148,
+			"Name": "Checheng to Wanlitong",
+			"place_names": "下水崛至萬里桐間海域",
+			"remaker": "位於大平頂台地崖西側，海水清澈，海底地 形富於變化，巨大礁石林立，間有深溝及裂谷，形成懸崖絕壁、峽谷 隧道等奇特景觀。全區遍布生長良好之各類石軟珊瑚、成叢的海扇、 海柳及群游的珊瑚礁魚類等，此外，各種貝類及海百合、海藤、海鞭 等分布亦多。"
+		}, {
+			"lon": 120.783424,
+			"lat": 21.945638,
+			"Name": "West Guanshan High coral reefs to Baishabi",
+			"place_names": "關山高位珊瑚礁岩西側至白沙鼻間之海域",
+			"remaker": "海底景觀雄偉，有石洞、 隧道、拱門、峽谷等各種海底地形，且水質清澈，各種石、軟珊瑚生 長甚密，珊瑚礁魚類、貝類及海百合、海星等均相當豐富。"
+		}, {
+			"lon": 120.835047,
+			"lat": 21.921638,
+			"Name": "Sail Rock throughBanana bay to Shadao",
+			"place_names": "船帆石南側經香蕉灣至砂島間之海域",
+			"remaker": "海底地形為狹長帶狀之裙礁， 而被浪渠或沙溝分隔成許多塊狀珊瑚礁，礁石底質地段，石、軟珊瑚 之生長良好，呈群聚型態，尤其各種蕈狀珊瑚之分布甚多，珊瑚礁魚 類、貝類種類及數量亦極豐富。"
+		}, {
+			"lon": 120.849508,
+			"lat": 21.923913,
+			"Name": "South Fengchuisha to Longkeng",
+			"place_names": "風吹砂以南至龍坑間之海域",
+			"remaker": "海底多大塊礁石、地形富於變化，石軟 珊瑚在礁石表面生長，甚為密集，而以軟珊瑚類為主，尤其獨立礁附 近，多大型魚類，景觀極為出色。"
+		}, {
+			"lon": 120.88314,
+			"lat": 22.125673,
+			"Name": "Jiupeng Costal",
+			"place_names": "九棚海岸",
+			"remaker": "本區有大規模的沙丘群分布、鵝卵石礫灘與東南側珊瑚礁海 岸，及其間棲息之重要動植物資源。由於海岸走向與東北季風風向直交， 風沙劇烈，沙丘移動十分明顯，均屬於活動沙丘，形成特異之沙河景觀， 部分沙丘掩蓋港仔溪南側支流，形成河道埋蓋現象，顯見沙丘活動之旺 盛，為本區的自然景觀資源保護重點。"
+		}, {
+			"lon": 121.69297,
+			"lat": 24.219085,
+			"Name": "Chingshui Cliff",
+			"place_names": "清水斷崖",
+			"remaker": "菲律賓海板塊在蘇澳外海一帶隱沒到歐亞大陸板塊之下，使 東海岸深陷，形成蘇花斷崖海岸。其中又以位於和平與崇德間，綿延 21 公里長的清水斷崖，舉世聞名。清水斷崖在和平溪以南、清水山的東側， 高約 800 至 900 公尺，幾乎以 90 度角垂直陡降至太平洋，是蘇花公路上 工程最艱難、景色最美的一段。其中清水斷崖海岸自然保護區陸域部分， 皆位於太魯閣國家公園內。"
+		}, {
+			"lon": 121.631714,
+			"lat": 24.027648,
+			"Name": "Qixingtan",
+			"place_names": "七星潭",
+			"remaker": "位於花蓮縣新城鄉東北角的海濱，此地海灘成一優美的弧形海 灣，海水潔淨蔚藍，具得天獨厚的自然地理環境。"
+		}, {
+			"lon": 121.608374,
+			"lat": 23.939947,
+			"Name": "Hualien Xikou",
+			"place_names": "花蓮溪口",
+			"remaker": "位處河、海、山的交界，為海岸山脈北端，地質、地形景觀和 動植物的生態資源非常豐富，是國家重要濕地之一。"
+		}, {
+			"lon": 121.573486,
+			"lat": 23.81437,
+			"Name": "Shuilian Important habitat of wild animals",
+			"place_names": "水璉野生動物重要棲息環境",
+			"remaker": "農委會於 90 年 3 月 1 日，依據野生動物保育法，劃設「水璉野生 動物重要棲息環境」，面積 339.86 公頃，位於花蓮縣壽豐鄉境內海岸山 脈鹽寮村至水璉村之間，範圍涵蓋整個國有林林田山事業區第 142 林班。 水璉附近的臺灣海棗是目前臺灣保存最大族群之地區，本區具有代表 東部海岸地區的臺灣海棗棲地之意義。臺灣海棗、臺灣油杉、臺灣穗花杉 及臺東蘇鐵並稱「臺灣四大奇木」，經歷冰河期千萬年的物競天擇，生存 至今。"
+		}, {
+			"lon": 121.545527,
+			"lat": 23.675356,
+			"Name": "Qinbuzhizi Cliffs",
+			"place_names": "親不知子斷崖",
+			"remaker": "位於加路蘭山（746 公尺）稜線向北北東延伸和海岸相 交的地方，可見海蝕洞景觀。"
+		}, {
+			"lon": 121.501457,
+			"lat": 23.521536,
+			"Name": "Shimen",
+			"place_names": "石門",
+			"remaker": "豐濱以南、大港口以北，因一處外觀似門的海蝕洞而得名。 本區海蝕地形發達，具有東部海岸最壯觀的海蝕門，是觀察波浪侵蝕 海岸的優良地點。"
+		}, {
+			"lon": 121.507509,
+			"lat": 23.482962,
+			"Name": "Shitiping",
+			"place_names": "石梯坪",
+			"remaker": "一處寬濶且壯觀的濱台，由厚層的灰白色凝灰岩和火山角礫 岩互層所組成。傾斜的岩層形成單面山地形，是本區著名的地景。海 濱有海蝕溝、海蝕門、海蝕壺穴、海蝕平台、溶蝕盤等海蝕地形發育， 而桶狀海蝕壺穴更是臺灣難得一見的特殊地形景觀。"
+		}, {
+			"lon": 121.501375,
+			"lat": 23.464168,
+			"Name": "Shiquiyu",
+			"place_names": "獅球嶼",
+			"remaker": "秀姑巒溪溪水清澈，河口中央獨立一獅球嶼，整個島緊緊包覆著密林， 人類難以穿越和干擾，是許多鳥類過夜的安全場所。"
+		}, {
+			"lon": 121.470791,
+			"lat": 22.674167,
+			"Name": "Green Island",
+			"place_names": "綠島",
+			"remaker": "為火山島，地處熱帶，海水溫暖，海底多為火山岩。因綠島沿岸 淺水海域均為珊瑚礁覆蓋，棲息著形形色色的魚類、多采多姿的珊瑚和 五花八門的無脊椎動物。隆起珊瑚礁與淺水中的現生珊瑚礁連接在一 起，形成極為壯觀的裙狀珊瑚礁地形，具發展潛水活動及海底觀光潛力。"
+		}, {
+			"lon": 121.548261,
+			"lat": 22.045989,
+			"Name": "Orchid Island",
+			"place_names": "蘭嶼",
+			"remaker": "火山作用形成之地質、地形景觀及熱帶雨林景觀，為亞洲與大洋 洲生物間之過渡帶，生物種類歧異度極高，生物資源豐富，為研究生物 之重鎮。當地瀕臨絕種的稀有動物包括：蘭嶼角鴞、長尾鳩、珠光鳳蝶綠斑鳳蝶、大白斑蝶、大紫斑蝶、白帶斑蝶、綠蠵龜等；另蘭嶼原生而瀕臨絕種之植物包括：臺灣蝴蝶蘭、蘭嶼羅漢松、水芫花、象牙樹、毛柿、海芙蓉、仙茅、蘭嶼管唇蘭、紅花石斛、青脆枝等。"
+		}, {
+			"lon": 121.415352,
+			"lat": 23.226563,
+			"Name": "Wushibi",
+			"place_names": "烏石鼻",
+			"remaker": "具自然海岸景觀，位於膽曼部落東側海岸，為全臺灣面積最大 的柱狀火成岩體，是火山活動熔岩噴發的產物。烏石鼻滿布大大小小 的潮池和海蝕溝，是觀賞潮間帶海洋生物的最佳去處，也是東部潛水 和磯釣的天堂。"
+		}, {
+			"lon": 121.403346,
+			"lat": 23.177257,
+			"Name": "Shiyusan",
+			"place_names": "石雨傘",
+			"remaker": "石灰岩隆起之海蝕柱，附近海岸公路東側有突出海面長達 1 公里之海岬，稱為石空鼻長堤。此處具豐富之海蝕地形，有礁岩、海 蝕洞、海蝕溝、壺穴、平衡石等。"
+		}, {
+			"lon": 121.421621,
+			"lat": 23.126106,
+			"Name": "Sanxiantai",
+			"place_names": "三仙台",
+			"remaker": "由突出海岸的海岬與海岬外的離岸小島所構成，小島上有 3 座巨大石塊屹立，故稱三仙台。在三仙台周圍的海域分布珊瑚礁，受 到波浪的侵蝕，形成崎嶇的礁岩海岸，海蝕溝、海蝕壺穴、濱台等地 形，均可在此一覽無遺。"
+		}, {
+			"lon": 121.185751,
+			"lat": 22.832303,
+			"Name": "Shayuan Beach",
+			"place_names": "杉原海水浴場",
+			"remaker": "南北兩端的海濱，有珊瑚礁分布。特別是海水浴場北方 礁石海岸，潮間帶長約數百公尺，寬約 50 至 100 公尺。"
+		}, {
+			"lon": 121.198211,
+			"lat": 22.794738,
+			"Name": "Xiaoyeliu",
+			"place_names": "小野柳",
+			"remaker": "小野柳一帶的地層是具有地層倒轉特性的厚層砂岩及薄層頁岩互層。 特殊地形有單面山、風化紋、豆腐岩、蕈狀岩及蜂窩岩等。"
+		}, {
+			"lon": 119.608333,
+			"lat": 23.744799,
+			"Name": "Bird Island",
+			"place_names": "吉貝嶼",
+			"remaker": "澎湖群島中最北端有人居住的島嶼，周圍密布的石滬，是極 為特殊的人文景觀。島嶼東半部是較高的玄武岩方山台地，西半部則有大 片沙灘，寬度由北往南遞增，目前仍在繼續成長中，尤其南端的沙嘴沿著 海流方向不斷地擴增，是難得一見的景觀。"
+		}, {
+			"lon": 119.600392,
+			"lat": 23.786287,
+			"Name": "Mudouyu",
+			"place_names": "目斗嶼",
+			"remaker": "北側海底斜坡的角度稍大，水質較混濁。目斗嶼海域珊瑚礁生 態系相當豐富多樣，海底景色優美。吉貝嶼西側的西崁山、風灣子、及北 側的白沙莊，擁有寬廣平坦的海底平台，其中以風灣子附近之珊瑚礁生態 系更為完整。"
+		}, {
+			"lon": 119.566699,
+			"lat": 23.71064,
+			"Name": "Tiezhenyu",
+			"place_names": "鐵砧嶼",
+			"remaker": "由緻密玄武岩和多孔玄武岩所構成的方山，位於姑婆嶼東南 東方，形似鐵砧而得名。由於波浪侵蝕作用，在東側形成寬約 15 公尺， 深約 7 公尺的海蝕洞。"
+		}, {
+			"lon": 119.599497,
+			"lat": 23.666519,
+			"Name": "Baisha",
+			"place_names": "白沙",
+			"remaker": "白沙鄉北側與西側潮間帶上布滿珊瑚骨骸和玄武岩塊，常見到軸孔珊 瑚、微孔珊瑚、菊珊瑚、角菊珊瑚、腦紋珊瑚等石珊瑚，珊瑚礁生態系相 當豐富多樣。 鳥嶼後山有岩石洋蔥狀風化景觀及多孔狀玄武岩；員貝嶼北側有柱狀 玄武岩及東側扇形柱狀玄武岩；小白沙嶼已劃設為澎湖玄武岩自然保留 區，保育對象為特殊玄武岩景觀。"
+		}, {
+			"lon": 119.658637,
+			"lat": 23.585041,
+			"Name": "Huxi",
+			"place_names": "湖西",
+			"remaker": "雞善嶼、錠鉤嶼及小白沙嶼由於柱狀玄武岩景色秀麗，已於 81 年 3 月 12 日劃設為「澎湖玄武岩自然保留區」，保育對象為特殊玄武岩景觀， 有雞善嶼柱狀玄武岩、柱狀節理海崖、錠鉤嶼立石柱及小白沙柱狀玄武 岩、海蝕平台、灘岩等。"
+		}, {
+			"lon": 119.520576,
+			"lat": 23.652577,
+			"Name": "Shomon Island",
+			"place_names": "小門嶼",
+			"remaker": "西嶼北端的一個小島，是個玄武岩小方山，地形景觀特殊， 為澎湖群島地形、人文景觀的縮影。鯨魚洞為海蝕作用淘挖出來的海蝕 門，洞旁的玄武岩柱發育良好。"
+		}, {
+			"lon": 119.514376,
+			"lat": 23.57347,
+			"Name": "Niuxin Shan",
+			"place_names": "牛心山",
+			"remaker": "位於內垵村，是柱狀玄武岩風化形成的孤山，山頂是裸露的柱 狀玄武岩，山腳則為銀合歡及雜草覆蓋。附近潮間帶有不少石滬。"
+		}, {
+			"lon": 119.51638,
+			"lat": 23.595349,
+			"Name": "Daguoye",
+			"place_names": "大菓葉",
+			"remaker": "位於池東村，有著名之柱狀節理玄武岩，是熔岩流遇到海水快 速冷卻收縮凝固成六角狀的玄武岩。因為長年覆蓋於表土下，所以大菓葉 柱狀節理玄武岩顏色較黃，且節理保持得相當完整。"
+		}, {
+			"lon": 121.543019,
+			"lat": 25.148228,
+			"Name": "Shamao Shan",
+			"place_names": "紗帽山",
+			"remaker": "以西至風櫃之間的青灣，為一處天然的海灣，海灣內外都是由 珊瑚為主所組成的珊瑚礁生態系，擁有豐富的魚類和甲殼動物棲息於此， 珊瑚礁生態系相當豐富多樣。"
+		}, {
+			"lon": 119.54371,
+			"lat": 23.537885,
+			"Name": "Fongguei",
+			"place_names": "風櫃",
+			"remaker": "玄武岩柱狀節理十分發達，因波浪侵蝕造成狹長海蝕溝。蒔裡沙 灘長達 1 公里，是澎湖最具規模的沙丘地形，山水亦有天然沙灘。"
+		}, {
+			"lon": 119.521389,
+			"lat": 23.512763,
+			"Name": "Tongpan Islet",
+			"place_names": "桶盤嶼",
+			"remaker": "特有的柱狀玄武岩地形景觀，由海上觀看排列整齊， 十分壯觀。海岸濱台上，低潮時露出古岩漿噴發孔洞，狀似同心圓狀蓮花 台。"
+		}, {
+			"lon": 119.527778,
+			"lat": 23.49079,
+			"Name": "Table Island",
+			"place_names": "虎井嶼",
+			"remaker": "特有的柱狀玄武岩地形景觀，由海上觀看排列整齊， 十分壯觀。海岸濱台上，低潮時露出古岩漿噴發孔洞，狀似同心圓狀蓮花 台。"
+		}, {
+			"lon": 119.5,
+			"lat": 23.383489,
+			"Name": "Wangan",
+			"place_names": "望安",
+			"remaker": "望安島南側海岸低平、珊瑚沙礫發達。綠蠵龜為大洋性洄游動 物，望安島附近的海域為綠蠵龜上岸產卵必經的水域。目前綠蠵龜主 要產卵地為：天台山南側、西安水庫西側、土地公港南側、水雷港仔 南側、網鞍口東側及萬安宮南側等沙灘草地。84 年 1 月 17 日劃設為 「望安島綠蠵龜產卵棲地保護區」，面積 23.3 公頃。"
+		}, {
+			"lon": 119.322414,
+			"lat": 23.40361,
+			"Name": "Huayu",
+			"place_names": "花嶼",
+			"remaker": "四周海岸皆為海崖構成的岩岸地形及大大小小的礫石灘，地形 與澎湖其他大小島嶼相似，但地質迥異，主要由安山岩質火山熔岩所 構成。每年 4 月是過境鳥遷移的高峰期，生態資源相當豐富，高峰期 近 1,500 隻的赤腹鷹過境。花嶼不僅可作為研究與保育的前進站，也具規劃為生態旅遊的潛力。"
+		}, {
+			"lon": 119.321187,
+			"lat": 23.325161,
+			"Name": "Maoyu",
+			"place_names": "貓嶼",
+			"remaker": "海拔 79 公尺之貓嶼，位於澎湖群島西南方，為澎湖最高峰。80 年 5 月 24 日劃設為「澎湖縣貓嶼海鳥保護區」，為全國第一個野生動 物保護區。"
+		}, {
+			"lon": 119.672146,
+			"lat": 23.256395,
+			"Name": "Dongjiyu、Xijiyu",
+			"place_names": "東吉、西吉嶼",
+			"remaker": "東吉、西吉嶼附近海域之珊瑚礁生態系相當豐富多樣。 東吉嶼及西吉嶼皆有玄武岩風化及侵蝕的景觀，包括壯觀的海蝕洞及 海蝕門等玄武岩海蝕地形。103 年 6 月 8 日已納入「澎湖南方四島國 家公園」。"
+		}, {
+			"lon": 119.428525,
+			"lat": 23.208134,
+			"Name": "Qimei",
+			"place_names": "七美",
+			"remaker": "七美鄉位於澎湖群島的最南方，就其地形而言是一個切割的方山 島嶼。東岸牛母坪和龍埕附近，可見凸出海面的火成岩脈、褶皺的層狀 水山角礫岩、巨大的向斜摺皺地質景觀，和受海水浸蝕而成的海蝕平台 及壺穴。月鯉港水流穩定，珊瑚礁生態系相當豐富多樣。"
+		}, {
+			"lon": 120.004741,
+			"lat": 26.222833,
+			"Name": "Tanghoudao Beach",
+			"place_names": "塘后道沙灘",
+			"remaker": "為北竿最大沙灘，長達數百公尺，沙灘連結塘岐村與后沃村 之間，形成「連島沙洲」。坂里沙灘，係由芹山、坂山及里山 3 座山峰 環繞、東南向開口的灣澳，受每年夏季東南季風吹襲，洋流夾帶泥沙於此 淤積，日積月累，形成的沙灘，面積廣達 6 公頃以上，規模僅次於塘后沙 灘。"
+		}, {
+			"lon": 120.477562,
+			"lat": 26.381221,
+			"Name": "Houao",
+			"place_names": "后澳",
+			"remaker": "后澳裡的侵入岩脈為南竿最特殊之地質景觀，由地殼內的岩漿沿著先 形成的岩體裂隙侵入，再冷卻而形成。由早期形成的酸性、淺色花崗岩基 盤與後期貫入的基性、深色的基性侵入岩脈所共同組成，呈現出黑白相間 的紋路。"
+		}, {
+			"lon": 119.929035,
+			"lat": 26.142359,
+			"Name": "Nangan Beihai Tunnel",
+			"place_names": "南竿北海坑道",
+			"remaker": "為戰地景觀，以「井」字為造型坑道，水道高為 18 公 尺，寬 10 公尺，長 640 公尺。"
+		}, {
+			"lon": 119.967911,
+			"lat": 25.95513,
+			"Name": "Mengao Harbor",
+			"place_names": "猛澳港",
+			"remaker": "東莒地勢較平坦，從閩江流出的河沙堆積而成的猛澳沙灘，為東莒的 海運門戶。"
+		}, {
+			"lon": 119.947832,
+			"lat": 25.978476,
+			"Name": "Caipuao",
+			"place_names": "菜浦澳",
+			"remaker": "位於西莒島東北角澳口，沿岸自然地景地貌屬典型之花崗岩錐 狀形，地勢起伏極大且陡峭，花崗岩稜線呈放射狀深入海中，形成大小不一的谷地，長期受風化解體以及波浪侵蝕作用，形成顯礁、谷地、斷崖等多樣化地質景觀。"
+		}, {
+			"lon": 120.485802,
+			"lat": 26.368064,
+			"Name": "Dongyin、Xiyin",
+			"place_names": "東引西引",
+			"remaker": "東、西引 2 島地勢陡峭，海岸地形屬沉水海岸中的谷灣式海岸，岬角與 灣澳廣布，為典型的花崗岩岩岸地形，其中岬角以海蝕地形為主，有海蝕洞、 海蝕門、海蝕柱、濱台等。 東引北海坑道，為軍方因戰備需要所挖鑿的隱藏坑道，全長約 193 公尺，寬 10 公尺，高 12 公尺。惟北海坑道有落石危險，暫不開放。"
+		}
+	],
+	"Hot_point":
+	[{
+			"lon": 121.334,
+			"lat": 25.145,
+			"Name": "臺北港",
+			"Group": [{
+					"lon": 121.4135,
+					"lat": 25.1713,
+					"Name": "臺北港-A"
+				}, {
+					"lon": 121.38,
+					"lat": 25.153,
+					"Name": "臺北港-B"
+				}, {
+					"lon": 121.34,
+					"lat": 25.134,
+					"Name": "臺北港-C"
+				}, {
+					"lon": 121.31,
+					"lat": 25.13,
+					"Name": "臺北港-D"
+				}, {
+					"lon": 121.288,
+					"lat": 25.125,
+					"Name": "臺北港-E"
+				}
+			]
+		}, {
+			"lon": 121.8347,
+			"lat": 24.8624,
+			"Name": "烏石港",
+			"Group": [{
+					"lon": 121.8439,
+					"lat": 24.8763,
+					"Name": "烏石港-A"
+				}, {
+					"lon": 121.8399,
+					"lat": 24.8643,
+					"Name": "烏石港-B"
+				}, {
+					"lon": 121.8292,
+					"lat": 24.8503,
+					"Name": "烏石港-C"
+				}
+
+			]
+		}, {
+			"lon": 120.929,
+			"lat": 24.8499,
+			"Name": "新竹新豐及頭前溪",
+			"Group": [{
+					"lon": 120.9415,
+					"lat": 24.8614,
+					"Name": "新竹新豐及頭前溪-A"
+				}, {
+					"lon": 120.9187,
+					"lat": 24.851,
+					"Name": "新竹新豐及頭前溪-B"
+				}, {
+					"lon": 120.9125,
+					"lat": 24.8328,
+					"Name": "新竹新豐及頭前溪-C"
+				}, {
+					"lon": 121.31,
+					"lat": 25.13,
+					"Name": "新竹新豐及頭前溪-D"
+				}
+			]
+		}, {
+			"lon": 120.1567,
+			"lat": 22.9546,
+			"Name": "台南黃金",
+			"Group": [{
+					"lon": 120.142,
+					"lat": 22.9914,
+					"Name": "台南黃金-A"
+				}, {
+					"lon": 120.1551,
+					"lat": 22.974,
+					"Name": "台南黃金-B"
+				}, {
+					"lon": 120.1686,
+					"lat": 22.9412,
+					"Name": "台南黃金-C"
+				}
+			]
+		}, {
+			"lon": 120.9145,
+			"lat": 22.3278,
+			"Name": "臺東縣南迴公段",
+			"Group": [{
+					"lon": 120.9306,
+					"lat": 22.4006,
+					"Name": "臺東縣南迴公段-A"
+				}, {
+					"lon": 120.8965,
+					"lat": 22.3362,
+					"Name": "臺東縣南迴公段-B"
+				}, {
+					"lon": 120.8928,
+					"lat": 22.3211,
+					"Name": "臺東縣南迴公段-C"
+				}
+			]
+		}, {
+			"lon": 120.1277,
+			"lat": 23.387,
+			"Name": "嘉義布袋",
+			"Group": [{
+					"lon": 120.1277,
+					"lat": 23.4431,
+					"Name": "嘉義布袋-A"
+				}, {
+					"lon": 120.1277,
+					"lat": 23.4372,
+					"Name": "嘉義布袋-B"
+				}, {
+					"lon": 120.1277,
+					"lat": 23.41,
+					"Name": "嘉義布袋-C"
+				}, {
+					"lon": 120.1277,
+					"lat": 23.3827,
+					"Name": "嘉義布袋-D"
+				}, {
+					"lon": 120.1277,
+					"lat": 23.3526,
+					"Name": "嘉義布袋-E"
+				}
+			]
+		}, {
+			"lon": 120.1989,
+			"lat": 22.8382,
+			"Name": "高雄興達港",
+			"Group": [{
+					"lon": 120.1808,
+					"lat": 22.8878,
+					"Name": "高雄興達港-A"
+				}, {
+					"lon": 120.193,
+					"lat": 22.8356,
+					"Name": "高雄興達港-B"
+				}, {
+					"lon": 120.2258,
+					"lat": 22.7862,
+					"Name": "高雄興達港-C"
+				}
+			]
+		}, {
+			"lon": 121.6291,
+			"lat": 23.9722,
+			"Name": "花蓮溪口",
+			"Group": [{
+					"lon": 121.6426,
+					"lat": 23.9848,
+					"Name": "花蓮溪口-A"
+				}, {
+					"lon": 121.617,
+					"lat": 23.959,
+					"Name": "花蓮溪口-B"
+				}
+			]
+		}, {
+			"lon": 120.43286,
+			"lat": 24.154437,
+			"Name": "台中港及彰濱"
+		}, {
+			"lon": 120.146396,
+			"lat": 23.671912,
+			"Name": "濁水溪口"
+		}, {
+			"lon": 121.0473,
+			"lat": 25.0169,
+			"Name": "桃園觀音、新屋",
+			"Group": [{
+					"lon": 121.0803,
+					"lat": 25.0515,
+					"Name": "桃園觀音、新屋-A"
+				}, {
+					"lon": 121.0466,
+					"lat": 25.0373,
+					"Name": "桃園觀音、新屋-B"
+				}, {
+					"lon": 121.027,
+					"lat": 25.0092,
+					"Name": "桃園觀音、新屋-C"
+				}, {
+					"lon": 121.0134,
+					"lat": 24.9892,
+					"Name": "桃園觀音、新屋-D"
+				}, {
+					"lon": 121.0149,
+					"lat": 24.98,
+					"Name": "桃園觀音、新屋-E"
+				}
+			]
+		}, {
+			"lon": 120.0533,
+			"lat": 23.1444,
+			"Name": "台南七股",
+			"Group": [{
+					"lon": 120.0819,
+					"lat": 23.2256,
+					"Name": "台南七股-A"
+				}, {
+					"lon": 120.0762,
+					"lat": 23.2117,
+					"Name": "台南七股-B"
+				}, {
+					"lon": 120.0775,
+					"lat": 23.1964,
+					"Name": "台南七股-C"
+				}, {
+					"lon": 120.0757,
+					"lat": 23.2117,
+					"Name": "台南七股-D"
+				}, {
+					"lon": 120.0583,
+					"lat": 23.1151,
+					"Name": "台南七股-E"
+				}
+			]
+		}, {
+			"lon": 120.3134,
+			"lat": 22.6202,
+			"Name": "高雄左營及旗津",
+			"Group": [{
+					"lon": 120.2672,
+					"lat": 22.6164,
+					"Name": "高雄左營及旗津-A"
+				}, {
+					"lon": 120.2972,
+					"lat": 22.5657,
+					"Name": "高雄左營及旗津-B"
+				}, {
+					"lon": 120.3698,
+					"lat": 22.5056,
+					"Name": "高雄左營及旗津-C"
+				}
+			]
+		}
+	],
+	"terrain_3D": 
+	[{
+			"lon": 121.545,
+			"lat": 25.2916,
+			"Name": "老梅海岸",
+			"URL":"https://cloud.pix4d.com/pro/project/225560/mesh?shareToken=499fad5ea4454c4a8a5e98f9495857d1"
+		},{
+			"lon": 121.053,
+			"lat": 25.0382,
+			"Name": "桃園觀塘工業區",
+			"URL":"https://cloud.pix4d.com/pro/project/226845/mesh?shareToken=df881916bc794cc0a50b0803fce454c5"
+		},{
+			"lon": 121.818,
+			"lat": 25.1321,
+			"Name": "新北市瑞芳區深澳岬海岸",
+			"URL":"https://cloud.pix4d.com/pro/project/225543/mesh?shareToken=c5c2d8aaceed48c0a17e9d5ef9fbb003"
+		},{
+			"lon": 121.939,
+			"lat": 25.0235,
+			"Name": "新北福隆海水浴場",
+			"URL":"https://sketchfab.com/models/3e255628446f4ce79624e8beddb17fdf/embed"
+		},{
+			"lon": 121.836,
+			"lat": 24.862,
+			"Name": "宜蘭烏石港南側海岸段",
+			"URL":"https://cloud.pix4d.com/embed/pro/mesh/207464?shareToken=38d497d818e442ad8b59b879b475f0f0"
+		},{
+			"lon": 120.254,
+			"lat": 22.7247,
+			"Name": "高雄左營軍港海岸段",
+			"URL":"http://140.115.110.42/UAV/3D/20171119Zuoying/App/index.html#%2F"
+		}
+	],
+	"protection":
+	[{
+		"lon": 121.516919,
+		"lat": 25.254342,
+		"place_names": "三芝梯田",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.512832,
+		"lat": 25.28089,
+		"place_names": "麟山鼻與白沙灣",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.544449,
+		"lat": 25.291755,
+		"place_names": "老梅海岸",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.537526,
+		"lat": 25.297703,
+		"place_names": "富貴角",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.574529,
+		"lat": 25.270185,
+		"place_names": "石門",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.79054,
+		"lat": 25.143654,
+		"place_names": "和平島八斗子",
+		"remaker": "基隆市"
+	}, {
+		"lon": 121.848847,
+		"lat": 25.118848,
+		"place_names": "基隆山",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.864131,
+		"lat": 25.122782,
+		"place_names": "陰陽海",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.886553,
+		"lat": 25.121066,
+		"place_names": "南雅",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.920501,
+		"lat": 25.125012,
+		"place_names": "鼻頭角公園",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.920865,
+		"lat": 25.110593,
+		"place_names": "龍洞",
+		"remaker": "新北市"
+	}, {
+		"lon": 121.940073,
+		"lat": 25.024103,
+		"place_names": "福隆沙灘",
+		"remaker": "新北市"
+	}, {
+		"lon": 122.00157,
+		"lat": 25.008381,
+		"place_names": "三貂角至北關",
+		"remaker": "新北市、宜蘭縣"
+	}, {
+		"lon": 121.945548,
+		"lat": 24.978138,
+		"place_names": "石城海岸",
+		"remaker": "宜蘭縣"
+	}, {
+		"lon": 121.845429,
+		"lat": 24.883616,
+		"place_names": "外澳火成岩脈",
+		"remaker": "宜蘭縣"
+	}, {
+		"lon": 121.878247,
+		"lat": 24.913225,
+		"place_names": "北關海岸",
+		"remaker": "宜蘭縣"
+	}, {
+		"lon": 121.871579,
+		"lat": 24.53492,
+		"place_names": "烏岩角",
+		"remaker": "宜蘭縣"
+	}, {
+		"lon": 121.872385,
+		"lat": 24.582486,
+		"place_names": "南方澳沙頸岬",
+		"remaker": "宜蘭縣"
+	}, {
+		"lon": 121.849845,
+		"lat": 24.598109,
+		"place_names": "蘇澳冷泉",
+		"remaker": "宜蘭縣"
+	}, {
+		"lon": 121.624713,
+		"lat": 24.367578,
+		"place_names": "和平溪扇洲",
+		"remaker": "宜蘭縣、花蓮縣"
+	}, {
+		"lon": 121.624712,
+		"lat": 24.156143,
+		"place_names": "立霧溪扇洲",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.691682,
+		"lat": 24.220023,
+		"place_names": "清水斷崖",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.644014,
+		"lat": 24.015757,
+		"place_names": "奇萊鼻",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.565122,
+		"lat": 23.765756,
+		"place_names": "牛山潛移小階",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.555304,
+		"lat": 23.747045,
+		"place_names": "蕃薯寮峽谷",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.476488,
+		"lat": 23.470858,
+		"place_names": "秀姑巒溪口",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.513531,
+		"lat": 23.488694,
+		"place_names": "石梯坪",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.50365,
+		"lat": 23.524082,
+		"place_names": "石門海岸",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.522293,
+		"lat": 23.600708,
+		"place_names": "豐濱橋剖面",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.539547,
+		"lat": 23.654223,
+		"place_names": "新社海階",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 121.548342,
+		"lat": 23.702955,
+		"place_names": "磯碕海岸",
+		"remaker": "花蓮縣"
+	}, {
+		"lon": 120.730143,
+		"lat": 24.604789,
+		"place_names": "過港貝化石層",
+		"remaker": "苗栗縣"
+	}, {
+		"lon": 121.126528,
+		"lat": 25.073408,
+		"place_names": "草漯沙丘",
+		"remaker": "桃園市"
+	}, {
+		"lon": 120.251858,
+		"lat": 22.769155,
+		"place_names": "漯底山泥火山",
+		"remaker": "高雄市"
+	}, {
+		"lon": 120.891685,
+		"lat": 22.198089,
+		"place_names": "阿塱壹古道海岸地區",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.883307,
+		"lat": 22.125584,
+		"place_names": "屏東港仔沙丘",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.893266,
+		"lat": 22.158207,
+		"place_names": "屏東旭海至九棚的濱台與藻礁海岸",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.715083,
+		"lat": 22.111309,
+		"place_names": "屏東尖山",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.371694,
+		"lat": 22.340036,
+		"place_names": "屏東琉球嶼的奇岩怪石",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.371694,
+		"lat": 22.340036,
+		"place_names": "屏東琉球嶼海岸石灰岩體崩塌地形",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.371694,
+		"lat": 22.340036,
+		"place_names": "琉球嶼惡地與石灰岩地形",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.371694,
+		"lat": 22.340036,
+		"place_names": "琉球嶼的海階與海蝕地形",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.371694,
+		"lat": 22.340036,
+		"place_names": "琉球嶼裾礁海岸與花瓶岩",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 120.473805,
+		"lat": 22.446027,
+		"place_names": "屏東大鵬灣潟湖",
+		"remaker": "屏東縣"
+	}, {
+		"lon": 118.318353,
+		"lat": 24.388668,
+		"place_names": "翟山坑道",
+		"remaker": "金門縣"
+	}, {
+		"lon": 118.284008,
+		"lat": 24.411894,
+		"place_names": "塔山",
+		"remaker": "金門縣"
+	}, {
+		"lon": 118.225635,
+		"lat": 24.415596,
+		"place_names": "青岐村",
+		"remaker": "金門縣"
+	}, {
+		"lon": 118.266205,
+		"lat": 24.440778,
+		"place_names": "將軍堡",
+		"remaker": "金門縣"
+	}, {
+		"lon": 118.304676,
+		"lat": 24.467693,
+		"place_names": "慈湖",
+		"remaker": "金門縣"
+	}, {
+		"lon": 118.230288,
+		"lat": 24.439599,
+		"place_names": "雙口海岸 ",
+		"remaker": "金門縣"
+	}, {
+		"lon": 118.313827,
+		"lat": 24.478674,
+		"place_names": "金門島古寧頭 ",
+		"remaker": "金門縣"
+	}, {
+		"lon": 118.448045,
+		"lat": 24.507118,
+		"place_names": "金門島寒舍花",
+		"remaker": "金門縣"
+	}, {
+		"lon": 118.408721,
+		"lat": 24.527673,
+		"place_names": "金門島馬山觀測站",
+		"remaker": "金門縣"
+	}, {
+		"lon": 121.415455,
+		"lat": 23.226723,
+		"place_names": "烏石鼻",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.353611,
+		"lat": 23.078974,
+		"place_names": "八邊橋海濱",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.419304,
+		"lat": 23.125395,
+		"place_names": "三仙台",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.402155,
+		"lat": 23.176646,
+		"place_names": "石空鼻",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.399468,
+		"lat": 23.17792,
+		"place_names": "男人石",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.285952,
+		"lat": 22.950759,
+		"place_names": "金樽陸連島",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.185773,
+		"lat": 22.832068,
+		"place_names": "杉原海灘",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.19805,
+		"lat": 22.794807,
+		"place_names": "小野柳",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.504574,
+		"lat": 22.636653,
+		"place_names": "朝日溫泉",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.493996,
+		"lat": 22.6379797,
+		"place_names": "大白沙",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.480736,
+		"lat": 22.646073,
+		"place_names": "龜灣",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.504993,
+		"lat": 22.657981,
+		"place_names": "海參坪",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.509047,
+		"lat": 22.666218,
+		"place_names": "柚仔湖",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.506312,
+		"lat": 22.670982,
+		"place_names": "觀音洞",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.495171,
+		"lat": 22.676036,
+		"place_names": "公館將軍岩",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.507274,
+		"lat": 22.676627,
+		"place_names": "牛頭山",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 120.978606,
+		"lat": 22.567669,
+		"place_names": "松子澗背斜",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.001827,
+		"lat": 22.592716,
+		"place_names": "太麻里三角洲",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.588517,
+		"lat": 22.001718,
+		"place_names": "龍頭岩",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.572979,
+		"lat": 22.003645,
+		"place_names": "老人岩",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.823582,
+		"lat": 25.135279,
+		"place_names": "象鼻岩與鋼盔岩海岸",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.572804,
+		"lat": 22.020608,
+		"place_names": "蘭嶼天池",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.509387,
+		"lat": 22.045955,
+		"place_names": "饅頭岩",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.57403,
+		"lat": 22.061531,
+		"place_names": "情人洞",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.510148,
+		"lat": 22.077353,
+		"place_names": "蘭嶼小天池",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.580035,
+		"lat": 22.079197,
+		"place_names": "軍艦岩",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.510762,
+		"lat": 22.080415,
+		"place_names": "五孔洞",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.554014,
+		"lat": 22.023653,
+		"place_names": "紅頭岬",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 121.567281,
+		"lat": 22.084973,
+		"place_names": "雙獅岩",
+		"remaker": "臺東縣"
+	}, {
+		"lon": 119.672318,
+		"lat": 23.597882,
+		"place_names": "澎湖群島北寮奎壁山、赤嶼",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.70002,
+		"lat": 23.618492,
+		"place_names": "錠鉤嶼柱狀玄武岩島嶼",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.685177,
+		"lat": 23.626224,
+		"place_names": "雞善嶼柱狀玄武岩島嶼",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.520662,
+		"lat": 23.652146,
+		"place_names": "澎湖群島小門嶼玄武岩地層與海蝕洞",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.609492,
+		"lat": 23.745232,
+		"place_names": "澎湖群島吉貝嶼玄武岩方山與海積地形",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.559698,
+		"lat": 23.694152,
+		"place_names": "小白沙嶼柱狀玄武岩島嶼",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.480376,
+		"lat": 23.565072,
+		"place_names": "澎湖西嶼外峖北岸",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.508403,
+		"lat": 23.620352,
+		"place_names": "澎湖大池",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.518986,
+		"lat": 23.511072,
+		"place_names": "澎湖群島桶盤嶼柱狀玄武岩",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.615298,
+		"lat": 23.249008,
+		"place_names": "澎湖西吉嶼",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.516581,
+		"lat": 23.259564,
+		"place_names": "澎湖東嶼坪",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.672285,
+		"lat": 23.255557,
+		"place_names": "澎湖東吉嶼",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.516581,
+		"lat": 23.259564,
+		"place_names": "澎湖西嶼坪",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.321813,
+		"lat": 23.40365,
+		"place_names": "澎湖花嶼",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.429781,
+		"lat": 23.208408,
+		"place_names": "澎湖群島七美嶼玄武岩",
+		"remaker": "澎湖縣"
+	}, {
+		"lon": 119.990294,
+		"lat": 25.964093,
+		"place_names": "東犬與福正",
+		"remaker": "連江縣"
+	}, {
+		"lon": 119.947714,
+		"lat": 25.978437,
+		"place_names": "菜埔澳",
+		"remaker": "連江縣"
+	}, {
+		"lon": 119.920886,
+		"lat": 26.141906,
+		"place_names": "鐵堡",
+		"remaker": "連江縣"
+	}, {
+		"lon": 119.973928,
+		"lat": 26.215639,
+		"place_names": "午沙與坂里",
+		"remaker": "連江縣"
+	}, {
+		"lon": 119.983436,
+		"lat": 26.225157,
+		"place_names": "芹壁村與龜島",
+		"remaker": "連江縣"
+	}, {
+		"lon": 119.996167,
+		"lat": 26.243968,
+		"place_names": "大坵",
+		"remaker": "連江縣"
+	}, {
+		"lon": 120.488985,
+		"lat": 26.357872,
+		"place_names": "燕秀潮音",
+		"remaker": "連江縣"
+	}, {
+		"lon": 120.507444,
+		"lat": 26.368009,
+		"place_names": "東引一線天與烈女義坑",
+		"remaker": "連江縣"
+	}
+]
+
+}

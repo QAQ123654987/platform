@@ -1,0 +1,3830 @@
+var Port=
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.7476,
+                25.1384
+            ]
+        },
+        "properties": {
+            "Name": "Port of Keelung",
+            "place_names": "基隆港",
+            "type": "國際商港",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.508333,
+                24.28
+            ]
+        },
+        "properties": {
+            "Name": "Port of Taichung",
+            "place_names": "台中港",
+            "type": "國際商港",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.277778,
+                22.613056
+            ]
+        },
+        "properties": {
+            "Name": "Port of Kaohsiung",
+            "place_names": "高雄港",
+            "type": "國際商港",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.635278,
+                24.000833
+            ]
+        },
+        "properties": {
+            "Name": "Port of Hualien",
+            "place_names": "花蓮港",
+            "type": "國際商港",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.377811,
+                25.154453
+            ]
+        },
+        "properties": {
+            "Name": "Port of Taipei",
+            "place_names": "台北港",
+            "type": "國際商港輔助港口",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.85789,
+                24.59703
+            ]
+        },
+        "properties": {
+            "Name": "Port of Su'ao",
+            "place_names": "蘇澳港",
+            "type": "國際商港輔助港口",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.85789,
+                24.59703
+            ]
+        },
+        "properties": {
+            "Name": "Port of Anping",
+            "place_names": "安平港",
+            "type": "國際商港輔助港口",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.116667,
+                23.366667
+            ]
+        },
+        "properties": {
+            "Name": "Port of Budai",
+            "place_names": "布袋港",
+            "type": "國內商港",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.5644,
+                23.56308
+            ]
+        },
+        "properties": {
+            "Name": "Magong Port",
+            "place_names": "馬公港",
+            "type": "國內商港",
+            "remaker": "澎湖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.672523,
+                23.560335
+            ]
+        },
+        "properties": {
+            "Name": "Longmen port",
+            "place_names": "龍門港",
+            "type": "國內商港",
+            "remaker": "澎湖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.429309,
+                24.408295
+            ]
+        },
+        "properties": {
+            "Name": "Liaoluo Port",
+            "place_names": "料羅港",
+            "type": "國內商港",
+            "remaker": "金門"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.292783,
+                24.421905
+            ]
+        },
+        "properties": {
+            "Name": "Shuitou Port",
+            "place_names": "水頭港",
+            "type": "國內商港",
+            "remaker": "金門"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.265135,
+                24.427055
+            ]
+        },
+        "properties": {
+            "Name": "Jiugong Port",
+            "place_names": "九宮港",
+            "type": "國內商港",
+            "remaker": "金門"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.942615,
+                26.158694
+            ]
+        },
+        "properties": {
+            "Name": "Fu'ao Port",
+            "place_names": "福澳港",
+            "type": "國內商港",
+            "remaker": "馬祖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.966661,
+                26.205589
+            ]
+        },
+        "properties": {
+            "Name": "Baisha Port",
+            "place_names": "白沙港",
+            "type": "國內商港",
+            "remaker": "馬祖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.935469,
+                25.966542
+            ]
+        },
+        "properties": {
+            "Name": "Qingfan Port",
+            "place_names": "青帆港",
+            "type": "國內商港",
+            "remaker": "馬祖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.96781,
+                25.953803
+            ]
+        },
+        "properties": {
+            "Name": "Mengao Port",
+            "place_names": "猛澳港",
+            "type": "國內商港",
+            "remaker": "馬祖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.484841,
+                26.365101
+            ]
+        },
+        "properties": {
+            "Name": "Zhongzhu Port",
+            "place_names": "中柱港",
+            "type": "國內商港",
+            "remaker": "馬祖"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.166111,
+                23.786667
+            ]
+        },
+        "properties": {
+            "Name": "Mailiao Industrial Port",
+            "place_names": "麥寮工業專用港",
+            "type": "工業專用港",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.760893,
+                24.299718
+            ]
+        },
+        "properties": {
+            "Name": "Mailiao Industrial Port",
+            "place_names": "和平工業專用港",
+            "type": "工業專用港",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.271111,
+                22.696111
+            ]
+        },
+        "properties": {
+            "Name": "Zuoying Port",
+            "place_names": "左營港",
+            "type": "專用軍港",
+            "remaker": ""
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.763825,
+                25.1542
+            ]
+        },
+        "properties": {
+            "Name": "Zhebgbin Fishing Port",
+            "place_names": "正濱漁港",
+            "type": "漁港",
+            "remaker": "基隆市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.789722,
+                25.144444
+            ]
+        },
+        "properties": {
+            "Name": "Badouzi Fishing Port",
+            "place_names": "八斗子漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "基隆市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.70809,
+                25.166626
+            ]
+        },
+        "properties": {
+            "Name": "Dawulun Fishing Port",
+            "place_names": "大武崙漁港",
+            "type": "漁港",
+            "remaker": "基隆市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.73323,
+                25.159314
+            ]
+        },
+        "properties": {
+            "Name": "Waimushan Fishing Port",
+            "place_names": "外木山漁港",
+            "type": "漁港",
+            "remaker": "基隆市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.800226,
+                25.140653
+            ]
+        },
+        "properties": {
+            "Name": "Changtanli Fishing Port",
+            "place_names": "長潭里漁港",
+            "type": "漁港",
+            "remaker": "基隆市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.803213,
+                25.137837
+            ]
+        },
+        "properties": {
+            "Name": "Wanghaihang Fishing Port",
+            "place_names": "望海巷漁港",
+            "type": "漁港",
+            "remaker": "基隆市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.381036,
+                25.143024
+            ]
+        },
+        "properties": {
+            "Name": "Xiaguzi Fishing Port",
+            "place_names": "下罟子漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.435184,
+                25.173068
+            ]
+        },
+        "properties": {
+            "Name": "Danshui First Fishing Port",
+            "place_names": "淡水第一漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.409559,
+                25.183538
+            ]
+        },
+        "properties": {
+            "Name": "Yuren Fishing Port",
+            "place_names": "漁人碼頭",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.448592,
+                25.242223
+            ]
+        },
+        "properties": {
+            "Name": "Liukuaicuo Fishing Port",
+            "place_names": "六塊厝漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.473876,
+                25.257291
+            ]
+        },
+        "properties": {
+            "Name": "Houcuo Fishing Port",
+            "place_names": "後厝漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509996,
+                25.283995
+            ]
+        },
+        "properties": {
+            "Name": "Linshanbi Fishing Port",
+            "place_names": "麟山鼻漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533611,
+                25.291667
+            ]
+        },
+        "properties": {
+            "Name": "Fuji Fishing Port",
+            "place_names": "富基漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.546498,
+                25.291691
+            ]
+        },
+        "properties": {
+            "Name": "Laomei Fishing Port",
+            "place_names": "老梅漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567329,
+                25.294933
+            ]
+        },
+        "properties": {
+            "Name": "Shimen Fishing Port",
+            "place_names": "石門漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.606637,
+                25.282377
+            ]
+        },
+        "properties": {
+            "Name": "Caoli Fishing Port",
+            "place_names": "草里漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.633873,
+                25.24194
+            ]
+        },
+        "properties": {
+            "Name": "Zhongjiao Fishing Port",
+            "place_names": "中角漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.647807,
+                25.230309
+            ]
+        },
+        "properties": {
+            "Name": "Huanggang Fishing Port",
+            "place_names": "磺港漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.651204,
+                25.225468
+            ]
+        },
+        "properties": {
+            "Name": "Shuiwei Fishing Port",
+            "place_names": "水尾漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.68761,
+                25.205705
+            ]
+        },
+        "properties": {
+            "Name": "Yeliu Fishing Port",
+            "place_names": "野柳漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.6926,
+                25.203624
+            ]
+        },
+        "properties": {
+            "Name": "Dongao Fishing Port",
+            "place_names": "東澳漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.688832,
+                25.195529
+            ]
+        },
+        "properties": {
+            "Name": "Guihou Fishing Port",
+            "place_names": "龜吼漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.696693,
+                25.180449
+            ]
+        },
+        "properties": {
+            "Name": "Wangli Fishing Port",
+            "place_names": "萬里漁港（瑪鍊漁港）",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.820506,
+                25.13179
+            ]
+        },
+        "properties": {
+            "Name": "Shenao Fishing Port",
+            "place_names": "深澳漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.8677,
+                25.122931
+            ]
+        },
+        "properties": {
+            "Name": "Shuinandong Fishing Port",
+            "place_names": "水湳洞漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.888181,
+                25.121588
+            ]
+        },
+        "properties": {
+            "Name": "Naya Fishing Port",
+            "place_names": "南雅漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.915539,
+                25.123666
+            ]
+        },
+        "properties": {
+            "Name": "BitouFishing Port",
+            "place_names": "鼻頭漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.915485,
+                25.11204
+            ]
+        },
+        "properties": {
+            "Name": "Longdong Fishing Port",
+            "place_names": "龍洞漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.915649,
+                25.079686
+            ]
+        },
+        "properties": {
+            "Name": "Hemei Fishing Port",
+            "place_names": "和美漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.92365,
+                25.06922
+            ]
+        },
+        "properties": {
+            "Name": "Meiyanshan Fishing Port",
+            "place_names": "美豔山漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.926456,
+                25.05732
+            ]
+        },
+        "properties": {
+            "Name": "Aode Fishing Port",
+            "place_names": "澳底漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.930134,
+                25.052636
+            ]
+        },
+        "properties": {
+            "Name": "Aozai Fishing Port",
+            "place_names": "澳仔漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.67272,
+                23.558222
+            ]
+        },
+        "properties": {
+            "Name": "Longmen Fishing Port",
+            "place_names": "龍門漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.951014,
+                25.021562
+            ]
+        },
+        "properties": {
+            "Name": "Fulong Fishing Port",
+            "place_names": "福隆漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.991422,
+                25.012545
+            ]
+        },
+        "properties": {
+            "Name": "Maoao Fishing Port",
+            "place_names": "卯澳漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                122.002231,
+                25.014731
+            ]
+        },
+        "properties": {
+            "Name": "Magang Fishing Port",
+            "place_names": "馬崗漁港",
+            "type": "漁港",
+            "remaker": "新北市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.240317,
+                25.119243
+            ]
+        },
+        "properties": {
+            "Name": "Zhuwei Fishing Port",
+            "place_names": "竹圍漁港",
+            "type": "漁港",
+            "remaker": "桃園市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.011106,
+                24.989698
+            ]
+        },
+        "properties": {
+            "Name": "Yongan Fishing Port",
+            "place_names": "永安漁港",
+            "type": "漁港",
+            "remaker": "桃園市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.98702,
+                24.938897
+            ]
+        },
+        "properties": {
+            "Name": "Keke Fishing Port",
+            "place_names": "蚵殼漁港",
+            "type": "漁港",
+            "remaker": "桃園市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.918386,
+                24.849746
+            ]
+        },
+        "properties": {
+            "Name": "Xinzhu Fishing Port",
+            "place_names": "新竹漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "新竹市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.90351,
+                24.765176
+            ]
+        },
+        "properties": {
+            "Name": "Haishan Fishing Port",
+            "place_names": "海山漁港",
+            "type": "漁港",
+            "remaker": "新竹市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.971334,
+                24.92715
+            ]
+        },
+        "properties": {
+            "Name": "Potou Fishing Port",
+            "place_names": "坡頭漁港",
+            "type": "漁港",
+            "remaker": "新竹縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.862156,
+                24.71564
+            ]
+        },
+        "properties": {
+            "Name": "Quingcao Fishing Port",
+            "place_names": "青草漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.856228,
+                24.700188
+            ]
+        },
+        "properties": {
+            "Name": "Longfeng Fishing Port",
+            "place_names": "龍鳳漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.771121,
+                24.651521
+            ]
+        },
+        "properties": {
+            "Name": "Waibu Fishing Port",
+            "place_names": "外埔漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.757218,
+                24.613335
+            ]
+        },
+        "properties": {
+            "Name": "Gongsiliao Fishing Port",
+            "place_names": "公司寮漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.747837,
+                24.60696
+            ]
+        },
+        "properties": {
+            "Name": "Funing Fishing Port",
+            "place_names": "福寧漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.712698,
+                24.588808
+            ]
+        },
+        "properties": {
+            "Name": "Nagang Fishing Port",
+            "place_names": "南港漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.705539,
+                24.571008
+            ]
+        },
+        "properties": {
+            "Name": "Baishatun Fishing Port",
+            "place_names": "白沙屯漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.693888,
+                24.545196
+            ]
+        },
+        "properties": {
+            "Name": "Xinbu Fishing Port",
+            "place_names": "新埔漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.673797,
+                24.497555
+            ]
+        },
+        "properties": {
+            "Name": "Tongxiao Fishing Port",
+            "place_names": "通霄漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.648517,
+                24.460926
+            ]
+        },
+        "properties": {
+            "Name": "Yuangang Fishing Port",
+            "place_names": "苑港漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.63297,
+                24.44638
+            ]
+        },
+        "properties": {
+            "Name": "Yuanli Fishing Port",
+            "place_names": "苑裡漁港",
+            "type": "漁港",
+            "remaker": "苗栗縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.518049,
+                24.292126
+            ]
+        },
+        "properties": {
+            "Name": "Wuqi Fishing Port",
+            "place_names": "梧棲漁港",
+            "type": "漁港",
+            "remaker": "臺中市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.617357,
+                24.427415
+            ]
+        },
+        "properties": {
+            "Name": "Songbai Fishing Port",
+            "place_names": "松柏漁港",
+            "type": "漁港",
+            "remaker": "臺中市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.58799,
+                24.390459
+            ]
+        },
+        "properties": {
+            "Name": "Wujia Fishing Port",
+            "place_names": "五甲漁港",
+            "type": "漁港",
+            "remaker": "臺中市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.586132,
+                24.382944
+            ]
+        },
+        "properties": {
+            "Name": "Beishan Fishing Port",
+            "place_names": "北汕漁港",
+            "type": "漁港",
+            "remaker": "臺中市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.581861,
+                24.372143
+            ]
+        },
+        "properties": {
+            "Name": "Wenliao Fishing Port",
+            "place_names": "塭寮漁港",
+            "type": "漁港",
+            "remaker": "臺中市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.496677,
+                24.199016
+            ]
+        },
+        "properties": {
+            "Name": "Lishui Fishing Port",
+            "place_names": "麗水漁港",
+            "type": "漁港",
+            "remaker": "臺中市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.421659,
+                24.084382
+            ]
+        },
+        "properties": {
+            "Name": "Lunweiwan Fishing Port",
+            "place_names": "崙尾灣漁港",
+            "type": "漁港",
+            "remaker": "彰化縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.32455,
+                23.968931
+            ]
+        },
+        "properties": {
+            "Name": "Wanggong Fishing Port",
+            "place_names": "王功漁港",
+            "type": "漁港",
+            "remaker": "彰化縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.150642,
+                23.65949
+            ]
+        },
+        "properties": {
+            "Name": "Wutiaognag Fishing Port",
+            "place_names": "五條港漁港",
+            "type": "漁港",
+            "remaker": "雲林縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.172765,
+                23.704331
+            ]
+        },
+        "properties": {
+            "Name": "Taixi Fishing Port",
+            "place_names": "台西漁港",
+            "type": "漁港",
+            "remaker": "雲林縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.150483,
+                23.65936
+            ]
+        },
+        "properties": {
+            "Name": "Santiaolun Fishing Port",
+            "place_names": "三條崙漁港",
+            "type": "漁港",
+            "remaker": "雲林縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.137139,
+                23.619133
+            ]
+        },
+        "properties": {
+            "Name": "Boziliao Fishing Port",
+            "place_names": "箔子寮漁港",
+            "type": "漁港",
+            "remaker": "雲林縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.141721,
+                23.572092
+            ]
+        },
+        "properties": {
+            "Name": "Jinhuyu Fishing Port",
+            "place_names": "金湖漁港",
+            "type": "漁港",
+            "remaker": "雲林縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.13917,
+                23.560825
+            ]
+        },
+        "properties": {
+            "Name": "Taizicun Fishing Port",
+            "place_names": "台子村漁港",
+            "type": "漁港",
+            "remaker": "雲林縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.169122,
+                23.491934
+            ]
+        },
+        "properties": {
+            "Name": "Aogu Fishing Port",
+            "place_names": "鰲鼓漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.168942,
+                23.490432
+            ]
+        },
+        "properties": {
+            "Name": "Fulai Fishing Port",
+            "place_names": "副瀨漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.143818,
+                23.467654
+            ]
+        },
+        "properties": {
+            "Name": "Wengang Fishing Port",
+            "place_names": "塭港漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.146136,
+                23.464858
+            ]
+        },
+        "properties": {
+            "Name": "Xiazhuang Fishing Port",
+            "place_names": "下莊漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.137653,
+                23.450622
+            ]
+        },
+        "properties": {
+            "Name": "Dongshi Fishing Port",
+            "place_names": "東石漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.146853,
+                23.437375
+            ]
+        },
+        "properties": {
+            "Name": "Wangliao Fishing Port",
+            "place_names": "網寮漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.151803,
+                23.424522
+            ]
+        },
+        "properties": {
+            "Name": "Baishuihu Fishing Port",
+            "place_names": "白水湖漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.156136,
+                23.384602
+            ]
+        },
+        "properties": {
+            "Name": "Budai Fishing Port",
+            "place_names": "布袋漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.120671,
+                23.34194
+            ]
+        },
+        "properties": {
+            "Name": "Haomeili Fishing Port",
+            "place_names": "好美里漁港",
+            "type": "漁港",
+            "remaker": "嘉義縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.153888,
+                22.992586
+            ]
+        },
+        "properties": {
+            "Name": "Anping Fishing Port",
+            "place_names": "安平漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "台南市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.133506,
+                23.285521
+            ]
+        },
+        "properties": {
+            "Name": "Keliao Fishing Port",
+            "place_names": "蚵寮漁港",
+            "type": "漁港",
+            "remaker": "台南市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.095585,
+                23.234154
+            ]
+        },
+        "properties": {
+            "Name": "Beimen Fishing Port",
+            "place_names": "北門漁港",
+            "type": "漁港",
+            "remaker": "台南市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.08698,
+                23.210108
+            ]
+        },
+        "properties": {
+            "Name": "Jiangjun Fishing Port",
+            "place_names": "將軍漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "台南市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.070858,
+                23.172349
+            ]
+        },
+        "properties": {
+            "Name": "Qingshan Fishing Port",
+            "place_names": "青山漁港",
+            "type": "漁港",
+            "remaker": "台南市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.113196,
+                23.137518
+            ]
+        },
+        "properties": {
+            "Name": "Xiashan Fishing Port",
+            "place_names": "下山漁港",
+            "type": "漁港",
+            "remaker": "台南市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.140602,
+                23.007534
+            ]
+        },
+        "properties": {
+            "Name": "Sicao Fishing Port",
+            "place_names": "四草漁港",
+            "type": "漁港",
+            "remaker": "台南市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.314831,
+                22.570115
+            ]
+        },
+        "properties": {
+            "Name": "Qianzhen Fishing Port",
+            "place_names": "前鎮漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.18127,
+                22.914398
+            ]
+        },
+        "properties": {
+            "Name": "Baishalun Fishing Port",
+            "place_names": "白砂崙漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.19566,
+                22.867735
+            ]
+        },
+        "properties": {
+            "Name": "Xingda Fishing Port",
+            "place_names": "興達漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.199729,
+                22.81363
+            ]
+        },
+        "properties": {
+            "Name": "Yongxin Fishing Port",
+            "place_names": "永新漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.233993,
+                22.761596
+            ]
+        },
+        "properties": {
+            "Name": "Mituo Fishing Port",
+            "place_names": "彌陀漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.254139,
+                22.727179
+            ]
+        },
+        "properties": {
+            "Name": "Keziliao Fishing Port",
+            "place_names": "蚵子寮漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.272018,
+                22.61861
+            ]
+        },
+        "properties": {
+            "Name": "Gushan Fishing Port",
+            "place_names": "鼓山漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.273584,
+                22.612726
+            ]
+        },
+        "properties": {
+            "Name": "Qihou Fishing Port",
+            "place_names": "旗后漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.288044,
+                22.591334
+            ]
+        },
+        "properties": {
+            "Name": "Qijin Fishing Port",
+            "place_names": "旗津漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.293623,
+                22.583403
+            ]
+        },
+        "properties": {
+            "Name": "Shanzhuli Fishing Port",
+            "place_names": "上竹里漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.298947,
+                22.576407
+            ]
+        },
+        "properties": {
+            "Name": "Zhongzhou Fishing Port",
+            "place_names": "中洲漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.339533,
+                22.553914
+            ]
+        },
+        "properties": {
+            "Name": "Linhai Village Siaogang District Fishing Port",
+            "place_names": "小港臨海新村漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.355261,
+                22.508841
+            ]
+        },
+        "properties": {
+            "Name": "Fhenbitou Fishing Port",
+            "place_names": "鳳鼻頭漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.381182,
+                22.49515
+            ]
+        },
+        "properties": {
+            "Name": "Gangbu Fishing Port",
+            "place_names": "港埔漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.399698,
+                22.483356
+            ]
+        },
+        "properties": {
+            "Name": "Zhongyun Fishing Port",
+            "place_names": "中芸漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.415005,
+                22.479053
+            ]
+        },
+        "properties": {
+            "Name": "Shanwei Fishing Port",
+            "place_names": "汕尾漁港",
+            "type": "漁港",
+            "remaker": "高雄市"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.440678,
+                22.470037
+            ]
+        },
+        "properties": {
+            "Name": "Yanpu Donggang Fishing Port",
+            "place_names": "東港鹽埔漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.513155,
+                22.417725
+            ]
+        },
+        "properties": {
+            "Name": "Shuili village Fishing Port",
+            "place_names": "水利村漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.518499,
+                22.415069
+            ]
+        },
+        "properties": {
+            "Name": "Wenfeng Fishing Port",
+            "place_names": "塭豐漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.593929,
+                22.361309
+            ]
+        },
+        "properties": {
+            "Name": "Fangliao Fishing Port",
+            "place_names": "枋寮漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.689555,
+                22.186969
+            ]
+        },
+        "properties": {
+            "Name": "Fenggang Fishing Port",
+            "place_names": "楓港漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.593503,
+                22.362351
+            ]
+        },
+        "properties": {
+            "Name": "Haikou Fishing Port",
+            "place_names": "海口漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.696433,
+                22.042041
+            ]
+        },
+        "properties": {
+            "Name": "Houwan Fishing Port",
+            "place_names": "後灣漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.711513,
+                21.985863
+            ]
+        },
+        "properties": {
+            "Name": "Shanhai Fishing Port",
+            "place_names": "山海漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.715748,
+                21.971295
+            ]
+        },
+        "properties": {
+            "Name": "Hongchaikeng Fishing Port",
+            "place_names": "紅柴坑漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.745351,
+                21.945043
+            ]
+        },
+        "properties": {
+            "Name": "Houbihu Fishing Port",
+            "place_names": "後壁湖漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.77693,
+                21.950432
+            ]
+        },
+        "properties": {
+            "Name": "Tanzai Fishing Port",
+            "place_names": "潭仔漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.831883,
+                21.924899
+            ]
+        },
+        "properties": {
+            "Name": "Ziangjiaowan Fishing Port",
+            "place_names": "香蕉灣漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.848433,
+                21.904811
+            ]
+        },
+        "properties": {
+            "Name": "Bitou Fishing Port",
+            "place_names": "鼻頭漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.845117,
+                21.974894
+            ]
+        },
+        "properties": {
+            "Name": "Xinghai Fishing Port",
+            "place_names": "興海漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.89125,
+                22.087495
+            ]
+        },
+        "properties": {
+            "Name": "Naren Fishing Port",
+            "place_names": "南仁漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.891235,
+                22.137365
+            ]
+        },
+        "properties": {
+            "Name": "Zhongshan Fishing Port",
+            "place_names": "中山漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.892148,
+                22.197881
+            ]
+        },
+        "properties": {
+            "Name": "Xuhai Fishing Port",
+            "place_names": "旭海漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.374429,
+                22.334173
+            ]
+        },
+        "properties": {
+            "Name": "Dafu Fishing Port",
+            "place_names": "大福漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.388922,
+                22.347572
+            ]
+        },
+        "properties": {
+            "Name": "Yufu Fishing Port",
+            "place_names": "漁福漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.357815,
+                22.322579
+            ]
+        },
+        "properties": {
+            "Name": "Haizikou Fishing Port",
+            "place_names": "海子口漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.383124,
+                22.35312
+            ]
+        },
+        "properties": {
+            "Name": "Baishawei Fishing Port",
+            "place_names": "白沙尾漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.362623,
+                22.340055
+            ]
+        },
+        "properties": {
+            "Name": "Shafu Fishing Port",
+            "place_names": "杉福漁港",
+            "type": "漁港",
+            "remaker": "屏東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.836953,
+                24.866439
+            ]
+        },
+        "properties": {
+            "Name": "Wushi Fishing Port",
+            "place_names": "烏石漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.868541,
+                24.582324
+            ]
+        },
+        "properties": {
+            "Name": "Nafangao Fishing Port",
+            "place_names": "南方澳漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.950793,
+                24.979729
+            ]
+        },
+        "properties": {
+            "Name": "Shicheng Fishing Port",
+            "place_names": "石城漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.936096,
+                24.97362
+            ]
+        },
+        "properties": {
+            "Name": "Tongpanku Fishing Port",
+            "place_names": "桶盤堀漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.921772,
+                24.962086
+            ]
+        },
+        "properties": {
+            "Name": "Dali Fishing Port",
+            "place_names": "大里漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.914763,
+                24.951788
+            ]
+        },
+        "properties": {
+            "Name": "Fanshuliao Fishing Port",
+            "place_names": "蕃薯寮漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.899985,
+                24.940675
+            ]
+        },
+        "properties": {
+            "Name": "Daxi Second Fishing Port",
+            "place_names": "大溪第二漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.898296,
+                24.941337
+            ]
+        },
+        "properties": {
+            "Name": "Daxi First Fishing Port",
+            "place_names": "大溪第一漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.869727,
+                24.904306
+            ]
+        },
+        "properties": {
+            "Name": "Gangfang Fishing Port",
+            "place_names": "梗枋漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.842758,
+                24.497869
+            ]
+        },
+        "properties": {
+            "Name": "Fenniaolin Fishing Port",
+            "place_names": "粉鳥林漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.821149,
+                24.461038
+            ]
+        },
+        "properties": {
+            "Name": "Chaoyang Fishing Port",
+            "place_names": "朝陽漁港",
+            "type": "漁港",
+            "remaker": "宜蘭縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.630584,
+                23.979172
+            ]
+        },
+        "properties": {
+            "Name": "Hualian Fishing Port",
+            "place_names": "花蓮漁港",
+            "type": "漁港",
+            "remaker": "花蓮縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.586413,
+                23.829106
+            ]
+        },
+        "properties": {
+            "Name": "Yanliao Fishing Port",
+            "place_names": "鹽寮漁港",
+            "type": "漁港",
+            "remaker": "花蓮縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.505867,
+                23.494189
+            ]
+        },
+        "properties": {
+            "Name": "Shiti Fishing Port",
+            "place_names": "石梯漁港",
+            "type": "漁港",
+            "remaker": "花蓮縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.456592,
+                23.312847
+            ]
+        },
+        "properties": {
+            "Name": "Changbin Fishing Port",
+            "place_names": "長濱漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.416764,
+                23.228199
+            ]
+        },
+        "properties": {
+            "Name": "Wubishi Fishing Port",
+            "place_names": "烏石鼻漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.404018,
+                23.157954
+            ]
+        },
+        "properties": {
+            "Name": "Xiaogang Fishing Port",
+            "place_names": "小港漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.382863,
+                23.09681
+            ]
+        },
+        "properties": {
+            "Name": "Xingang Fishing Port",
+            "place_names": "新港漁港(成功漁港)",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.29298,
+                22.954007
+            ]
+        },
+        "properties": {
+            "Name": "Jinzun Fishing Port",
+            "place_names": "金樽漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.202289,
+                22.860211
+            ]
+        },
+        "properties": {
+            "Name": "Xinlan Fishing Port",
+            "place_names": "新蘭漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.192693,
+                22.790975
+            ]
+        },
+        "properties": {
+            "Name": "Galan Fishing Port",
+            "place_names": "伽藍漁港(富岡漁港)",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.896642,
+                22.33661
+            ]
+        },
+        "properties": {
+            "Name": "Dawu Fishing Port",
+            "place_names": "大武漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.47181,
+                22.659778
+            ]
+        },
+        "properties": {
+            "Name": "Naliao Fishing Port",
+            "place_names": "南寮漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.47262,
+                22.676119
+            ]
+        },
+        "properties": {
+            "Name": "Zhongliao Fishing Port",
+            "place_names": "中寮漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.492828,
+                22.675693
+            ]
+        },
+        "properties": {
+            "Name": "Gongguan Fishing Port",
+            "place_names": "公館漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.499366,
+                22.645793
+            ]
+        },
+        "properties": {
+            "Name": "Wenquan Fishing Port",
+            "place_names": "溫泉漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.508159,
+                22.058631
+            ]
+        },
+        "properties": {
+            "Name": "Kaiyuan Fishing Port",
+            "place_names": "開元漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.530352,
+                22.080236
+            ]
+        },
+        "properties": {
+            "Name": "Langdao Fishing Port",
+            "place_names": "朗島漁港",
+            "type": "漁港",
+            "remaker": "台東縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.530192,
+                23.639767
+            ]
+        },
+        "properties": {
+            "Name": "Hojie Fishing Port",
+            "place_names": "合界漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.538025,
+                23.633487
+            ]
+        },
+        "properties": {
+            "Name": "Hengjiao Fishing Port",
+            "place_names": "橫礁漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.523328,
+                23.630555
+            ]
+        },
+        "properties": {
+            "Name": "Zhuwan Fishing Port",
+            "place_names": "竹灣漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.52184,
+                23.606826
+            ]
+        },
+        "properties": {
+            "Name": "Erkan Fishing Port",
+            "place_names": "二崁漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.516723,
+                23.5943
+            ]
+        },
+        "properties": {
+            "Name": "Daguoye Fishing Port",
+            "place_names": "大?葉漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.512944,
+                23.581547
+            ]
+        },
+        "properties": {
+            "Name": "Chima Fishing Port",
+            "place_names": "赤馬漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.50065,
+                23.56656
+            ]
+        },
+        "properties": {
+            "Name": "Neianna Fishing Port",
+            "place_names": "內垵南漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.48055,
+                23.563889
+            ]
+        },
+        "properties": {
+            "Name": "Waian Fishing Port",
+            "place_names": "外垵漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.499898,
+                23.575118
+            ]
+        },
+        "properties": {
+            "Name": "Neianbei Fishing Port",
+            "place_names": "內垵北漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.503333,
+                23.599999
+            ]
+        },
+        "properties": {
+            "Name": "Chixi Fishing Port",
+            "place_names": "池西漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.50479,
+                23.616816
+            ]
+        },
+        "properties": {
+            "Name": "Dachi Fishing Port",
+            "place_names": "大池漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.516647,
+                23.651087
+            ]
+        },
+        "properties": {
+            "Name": "Xiaomen Fishing Port",
+            "place_names": "小門漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.569315,
+                23.670689
+            ]
+        },
+        "properties": {
+            "Name": "Houliao Fishing Port",
+            "place_names": "後寮漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.603335,
+                23.666377
+            ]
+        },
+        "properties": {
+            "Name": "Chikan Fishing Port",
+            "place_names": "赤崁漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.609196,
+                23.649114
+            ]
+        },
+        "properties": {
+            "Name": "Qitou Fishing Port",
+            "place_names": "岐頭漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.601674,
+                23.648045
+            ]
+        },
+        "properties": {
+            "Name": "Gangzi Fishing Port",
+            "place_names": "港子漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.60177,
+                23.642157
+            ]
+        },
+        "properties": {
+            "Name": "Zhenhai Fishing Port",
+            "place_names": "鎮海漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.599997,
+                23.636393
+            ]
+        },
+        "properties": {
+            "Name": "Jiangmei Fishing Port",
+            "place_names": "講美漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.596034,
+                23.62389
+            ]
+        },
+        "properties": {
+            "Name": "Chengqian Fishing Port",
+            "place_names": "城前漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.579984,
+                23.657206
+            ]
+        },
+        "properties": {
+            "Name": "Wadong Fishing Port",
+            "place_names": "瓦硐漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.555299,
+                23.656449
+            ]
+        },
+        "properties": {
+            "Name": "Tongliang Fishing Port",
+            "place_names": "通樑漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.568873,
+                23.617214
+            ]
+        },
+        "properties": {
+            "Name": "Dacang Fishing Port",
+            "place_names": "大倉漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.630903,
+                23.646312
+            ]
+        },
+        "properties": {
+            "Name": "Yuanbei Fishing Port",
+            "place_names": "員貝漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.655819,
+                23.659911
+            ]
+        },
+        "properties": {
+            "Name": "Niaoyu Fishing Port",
+            "place_names": "鳥嶼漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.612979,
+                23.7396
+            ]
+        },
+        "properties": {
+            "Name": "Jiebi Fishing Port",
+            "place_names": "吉貝漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.615247,
+                23.604441
+            ]
+        },
+        "properties": {
+            "Name": "Zhongxi Fishing Port",
+            "place_names": "中西漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.62004,
+                23.606084
+            ]
+        },
+        "properties": {
+            "Name": "Shagang West Fishing Port",
+            "place_names": "沙港西漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.626022,
+                23.607578
+            ]
+        },
+        "properties": {
+            "Name": "Shagang Zhong Fishing Port",
+            "place_names": "沙港中漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.630051,
+                23.603348
+            ]
+        },
+        "properties": {
+            "Name": "Shagang East Fishing Port",
+            "place_names": "沙港東漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.626501,
+                23.583442
+            ]
+        },
+        "properties": {
+            "Name": "Chenggong Fishing Port",
+            "place_names": "成功漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.632828,
+                23.593711
+            ]
+        },
+        "properties": {
+            "Name": "Xixi Fishing Port",
+            "place_names": "西溪漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.640332,
+                23.597854
+            ]
+        },
+        "properties": {
+            "Name": "Hongluo Fishing Port",
+            "place_names": "紅羅漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.647178,
+                23.602402
+            ]
+        },
+        "properties": {
+            "Name": "Qingluo Fishing Port",
+            "place_names": "青螺漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.661136,
+                23.594997
+            ]
+        },
+        "properties": {
+            "Name": "Baikeng Fishing Port",
+            "place_names": "白坑漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.667743,
+                23.595572
+            ]
+        },
+        "properties": {
+            "Name": "Nanbeiliao Fishing Port",
+            "place_names": "南北寮漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.681247,
+                23.577369
+            ]
+        },
+        "properties": {
+            "Name": "Guoye Fishing Port",
+            "place_names": "?葉漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.675409,
+                23.558617
+            ]
+        },
+        "properties": {
+            "Name": "Longmen Fishing Port",
+            "place_names": "龍門漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.668728,
+                23.561454
+            ]
+        },
+        "properties": {
+            "Name": "Jianshan Fishing Port",
+            "place_names": "尖山漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.625557,
+                23.544167
+            ]
+        },
+        "properties": {
+            "Name": "Wukan Fishing Port",
+            "place_names": "烏崁漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.605756,
+                23.526467
+            ]
+        },
+        "properties": {
+            "Name": "Suogang Fishing Port",
+            "place_names": "鎖港漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.596657,
+                23.511943
+            ]
+        },
+        "properties": {
+            "Name": "Shanshui Fishing Port",
+            "place_names": "山水漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.541513,
+                23.541817
+            ]
+        },
+        "properties": {
+            "Name": "Fenggui West Fishing Port",
+            "place_names": "風櫃西漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.550003,
+                23.541312
+            ]
+        },
+        "properties": {
+            "Name": "Fenggui East Fishing Port",
+            "place_names": "風櫃東漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.572551,
+                23.528025
+            ]
+        },
+        "properties": {
+            "Name": "Shili Fishing Port",
+            "place_names": "蒔裡漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.579308,
+                23.52316
+            ]
+        },
+        "properties": {
+            "Name": "Jingan Fishing Port",
+            "place_names": "井垵漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.586939,
+                23.53
+            ]
+        },
+        "properties": {
+            "Name": "Wude Fishing Port",
+            "place_names": "五德漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.596527,
+                23.532573
+            ]
+        },
+        "properties": {
+            "Name": "Tiexian Fishing Port",
+            "place_names": "鐵線漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.595116,
+                23.548663
+            ]
+        },
+        "properties": {
+            "Name": "Caiyuan Fishing Port",
+            "place_names": "菜園漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.579929,
+                23.523459
+            ]
+        },
+        "properties": {
+            "Name": "Shiquan Fishing Port",
+            "place_names": "石泉漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.587498,
+                23.551119
+            ]
+        },
+        "properties": {
+            "Name": "Qianliao Fishing Port",
+            "place_names": "前寮漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.575414,
+                23.558607
+            ]
+        },
+        "properties": {
+            "Name": "Anshan Fishing Port",
+            "place_names": "案山漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.568279,
+                23.559119
+            ]
+        },
+        "properties": {
+            "Name": "Magong Fishing Port",
+            "place_names": "馬公漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.571449,
+                23.585507
+            ]
+        },
+        "properties": {
+            "Name": "Chongguang Fishing Port",
+            "place_names": "重光漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.583863,
+                23.580831
+            ]
+        },
+        "properties": {
+            "Name": "Xiwei Fishing Port",
+            "place_names": "西衛漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.598565,
+                23.577427
+            ]
+        },
+        "properties": {
+            "Name": "Anzhai Fishing Port",
+            "place_names": "安宅漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.519143,
+                23.513053
+            ]
+        },
+        "properties": {
+            "Name": "Tongpan Fishing Port",
+            "place_names": "桶盤漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.516923,
+                23.487003
+            ]
+        },
+        "properties": {
+            "Name": "Hujing Fishing Port",
+            "place_names": "虎井漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.501357,
+                23.389781
+            ]
+        },
+        "properties": {
+            "Name": "Shuian Fishing Port",
+            "place_names": "水垵漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.494145,
+                23.372793
+            ]
+        },
+        "properties": {
+            "Name": "Zhongshe Fishing Port",
+            "place_names": "中社漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.507782,
+                23.363049
+            ]
+        },
+        "properties": {
+            "Name": "Tanmen Fishing Port",
+            "place_names": "潭門漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.086445,
+                23.211585
+            ]
+        },
+        "properties": {
+            "Name": "Jianjun Fishing Port",
+            "place_names": "將軍漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.317622,
+                23.398666
+            ]
+        },
+        "properties": {
+            "Name": "Huayu Fishing Port",
+            "place_names": "花嶼漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.511021,
+                23.256162
+            ]
+        },
+        "properties": {
+            "Name": "Dongyuping Fishing Port",
+            "place_names": "東嶼坪漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.667166,
+                23.253868
+            ]
+        },
+        "properties": {
+            "Name": "Dongji Fishing Port",
+            "place_names": "東吉漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.776938,
+                21.950425
+            ]
+        },
+        "properties": {
+            "Name": "Tanzi Fishing Port",
+            "place_names": "潭仔漁港",
+            "type": "漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                119.418944,
+                23.194632
+            ]
+        },
+        "properties": {
+            "Name": "Qumei Fishing Port",
+            "place_names": "七美漁港",
+            "type": "附遊艇碼頭之漁港",
+            "remaker": "澎湖縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.4745884,
+                24.44535246
+            ]
+        },
+        "properties": {
+            "Name": "Fuguodun Fishing Port",
+            "place_names": "復國墩漁港",
+            "type": "漁港",
+            "remaker": "金門縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.4105,
+                24.43178
+            ]
+        },
+        "properties": {
+            "Name": "Xinhu Fishing Port",
+            "place_names": "新湖漁港",
+            "type": "漁港",
+            "remaker": "金門縣"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                118.25871,
+                24.42465
+            ]
+        },
+        "properties": {
+            "Name": "Luocuo Fishing Port",
+            "place_names": "羅厝漁港",
+            "type": "漁港",
+            "remaker": "金門縣"
+        }
+    }
+]
+}
