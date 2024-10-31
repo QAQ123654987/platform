@@ -108,7 +108,7 @@ var hotpoints = L.layerGroup(Hotpoint_cluster);
     layerControl.addOverlay(Beach, '海水浴場');
 
 //資料點：Hotpoints 十三處侵淤熱點 --------------------------------------------------------------------------
-    $.getJSON('./JSON_file/Hotpoint.geojson',function(data){
+    $.getJSON('GEOJSON_file/before/Hotpoint.geojson',function(data){
         L.geoJson(data,{
             pointToLayer: function(feature,HotpointLayer){
                 var marker = L.marker(HotpointLayer, {icon:HotpointIcon});
@@ -121,14 +121,14 @@ var hotpoints = L.layerGroup(Hotpoint_cluster);
         });
     });
     var HotpointIcon = L.icon({
-        iconUrl: './dist/icon/hotpoint.png',
+        iconUrl: 'GEOJSON_file/before/coastal/icon/hotpoint.png',
         iconSize: [45,45],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
     });
 
     var HotpointIcon2 = L.icon({
-        iconUrl: './dist/icon/hotpoint2.png',
+        iconUrl: 'GEOJSON_file/before/coastal/icon/hotpoint2.png',
         iconSize: [45,45],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
@@ -324,7 +324,7 @@ var hotpoints = L.layerGroup(Hotpoint_cluster);
     });
 
 // 資料點：City_position 縣市--------------------------------------------------------------------------
-    $.getJSON('./JSON_file/City_position.geojson', function(data) {
+    $.getJSON('GEOJSON_file/before/City_position.geojson', function(data) {
         L.geoJson(data, {
             pointToLayer: function(feature, City_positionLayer) {
                 // 判斷是否為 "澎湖縣"
@@ -414,13 +414,13 @@ var hotpoints = L.layerGroup(Hotpoint_cluster);
         }
     }
     var City_positionIcon = L.icon({
-        iconUrl: './dist/icon/city.png',
+        iconUrl: 'GEOJSON_file/before/coastal/icon/city.png',
         iconSize: [45,45],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
     });
 // 資料點：District_position 鄉鎮--------------------------------------------------------------------------
-    $.getJSON('./JSON_file/Districts.geojson', function(data) {
+    $.getJSON('GEOJSON_file/before/Districts.geojson', function(data) {
         L.geoJson(data, {
             pointToLayer: function(feature, Districts_positionLayer) {
                 var marker = L.marker(Districts_positionLayer, { icon: District_positionIcon })
@@ -505,13 +505,13 @@ var hotpoints = L.layerGroup(Hotpoint_cluster);
         }
     }
     var District_positionIcon = L.icon({
-        iconUrl: './dist/icon/district.png',
+        iconUrl: 'GEOJSON_file/before/coastal/icon/district.png',
         iconSize: [45,45],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
     });
 //資料點：CoastalResources 海岸資源--------------------------------------------------------------------------
-$.getJSON('./JSON_file/CoastalResources.geojson',function(data){
+$.getJSON('GEOJSON_file/before/CoastalResources.geojson',function(data){
     L.geoJson(data,{
         pointToLayer: function(feature,CoastalResourcesLayer){
             var marker = L.marker(CoastalResourcesLayer, {icon:CoastalResourcesIcon});
@@ -531,13 +531,13 @@ $.getJSON('./JSON_file/CoastalResources.geojson',function(data){
 });
 
 var CoastalResourcesIcon = new L.Icon({
-    iconUrl: './dist/icon/CoastalResources.png',
+    iconUrl: 'GEOJSON_file/before/coastal/icon/CoastalResources.png',
     iconSize: [45,45],
     iconAnchor: [12, 41],
     popupAnchor: [1, -34],
 });
 //資料點：protection 潛在保護區 --------------------------------------------------------------------------
-$.getJSON('./JSON_file/protection.geojson',function(data){
+$.getJSON('GEOJSON_file/before/protection.geojson',function(data){
     L.geoJson(data,{
         pointToLayer: function(feature,protectionLayer){
             var marker = L.marker(protectionLayer, {icon:protectionIcon});
@@ -553,13 +553,13 @@ $.getJSON('./JSON_file/protection.geojson',function(data){
 });
 
 var protectionIcon = new L.Icon({
-    iconUrl: './dist/icon/protection.png',
+    iconUrl: 'GEOJSON_file/before/coastal/icon/protection.png',
     iconSize: [45,45],
     iconAnchor: [12, 41],
     popupAnchor: [1, -34],
 });
 //資料點：Port 港口 --------------------------------------------------------------------------
-    $.getJSON('./JSON_file/Port.geojson',function(data){
+    $.getJSON('GEOJSON_file/before/Port.geojson',function(data){
         L.geoJson(data,{
             pointToLayer: function(feature,PortLayer){
                 var marker = L.marker(PortLayer, {icon:PortIcon});
@@ -579,13 +579,13 @@ var protectionIcon = new L.Icon({
     });
 
     var PortIcon = new L.Icon({
-        iconUrl: './dist/icon/port.png',
+        iconUrl: 'GEOJSON_file/before/coastal/icon/port.png',
         iconSize: [45,45],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
     });
 //資料點：Wetland 濕地資源--------------------------------------------------------------------------
-    $.getJSON('./JSON_file/Wetland.geojson',function(data){
+    $.getJSON('GEOJSON_file/before/Wetland.geojson',function(data){
         L.geoJson(data,{
             pointToLayer: function(feature,WetlandLayer){
                 var marker = L.marker(WetlandLayer, {icon:WetlandIcon});
@@ -604,13 +604,13 @@ var protectionIcon = new L.Icon({
     });
 
     var WetlandIcon = new L.Icon({
-        iconUrl: './dist/icon/Wetland.png',
+        iconUrl: 'GEOJSON_file/before/coastal/icon/Wetland.png',
         iconSize: [45,45],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
     });
 //資料點：Beach海水浴場--------------------------------------------------------------------------
-    $.getJSON('./JSON_file/Beach.geojson',function(data){
+    $.getJSON('GEOJSON_file/before/Beach.geojson',function(data){
         L.geoJson(data,{
             pointToLayer: function(feature,BeachLayer){
                 var marker = L.marker(BeachLayer, {icon: BeachIcon});
@@ -628,7 +628,7 @@ var protectionIcon = new L.Icon({
         });
     });
     var BeachIcon = new L.Icon({
-        iconUrl: './dist/icon/beach.png',
+        iconUrl: 'GEOJSON_file/before/coastal/icon/beach.png',
         iconSize: [45,45],
         iconAnchor: [12, 41],
         popupAnchor: [1, -34],
@@ -648,7 +648,7 @@ var protectionIcon = new L.Icon({
                 +'位於：'+feature.properties.所在縣市+'</br>'+'面積：'+ feature.properties.面積);
         }
     }
-    fetch('./dist/file/Tide_post_4326/Tide_post_4326_right-hand-rule.geojson')
+    fetch('./GEOJSON_file/before/coastal/file/Tide_post_4326/Tide_post_4326_right-hand-rule.geojson')
         .then(function (response) {
             return response.json();
         })
@@ -695,7 +695,7 @@ function geTestName(feature, layer) {
             +'位於：'+feature.properties.所在縣市+'</br>'+'面積：'+ feature.properties.面積);
     }
 }
-fetch('./dist/file/Tide_test_4326/Tide_test_4326_right-hand-rule.geojson')
+fetch('./GEOJSON_file/before/coastal/file/Tide_test_4326/Tide_test_4326_right-hand-rule.geojson')
     .then(function (response) {
         return response.json();
     })
@@ -752,7 +752,7 @@ function getCoastalName(feature, layer) {
             +'SAREA：'+ feature.properties.SAREA);
     }
 }
-fetch('./dist/file/Coastal/Coastal_4326_right-hand-rule.geojson')
+fetch('./GEOJSON_file/before/coastal/file/Coastal/Coastal_4326_right-hand-rule.geojson')
     .then(function (response) {
         return response.json();
     })
