@@ -42,14 +42,93 @@
 
     <div id="headtitle">SAR衛星多時序與近即時海岸帶整合監測平台</div>
     <div id="map" style="width: 100%;"></div>
+
+    <!-- 前人古蹟copy過來的部分 開始 -->
+    <!-- Hotpoint 海岸線變化分析 Modal -->
+    <div class="modal fade" id="hotpointModal" tabindex="-1" aria-labelledby="hotpointModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content d-flex align-items-center justify-content-center">
+            <div class="modal-header">
+                <button type="button" class="btn btn-primary" id="hotpointBtn-1">104年海岸線變化分析</button>
+                <button type="button" class="btn btn-primary" id="hotpointBtn-2">105年海岸線變化分析</button>
+                <button type="button" class="btn btn-primary" id="hotpointBtn-3">106年海岸線變化分析</button>
+                <button type="button" id="hotpointBtn-close" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+    </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <!-- 歷史影像 Carousel:縣市 -->
+    <div id="carousel-overlay" style="display:none"></div>
+    <div id="carousel-container" style="display:none" >
+        <button type="button" id="CarouselBtn-close" class="btn-close btn-close-white"  aria-label="Close"></button>
+            <div class="col-xl-12">
+                <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+                    <div class="slidecontainer">
+                        <input type="range" min="0" max="19" value="0" class="citySlider" id="citySliderRange">
+                        <datalist id="cityTickmarks"></datalist>
+                        <p id="citySliderValue"><span id="cityYear"></span>年</p>
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img id="CityPic" src="" class="d-block w-100" ></a>
+                            <div class="carousel-caption d-none d-md-block">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 歷史影像 Carousel:鄉鎮-->
+    <div id="carousel-overlay" style="display:none"></div>
+    <div id="carousel-container" style="display:none" >
+        <button type="button" id="CarouselBtn-close" class="btn-close btn-close-white"  aria-label="Close"></button>
+        <div class="col-xl-12">
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+                <div class="slidecontainer">
+                    <input type="range" min="0" max="18" value="0" class="DistrictsSlider" id="DistrictsSliderRange">
+                    <datalist id="DistrictsTickmarks"></datalist>
+                    <p id="DistrictsSliderValue"><span id="DistrictsYear"></span>年</p>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img id="DistrictsPic" src="" class="d-block w-100" ></a>
+                        <div class="carousel-caption d-none d-md-block">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <!-- 前人古蹟copy過來的部分 結束 -->
+
+
     <!-- SOCKET.IO 要放 main_kong.js 上面 -->
     <script src="./socket.io/socket.io.js"></script>
 
     <script src="MAIN.js/main_kong.js"></script>
 
 
-    
-
+    <!-- 前人古蹟copy過來的部分 開始 -->
+    <!--   資料點JS-->
+    <script src="GEOJSON_file/before/Beach.js"></script>
+    <script src="GEOJSON_file/before/Wetland.js"></script>
+    <script src="GEOJSON_file/before/Port.js"></script>
+    <script src="GEOJSON_file/before/Hotpoint.js"></script>
+    <script src="GEOJSON_file/before/City_position.js"></script>
+    <script src="GEOJSON_file/before/Districts.js"></script>
+    <script src="GEOJSON_file/before/coastal/file/Tide_post_4326/Tide_post_4326_right-hand-rule.js"></script>
+    <script src="GEOJSON_file/before/coastal/file/Tide_test_4326/Tide_test_4326_right-hand-rule.js"></script>
+    <script src="GEOJSON_file/before/coastal/file/Coastal/Coastal_4326_right-hand-rule.js"></script>
+    <script src="MAIN.js/main_before.js"></script>
+    <!-- 前人古蹟copy過來的部分 結束 -->
 
 </body>
 </html>

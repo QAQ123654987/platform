@@ -1,77 +1,77 @@
-// 初始化地圖並禁用zoom control。因預設位置在左方
-    var map = L.map('map', {
-        center: [23.60413415,120.98658104],
-        zoom: 8,
-        // zoomControl: false,
-    });
-//繪圖小工具
-var drawnItems = new L.FeatureGroup();
-map.addLayer(drawnItems);
-var drawControl = new L.Control.Draw({
-    edit: {
-        featureGroup: drawnItems
-    },
-    draw: {
-        polygon: true,
-        polyline: true,
-        rectangle: true,
-        circle: true,
-        marker: true,
-    }
-});
-map.addControl(drawControl);
-map.on(L.Draw.Event.CREATED, function (event) {
-    var layer = event.layer;
-    drawnItems.addLayer(layer);
-    var area = L.GeometryUtil.geodesicArea(layer.getLatLngs()[0]);
-    console.log(area);
-});
+// // 初始化地圖並禁用zoom control。因預設位置在左方
+//     var map = L.map('map', {
+//         center: [23.60413415,120.98658104],
+//         zoom: 8,
+//         // zoomControl: false,
+//     });
+// //繪圖小工具
+// var drawnItems = new L.FeatureGroup();
+// map.addLayer(drawnItems);
+// var drawControl = new L.Control.Draw({
+//     edit: {
+//         featureGroup: drawnItems
+//     },
+//     draw: {
+//         polygon: true,
+//         polyline: true,
+//         rectangle: true,
+//         circle: true,
+//         marker: true,
+//     }
+// });
+// map.addControl(drawControl);
+// map.on(L.Draw.Event.CREATED, function (event) {
+//     var layer = event.layer;
+//     drawnItems.addLayer(layer);
+//     var area = L.GeometryUtil.geodesicArea(layer.getLatLngs()[0]);
+//     console.log(area);
+// });
 
-//顯示滑鼠所在處經緯度
-let latlng = L.control();
-latlng.onAdd = function(map) {
-    this._div = L.DomUtil.create('div', 'latlng');
-    return this._div;
-};
-latlng.update = function(latlng) {
-    if (latlng) {
-        this._div.innerHTML = '緯度：' + latlng.lat.toFixed(4) + '<br>經度：' +
-            '' +
-            '' +
-            '' + latlng.lng.toFixed(4);
-    }
-};
-latlng.addTo(map);
+// //顯示滑鼠所在處經緯度
+// let latlng = L.control();
+// latlng.onAdd = function(map) {
+//     this._div = L.DomUtil.create('div', 'latlng');
+//     return this._div;
+// };
+// latlng.update = function(latlng) {
+//     if (latlng) {
+//         this._div.innerHTML = '緯度：' + latlng.lat.toFixed(4) + '<br>經度：' +
+//             '' +
+//             '' +
+//             '' + latlng.lng.toFixed(4);
+//     }
+// };
+// latlng.addTo(map);
 
-map.on('mousemove', function(e) {
-    latlng.update(e.latlng);
-});
+// map.on('mousemove', function(e) {
+//     latlng.update(e.latlng);
+// });
 
-// 切換底圖工具 - Basemaps套件
-    var basemaps = [
-        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-            maxZoom: 19,
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }),
-        L.tileLayer("https://wmts.nlsc.gov.tw/wmts/EMAP/default/GoogleMapsCompatible/{z}/{y}/{x}.jpg", {
-            maxZoom: 19,
-            attribution: '&copy; <a href="https://maps.nlsc.gov.tw/">國土測繪服務雲-臺灣通用電子地圖</a> contributors'
-        }),
-        L.tileLayer("https://wmts.nlsc.gov.tw/wmts/PHOTO2/default/GoogleMapsCompatible/{z}/{y}/{x}.jpg", {
-            maxZoom: 19,
-            attribution: '&copy; <a href="https://maps.nlsc.gov.tw/">國土測繪服務雲-臺灣通用正射影像圖</a> contributors'
-        })
-    ];
+// // 切換底圖工具 - Basemaps套件
+//     var basemaps = [
+//         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+//             maxZoom: 19,
+//             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+//         }),
+//         L.tileLayer("https://wmts.nlsc.gov.tw/wmts/EMAP/default/GoogleMapsCompatible/{z}/{y}/{x}.jpg", {
+//             maxZoom: 19,
+//             attribution: '&copy; <a href="https://maps.nlsc.gov.tw/">國土測繪服務雲-臺灣通用電子地圖</a> contributors'
+//         }),
+//         L.tileLayer("https://wmts.nlsc.gov.tw/wmts/PHOTO2/default/GoogleMapsCompatible/{z}/{y}/{x}.jpg", {
+//             maxZoom: 19,
+//             attribution: '&copy; <a href="https://maps.nlsc.gov.tw/">國土測繪服務雲-臺灣通用正射影像圖</a> contributors'
+//         })
+//     ];
 
-// Leaflet.Basemaps套件設定的圖磚值
-    map.addControl(
-        L.control.basemaps({
-            basemaps: basemaps,
-            tileX: 0,
-            tileY: 0,
-            tileZ: 1
-        })
-    );
+// // Leaflet.Basemaps套件設定的圖磚值
+//     map.addControl(
+//         L.control.basemaps({
+//             basemaps: basemaps,
+//             tileX: 0,
+//             tileY: 0,
+//             tileZ: 1
+//         })
+//     );
 
 // Layer Controller
     var layerControl = L.control.layers(null,null).addTo(map);

@@ -24,6 +24,13 @@ function getPostName(feature, layer) {
     }
 }
 
+// map 要在 socket.on 之外建立, 這樣子 main_before.js 才可以也用到這個 map 喔
+var map         = L.map('map', { center: [23.973, 120.979], zoom: 8 });
+var osmUrl      = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+var attribution = '© <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+var bigmap      = L.tileLayer(osmUrl, { attribution: attribution }).addTo(map);
+
+
 // Socket Io
 const socket = io.connect();
 //client 收訊息
@@ -35,10 +42,6 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
     console.log("GeoJSON_fileNames", GeoJSON_fileNames)
     console.log("TILE_fileNames", TILE_fileNames)
 
-    var map         = L.map('map', { center: [23.973, 120.979], zoom: 8 });
-    var osmUrl      = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-    var attribution = '© <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    var bigmap      = L.tileLayer(osmUrl, { attribution: attribution }).addTo(map);
 
     //創建迷你視窗
     var miniosm = new L.tileLayer(osmUrl);
