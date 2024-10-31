@@ -1,0 +1,3 @@
+前人古蹟/dist/img 底下的影像 沒有加入git, 
+在新的 platform 需要 把這些影像複製一份進去:
+platform/GEOJSON_file/before/coastal/img
