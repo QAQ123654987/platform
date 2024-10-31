@@ -1,8 +1,34 @@
+function addTextToDiv(text) {
+    const markerPlace_Post = document.querySelector(".marker-position");
+}
+// 海岸地區範圍--------------------------------------------------------------------------
+// showing the name
+function getCoastalName(feature, layer) {
+    if (feature.properties && feature.properties.CITYNAME) {
+        layer.bindPopup('<strong><text style=\"color:rgba(0,42,253,0.64);font-size:17px\">－潮間帶地形－</text></strong>'
+            +'</br>'
+            +'位於：'+feature.properties.CITYNAME
+            +'</br>'
+            +'STYPE：'+feature.properties.STYPE
+            +'</br>'
+            +'SAREA：'+ feature.properties.SAREA);
+    }
+}
+// 海岸帶範圍(公告)--------------------------------------------------------------------------
+// showing the name of the 縣市、面積
+function getPostName(feature, layer) {
+    if (feature.properties && feature.properties.所在縣市) {
+        layer.bindPopup('<strong><text style=\"color:rgba(0,42,253,0.64);font-size:17px\">－潮間帶－</text></strong>'
+            +'</br>'
+            +'位於：'+feature.properties.所在縣市+'</br>'+'面積：'+ feature.properties.面積);
+    }
+}
 
 // Socket Io
 const socket = io.connect();
 //client 收訊息
 socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNames, TILE_fileNames) {
+
     console.log("result_Path", result_Path)
     console.log("Tile_Path", Tile_Path)
     console.log("dates", dates)
@@ -416,15 +442,45 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
     // 創建 潮間帶 按鈕
     // 讀取geoJson: 潮間帶地形 Coastal
     coastal_layer = L.layerGroup()
-    $.getJSON("GEOJSON_file/coastal/file/Coastal/Coastal_4326.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+    $.getJSON("GEOJSON_file/coastal/file/Coastal/Coastal_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
         // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
         // console.log("data", data)  // 確定是 polygon
         var geoJSON_layer = L.geoJSON(data, {          
             // onEachFeature, 特點是 會把 data裡面的 每筆feature 和 layer return 給 user使用, 這裡 layer用不到 只有用到 feature這樣子喔～  
             onEachFeature: function (feature, layer) {
                 // 得到的 每筆 feature 和 layer 要 做什麼寫這裡
-                var temp_polygon = L.polygon(feature.geometry.coordinates);
-                return temp_polygon;
+                layer.on("mouseover", function (e) {
+                    // bindPopup
+                    getCoastalName(feature, layer);
+                    // show 縣市
+                    addTextToDiv(feature.properties.所在縣市);
+                    this.openPopup();
+                    // style
+                    this.setStyle({
+                        fillColor: "#27ca4f",
+                        weight: 2,
+                        color: "#27ca4f",
+                        fillOpacity: 0.7
+                    });
+                });
+                layer.on("mouseout", function () {
+                    this.closePopup();
+                    // style
+                    this.setStyle({
+                        fillColor: "#1c865b",
+                        weight: 2,
+                        color: "#1c865b",
+                        fillOpacity: 0.2
+                    });
+                });
+
+            },
+            // Set the default style for all polygons
+            style: {
+                fillColor: "#1c865b",
+                weight: 2,
+                color: "#1c865b",
+                fillOpacity: 0.2
             }
             
         });
@@ -436,15 +492,37 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
 
     // 讀取geoJson: 潮間帶地形(公告) Tide_post
     tide_post_layer = L.layerGroup()
-    $.getJSON("GEOJSON_file/coastal/file/Tide_post_4326/Tide_post_4326.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+    $.getJSON("GEOJSON_file/coastal/file/Tide_post_4326/Tide_post_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
         // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
         // console.log("data", data)  // 確定是 polygon
         var geoJSON_layer = L.geoJSON(data, {          
             // onEachFeature, 特點是 會把 data裡面的 每筆feature 和 layer return 給 user使用, 這裡 layer用不到 只有用到 feature這樣子喔～  
             onEachFeature: function (feature, layer) {
                 // 得到的 每筆 feature 和 layer 要 做什麼寫這裡
-                var temp_polygon = L.polygon(feature.geometry.coordinates);
-                return temp_polygon;
+                layer.on("mouseover", function (e) {
+                    // bindPopup
+                    getPostName(feature, layer);
+                    // show 縣市
+                    addTextToDiv(feature.properties.所在縣市);
+                    this.openPopup();
+                    // style
+                    this.setStyle({
+                        fillColor: "#eb4034",
+                        weight: 2,
+                        color: "#eb4034",
+                        fillOpacity: 0.7
+                    });
+                });
+                layer.on("mouseout", function () {
+                    this.closePopup();
+                    // style
+                    this.setStyle({
+                        fillColor: "#3388ff",
+                        weight: 2,
+                        color: "#3388ff",
+                        fillOpacity: 0.2
+                    });
+                });
             }
             
         });
@@ -456,15 +534,44 @@ socket.on('KongConnect', function( result_Path, Tile_Path, dates, GeoJSON_fileNa
 
     // 讀取geoJson: 潮間帶地形(試辦) Tide_test
     tide_test_layer = L.layerGroup()
-    $.getJSON("GEOJSON_file/coastal/file/Tide_test_4326/Tide_test_4326.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
+    $.getJSON("GEOJSON_file/coastal/file/Tide_test_4326/Tide_test_4326_right-hand-rule.geojson", function (data) {               // 檔案丟入 jQuery 的 getJSON, 得到的data 要做什麼處理 寫在 第二個參數的function內
         // 建立Leaflet圖層(用 得到的 data 要拿來建), 使用 L.getJSON來建立圖層, 第一個參數放data, 第二個參數放 處理data的 物件, 物件長相可參考 https://leafletjs.com/examples/geojson/
         // console.log("data", data)  // 確定是 polygon
         var geoJSON_layer = L.geoJSON(data, {          
             // onEachFeature, 特點是 會把 data裡面的 每筆feature 和 layer return 給 user使用, 這裡 layer用不到 只有用到 feature這樣子喔～  
             onEachFeature: function (feature, layer) {
                 // 得到的 每筆 feature 和 layer 要 做什麼寫這裡
-                var temp_polygon = L.polygon(feature.geometry.coordinates);
-                return temp_polygon;
+                layer.on("mouseover", function (e) {
+                    // bindPopup
+                    getTestName(feature, layer);
+                    // show 縣市
+                    addTextToDiv(feature.properties.所在縣市);
+                    this.openPopup();
+                    // style
+                    this.setStyle({
+                        fillColor: "rgba(220,172,52,0.91)",
+                        weight: 2,
+                        color: "rgba(220,172,52,0.91)",
+                        fillOpacity: 0.7
+                    });
+                });
+                layer.on("mouseout", function () {
+                    this.closePopup();
+                    // style
+                    this.setStyle({
+                        fillColor: "#5d4da2",
+                        weight: 2,
+                        color: "#5d4da2",
+                        fillOpacity: 0.2
+                    });
+                });
+            },
+            // Set the default style for all polygons
+            style: {
+                fillColor: "#5d4da2",
+                weight: 2,
+                color: "#5d4da2",
+                fillOpacity: 0.2
             }
             
         });
