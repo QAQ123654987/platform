@@ -109,11 +109,8 @@
     </div>
     <!-- 前人古蹟copy過來的部分 結束 -->
 
-
-    <!-- SOCKET.IO 要放 main_kong.js 上面 -->
-    <script src="./socket.io/socket.io.js"></script>
-
-    <script src="MAIN.js/main_kong.js"></script>
+    <!-- map的建立 抽出來 給 所有.js 使用 -->
+    <script src="MAIN.js/main_base_map.js"></script>
 
 
     <!-- 前人古蹟copy過來的部分 開始 -->
@@ -129,6 +126,12 @@
     <script src="GEOJSON_file/before/coastal/file/Coastal/Coastal_4326_right-hand-rule.js"></script>
     <script src="MAIN.js/main_before.js"></script>
     <!-- 前人古蹟copy過來的部分 結束 -->
+
+
+    <!-- 新版加入的東西 -->
+    <!-- SOCKET.IO 要放 main_kong.js 上面 -->
+    <script src="./socket.io/socket.io.js"></script>
+    <script src="MAIN.js/main_kong.js"></script>
 
 </body>
 </html>
