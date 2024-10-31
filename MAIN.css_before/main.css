@@ -1,0 +1,109 @@
+@import url(https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous"");
+/*十三處浸淤熱點modal*/
+.modal{
+  --bs-modal-width: auto !important;
+}
+.modal-fullscreen {
+  width: 97.5vw !important;
+  height: 100%!important;
+}
+.modal-content {
+  background-color:rgba(0,0,0,0.5) ;
+}
+.modal-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+/*縣市歷年影像輪播*/
+.DistrictsSlider, .citySlider{
+  z-index: 999;
+  display:flow-root;
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-appearance: none;
+  width: 40%;
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+.DistrictsSlider, .citySlider:hover {
+  opacity: 1;
+}
+.DistrictsSlider, .citySlider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #04AA6D;
+  cursor: pointer;
+}
+.DistrictsSlider, .citySlider::-moz-range-thumb {
+  width: 40%;
+  border-radius: 50%;
+  background: #04AA6D;
+  cursor: pointer;
+}
+#DistrictsSliderValue, #citySliderValue{
+  display:flow-root;
+  position: absolute;
+  top: 90%;
+  left: 49%;
+  z-index: 990;
+}
+.btn-close {
+  z-index: 101;
+  opacity: 0.9;
+  background: #b0bbc7 var(--bs-btn-close-bg) center/1em auto no-repeat;
+}
+#CarouselBtn-close{
+  position: absolute;
+  top: 6%;
+  right: 26.07%;
+}
+#hotpointBtn-close{
+  position: absolute;
+  top: 0.4%;
+  right: 1.2%;
+}
+#carousel-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 99;
+}
+#carousel-container{
+  position:absolute;
+  z-index:100;
+  height: 100vh;
+  top: 0; left:0; bottom:0; right: 0;
+}
+.carousel-item.active{
+  /*position: relative;*/
+  align-items:center;
+}
+.w-100 {
+  height: 100vh;
+  margin: 0;
+  top: 0; left:0;
+  object-fit: contain;
+}
+#DistrictsPic #CityPic{
+  height: 100vh;
+  float: top;
+  top:0;
+  left:0;
+  z-index: 998;
+}

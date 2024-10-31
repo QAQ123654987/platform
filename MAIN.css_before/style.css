@@ -1,0 +1,69 @@
+html,body {
+    height: 100%;
+    font-family: 思源黑體 , 微軟正黑體 , 蘋方黑體 , Helvetica , Arial , sans-serif , serif;
+    color:white;
+}
+#map {
+    position:absolute;
+    z-index:1;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    top: 0; left:0; bottom:0; right: 0;
+    font-family: 思源黑體 , 微軟正黑體 , 蘋方黑體 , Helvetica , Arial , sans-serif , serif;
+    color:white;
+}
+.leaflet-top ,leaflet-control {
+    margin-top: 40px;
+}
+/*body::-webkit-scrollbar {*/
+/*    display: none;*/
+/*}*/
+#navigation_bar {
+    position:relative;
+    top:0;
+    left:0;
+    z-index:101;
+    width:100%;
+    height:5%;
+    background: black;
+    font-weight:bold;
+    font-size:1.5em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.basemap alt {
+    position: relative;
+    bottom: 10px;
+}
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: black;
+    background: rgb(0, 5, 253);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+.leaflet-popup-content-wrapper {
+    padding: 1px;
+    text-align: center !important;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight:bold;
+}
+.marker-cluster div{
+    color:black;
+}
+.latlng {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #999;
+    padding: 5px;
+    font-family: 思源黑體 , 微軟正黑體 , 蘋方黑體 , Helvetica , Arial , sans-serif , serif;;
+    font-size: 15px;
+}
