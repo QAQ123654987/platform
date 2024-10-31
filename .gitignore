@@ -2,3 +2,4 @@
 *.tif
 node_modules
 GEOJSON_file/result/TILE_file/*
+GEOJSON_file/before/coastal/img/GIS_image_data/*
